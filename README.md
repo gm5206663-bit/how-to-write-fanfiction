@@ -61,6 +61,8 @@ The full workflow — from empty folder to finished serial — is in [`docs/02_w
 | [`docs/05_glossary.md`](docs/05_glossary.md) | Every term: AT, butterfly, live edge, knowledge firewall, ore… |
 | [`examples/minigate.py`](examples/minigate.py) | A working 5-check gate in ~100 lines, stdlib Python, with selftest |
 | [`examples/github-actions-gate.yml`](examples/github-actions-gate.yml) | Copy-paste CI: make every push/PR pass the gate selftest on GitHub Actions |
+| [`docs/06_automation.md`](docs/06_automation.md) | The upgrade path: live CI, self-syncing profiles, drift scans on schedules, token hygiene |
+| [`docs/07_share_kit.md`](docs/07_share_kit.md) | Ready-to-post intros + essay + etiquette for sharing your gated serials with the world |
 | [`templates/`](templates/) | Copy-paste skeletons: serial foundation, status panel, chapter, canon ledger |
 
 ## The living tools (used daily, in their own repos)
