@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0%20First%20Edition-brightgreen?style=flat-square" alt="v1.0.0"></a>
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions"><img src="https://img.shields.io/badge/discussions-open-9cf?style=flat-square&logo=github" alt="Discussions"></a>
-  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/workflows/gate.yml"><img src="https://img.shields.io/github/actions/workflow/status/gm5206663-bit/how-to-write-fanfiction/gate.yml?label=gate&style=flat-square" alt="gate CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
 
@@ -61,6 +60,7 @@ The full workflow — from empty folder to finished serial — is in [`docs/02_w
 | [`docs/04_case_studies.md`](docs/04_case_studies.md) | Real numbers and real lessons from my 10+ serials |
 | [`docs/05_glossary.md`](docs/05_glossary.md) | Every term: AT, butterfly, live edge, knowledge firewall, ore… |
 | [`examples/minigate.py`](examples/minigate.py) | A working 5-check gate in ~100 lines, stdlib Python, with selftest |
+| [`examples/github-actions-gate.yml`](examples/github-actions-gate.yml) | Copy-paste CI: make every push/PR pass the gate selftest on GitHub Actions |
 | [`templates/`](templates/) | Copy-paste skeletons: serial foundation, status panel, chapter, canon ledger |
 
 ## The living tools (used daily, in their own repos)

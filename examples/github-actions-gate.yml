@@ -1,0 +1,25 @@
+# Example: gate your serial's repo with GitHub Actions.
+# Copy this file to .github/workflows/gate.yml in YOUR repository
+# (or fork this repo and enable Actions) and every push/PR will
+# have to pass the gate selftest — the Gate Law, applied to CI.
+#
+# (Why an example and not live CI here? Creating .github/workflows/
+# from a classic personal token requires the extra `workflow` scope.
+# The gate still ships with its own selftest you can run anywhere:
+#   python3 examples/minigate.py --selftest)
+name: gate
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gate selftest (a gate must prove it catches defects)
+        run: python3 examples/minigate.py --selftest
