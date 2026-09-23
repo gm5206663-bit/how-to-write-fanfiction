@@ -4,6 +4,12 @@
 
 # How to Write Gated Fan Fiction — The Complete Method
 
+<p align="center">
+  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0%20First%20Edition-brightgreen?style=flat-square" alt="v1.0.0"></a>
+  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions"><img src="https://img.shields.io/badge/discussions-open-9cf?style=flat-square&logo=github" alt="Discussions"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
+</p>
+
 > The system I use to write long-form fan fiction that stays **canon-true for hundreds of thousands of words**.
 > Proven on **10+ Soul Land (斗罗大陆) serials** — one of them 116 chapters / ~354,700 words with every chapter machine-checked before shipping.
 > Written for **any fandom**, with Soul Land as the working example.
