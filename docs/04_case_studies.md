@@ -35,7 +35,7 @@ Every law in this guide was paid for. These are the receipts.
 
 ## Devouring Dragon — Soul Land (reincarnator, Holy Spirit Cult)
 
-**18 chapters · the plain-language serial.**
+**21 chapters · the plain-language serial.**
 
 - Session ruling **s40 (PLAIN LANGUAGE LAW)**: early chapters buried simple events under heavy prose. The re-carve to plain words made every later chapter faster to write *and* to gate.
 
