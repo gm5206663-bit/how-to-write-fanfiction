@@ -16,7 +16,7 @@ You built a gated serial. If you want readers beyond your own repo, here are rea
 >
 > It's fandom-neutral — works for any source material: **[how-to-write-fanfiction](https://github.com/gm5206663-bit/how-to-write-fanfiction)**
 >
-> And the serials are readable here: **[The Soul Library](https://gm5206663-bit.github.io/soul-library/)** — 181 chapters, every one gate-checked. AMA about the method; I have receipts for everything.
+> And the serials are readable here: **[The Soul Library](https://gm5206663-bit.github.io/soul-library/)** — 183 chapters, every one gate-checked. AMA about the method; I have receipts for everything.
 
 ## The essay version (AO3/AO3-adjacent, blogs)
 
