@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0%20First%20Edition-brightgreen?style=flat-square" alt="v1.0.0"></a>
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions"><img src="https://img.shields.io/badge/discussions-open-9cf?style=flat-square&logo=github" alt="Discussions"></a>
+  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/workflows/gate.yml"><img src="https://img.shields.io/github/actions/workflow/status/gm5206663-bit/how-to-write-fanfiction/gate.yml?label=gate&style=flat-square" alt="gate CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
 
