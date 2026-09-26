@@ -58,7 +58,7 @@
 ## Clean and Clear Law — Show Evolution Via Daily Life Action — v5.1 Evolution Chain Fix
 
 - **Old bad style (terminal nonsense):** avg 6.8 med 5 repeating terminal per sentence — user rejected — plus terminal is nonsense, there is no such thing — techniques evolve.
-- **New good style (evolution chain):** avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable techniques fuse like three fuse and become a High, how logically things work.
+- **New good style (evolution chain):** avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — evolution chain: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work.
 
 ---
 

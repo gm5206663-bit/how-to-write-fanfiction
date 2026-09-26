@@ -15,7 +15,7 @@
 
 ## Storm Frost Ghost Wolf — Evolution at High+purple — F17 — v5.1 Evolution Chain Fix
 
-- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — v5.1 evolution chain fix: no terminal, Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High
+- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — v5.1 evolution chain fix: no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High
 - **Concealment:** Ring Veil hides purple as yellow fool shows two thousand-year — Low→Mid→High evolution chain
 - **Skills:**
   - **Ghost Veil:** 3 phantom clones hiding real body — Advanced Ghost Doppelganger — evolution chain High→Top
@@ -50,7 +50,7 @@
 
 ## Your OC Skills — Template — v5.1 Evolution Chain
 
-- **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — include golden lock iron-gray coat etc] — Low 1-100% → Mid → High evolution chain — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse
+- **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — include golden lock iron-gray coat etc] — Low 1-100% → Mid → High evolution chain — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse
 - **Second Ring — [Name] — [Age]y — [Effect]:** [Description] — evolution chain
 - **Third Ring — [Name] — [Age]y — [Effect]:** [Description — evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow] — evolution chain
 - **Full Grant:** 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — F11

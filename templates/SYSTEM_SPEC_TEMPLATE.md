@@ -28,7 +28,7 @@
 
 ## Evolution — F17 — v5.1 Evolution Chain Fix
 
-- **Evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc but evolution chain Low→Mid→High — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High** — F17
+- **Evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc but evolution chain Low→Mid→High — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High** — F17
 
 ## Life-Skills — F18 — v5.1 Evolution Chain Fix — No Terminal
 
@@ -36,7 +36,7 @@
 
 ## Clean and Clear Law — Avg 14-18 Band 2400-3400 Over60 0 The-Way 0 Bare 0 — v5.1 Evolution Chain Fix
 
-- **Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages — evolution chain Low→Mid→High, no terminal** — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected — new good style avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w — evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable techniques fuse like three fuse and become a High, how logically things work
+- **Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages — evolution chain Low→Mid→High, no terminal** — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected — new good style avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w — evolution chain: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work
 
 ---
 

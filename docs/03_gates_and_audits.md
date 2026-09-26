@@ -1,6 +1,6 @@
 # 03 · Gates and Audits — v2.1 Advanced Perfect Edition — Evolution Chain Fix
 
-**Every gate was paid for. v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
+**Every gate was paid for. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
 
 ---
 
@@ -28,7 +28,7 @@ Each serial has its own gate count, but all share core:
 - **Check:** No valid MASTERED terminal — grep -r "100%.*MASTERED" docs/ templates/ foundation/ must return 0 valid — only explanatory "There is no such thing as 100% MASTERED" allowed as documentation of fix
 - **Check:** Evolution chain law present — Low 1-100% → Mid → High instant evolution second it hits 100%
 - **Check:** Fusion law present — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High
-- **Check:** Examples: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top — Running Low→Wind Stride Mid→Storm Step High — Body Control Low→Flowing Body Mid→Storm Body High — Soul Power Control Low→Flowing Control Mid→Spirit Control High — Five Senses Low→Keen Senses Mid→Spirit Eye High
+- **Check:** Examples: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — Basic Running Low different name → Wind Stride Mid different name → Storm Step High different name → Ghost Wind Burst Top different name — different name per grade — Body Control Low→Flowing Body Mid→Storm Body High — Soul Power Control Low→Flowing Control Mid→Spirit Control High — Five Senses Low→Keen Senses Mid→Spirit Eye High
 - **Tool:** `banned_token_check.py` includes MASTERED terminal in banned list — except when preceded by "no such thing as" or "was nonsense" — drift guard fails build on any stale MASTERED terminal as valid
 
 ## Panel Gate — F22
@@ -67,4 +67,4 @@ Each serial has its own gate count, but all share core:
 
 ---
 
-*v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top — Running Low→Wind Stride Mid→Storm Step High — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No terminal — 100% is evolution trigger.*
+*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — Basic Running Low different name → Wind Stride Mid different name → Storm Step High different name → Ghost Wind Burst Top different name — different name per grade — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No terminal — 100% is evolution trigger.*
