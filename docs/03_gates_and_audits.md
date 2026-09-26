@@ -1,61 +1,151 @@
-# 03 · Gates and Audits — how to build your own checker
+# 03 · Gates and Audits — how to build your own checker — v2.0 Advanced Perfect Edition
 
-A **gate** is a small program that must exit 0 before a chapter ships. This page tells you what it checks and how to build one. A complete working example lives at [`examples/minigate.py`](../examples/minigate.py) (~100 lines, stdlib only, with selftest).
+**A gate is a small program that must exit 0 before a chapter ships. This page tells you what it checks and how to build one. A complete working example lives at examples/minigate.py (~100 lines stdlib only with selftest). Advanced gates from 12+ serials included.**
 
 ---
 
-## What a gate checks
+## What a gate checks — all checks from all projects
 
-| Check | Catches | Real bug it caught in my serials |
-|---|---|---|
-| **Banned-value scan** | prose stating numbers the panel has superseded or banned | stale copies of a project presented `Dawnflame 1,120` / `Dawn-Iron 2,040` as current — values the live panel explicitly banned |
-| **Live-edge consistency** | README/panel claiming a different chapter than the disk | two archived copies frozen at Ch 31 while the serial was at Ch 52 |
-| **Sequence integrity** | missing/duplicate chapter numbers | chapter files renamed by hand, leaving gaps |
-| **Ledger footer** | chapters shipped without recording canon consumed + butterflies | whole chapters consuming canon with zero ledger trail |
-| **Knowledge firewall** | the OC knowing something before the chapter that allows it | a reincarnator OC casually knowing cult secrets 40 chapters early |
-| **Panel/wordcount floors** | chapters under the serial's own minimums | scenes that quietly thinned out mid-arc |
+| Check | Catches | Real bug it caught in my serials | Which serial |
+|---|---|---|---|
+| **Banned-value scan** | prose stating numbers panel superseded or banned | stale copies presented Dawnflame 1,120 / Dawn-Iron 2,040 as current — values live panel explicitly banned | Fire Phoenix private (5 copies disaster) |
+| **Live-edge consistency** | README/panel claiming different chapter than disk | two archived copies frozen at Ch31 while serial at Ch52 | Fire Phoenix |
+| **Sequence integrity** | missing/duplicate chapter numbers | chapter files renamed by hand leaving gaps | Adaptive Prodigy |
+| **Ledger footer** | chapters shipped without recording canon consumed + butterflies | whole chapters consuming canon with zero ledger trail | Devouring Dragon |
+| **Knowledge firewall** | OC knowing something before chapter that allows it | reincarnator OC casually knowing cult secrets 40 chapters early | Holy Spirit, Varun |
+| **Panel/wordcount floors** | chapters under serial's own minimums | scenes quietly thinned out mid-arc | Golden Lion (2800 floor from ch3) |
+| **Canon copy check** | verbatim plagiarism vs canon receipts | early Lan Shen transcribed translation dialogue 297 verbatim words — re-voiced to 0-63 | Lan Shen V2 |
+| **Marker-leak grep** | codex glyph reaching finished prose | 8 glyphs widened 2026-09-20 | Lan Shen |
+| **Privacy grep** | personal email / token / sandbox id | author's real email, ghp_ tokens, sandbox id, arena.local host — building each pattern from pieces so script does not match itself | Lan Shen layer 5 |
+| **Build hygiene** | __pycache__ / .pyc / .bak / .DS_Store | — | Lan Shen layer 6 |
+| **Style gate** | voice law measured from author's corpus | monotone prose s25, style offence s34 avg 62-64 words single sentences 328 and 430 words one register 0.8 dialogue lines per 1000w 20× less | Devouring Dragon, Golden Lion |
+| **Measure prose** | floor/ceiling/60-cap + retired-word hits + the-way tic | Grey Wolf perfect rebuild: band 2400-3400, over60 0, the-way 0, bare 0, avg 14-18 clean and clear vs old avg 6.8 med 5 repeating 100% MASTERED High | Grey Wolf v0.7.0 |
+| **Panel ledger sync** | frozen meter fails build, ledger rows IN SYNC | Grey Wolf 80 rows IN SYNC, check_panels.py drift guard | Grey Wolf |
+| **Date arithmetic** | every "N days ago / N days later" recomputed by hand against day map | caught 9 month-count errors in ch9 alone and 4 stale year counts in ch13 | Lan Shen check (d) |
+| **Digits-in-prose** | digits outside fences | — | MCU Stark Heir + Eternal (zero-digit) |
+| **Dialogue floor** | dialogue lines per chapter | Chapter_01 96 lines, Chapter_02 83, Chapter_03 67, Chapter_04 72 — floor enforced | Stark Heir G4 |
+| **Anchor order** | single-anchor order, span-contiguity needs start-end panels | Chapter_01 anchor 2008 OK, Chapter_02 same-era sequence allowed | Stark Heir G5 |
+| **Forbidden future** | denylist absent from prose | denylist ['Chitauri','Ultron','Extremis','Vibranium','Sokovia','Blip','Thanos','Avengers','Infinity'] absent, ['Uni-Mind','Tiamut','Emergence','Blip','Thanos','Kro'] absent | Stark Heir M2, Eternal M2 |
+| **Marker discipline** | markers fenced only, cards ≤1 and last | — | Stark Heir G7 |
+| **Manifest edge** | edge chN matches N chapter files | edge ch4 matches 4 files, edge ch3 matches 3 files | Stark Heir M1, Eternal M1 |
+| **Timeline monotonicity** | no chapter may travel back in time, each row's real-age span must start at-or-after previous row's close | — | Devouring Dragon lint_continuity.py |
+| **Timeline coverage** | every chapter on disk must have "written (chN…)" row, no row may reference chapter that does not exist | — | Devouring Dragon lint |
+| **Places references** | every "(chN)" citation must point at existing chapter (or one of next two shipped is fine? NO — forward-reference mistake) | — | Devouring Dragon lint |
+| **Continuity coverage** | chapters ch1..chN all present in anchor/recap tables | — | Devouring Dragon lint |
+| **OC status stale** | OC_STATUS.md generated by build_oc_status.py carries everything about him regenerates on every ship, Sentinel fails build if stale | — | Devouring Dragon s55 |
+| **Library snapshot vs disk** | library snapshot count vs chapter files on disk | library edge Ch15 vs disk Ch15, etc — 25 checks | Soul-library sentinel |
+| **Profile README vs disk** | public profile README live-edge vs disk fetched live | — | Sentinel |
+| **Kit README serial-row counts vs disk** | kit README serial-row counts vs disk | — | Sentinel |
+| **Control Centre registered edge vs disk** | Control Centre registered edge vs disk if checkout given | — | Sentinel |
 
-## The three rules of gates
+## The three rules of gates (advanced)
 
-1. **A gate must selftest.** Before trusting a checker, feed it known-bad input and prove it fires. My gates run a defect-class selftest (10/10 classes caught on the real ones; 5/5 on the minigate example). A check that has never caught anything is decoration.
-2. **Never weaken the gate to pass it.** If the gate fails, the chapter is wrong or the panel is stale. Fix the *work*, not the *test*. The moment you edit a check "just to get through", the gate is dead and every future pass is a rubber stamp.
-3. **Never trust only the project's own checker.** A checker shares the project's blind spots — if the scanner hard-codes the wrong filenames, it reads zero firewalls and says PASS (this happened: a project declared its firewalls in a file the scanner didn't know, the gate reported "0 firewalls", and a human almost believed it). The fix: an **independent drift scanner** built on different assumptions, run side-by-side. Two checkers that disagree is the most honest alarm in the system.
+1. **A gate must selftest.** Before trusting checker, feed known-bad input and prove fires. My gates run defect-class selftest (10/10 classes caught on real ones; 5/5 on minigate example; 20 checks lan_shen selftest.py every injected defect caught and named). A check that has never caught anything is decoration. A gate that has never failed selftest is rubber stamp.
 
-## Building your gate: the minimal recipe
+2. **Never weaken the gate to pass it.** If gate fails, chapter wrong or panel stale. Fix work not test. Moment you edit check "just to get through", gate dead and every future pass rubber stamp.
+
+3. **Never trust only project's own checker.** Checker shares project's blind spots — if scanner hard-codes wrong filenames, it reads zero firewalls and says PASS (happened: scanner hard-coded 11 SL4-specific firewall filenames, so project declaring firewalls in differently-named file read as "zero firewalls" — scanner bug made generic after, and project genuinely lacked machine-readable live-edge manifest authored after, plus two stale "do not write Chapter 1 yet" headers sitting above contradicted later sections). Fix: independent drift scanner built on different assumptions side-by-side. Two checkers disagree is most honest alarm. Examples: soul-land-universal-kit/tools/ship_chapter.py independent, soul-library/tools/sentinel.py independent workspace health scan, storyos-site/scripts/drift.py independent stale-edge scanner does not trust project's checker, the-universal-storyline-creation/tools/selftest.py + validate.py.
+
+## Building your gate: minimal vs advanced recipe
+
+### Minimal (examples/minigate.py)
 
 ```
 CONFIG   = your serial's contract: banned values, firewall terms, floors, file layout
-CHECKS   = pure functions: take the repo root, return pass/fail per rule
+CHECKS   = pure functions: take repo root, return pass/fail per rule
 GATE     = run all checks, print PASS/FAIL lines, exit 0 only if all pass
-SELFTEST = build tiny throwaway serials, each with exactly one defect,
-           assert the gate fails on every one — and passes on a clean one
+SELFTEST = build tiny throwaway serials, each with exactly one defect, assert gate fails on every one — and passes on clean one
 ```
 
-Design notes that matter:
+Design notes minimal:
+- Checks read files, never memory
+- One defect class per check
+- Exit codes contract: 0 = ship, non-zero = loop not finished, wire into commit habit: no green no push
+- Keep stdlib-only, Python 3.9+
 
-- **Checks read files, never memory.** The gate's opinion of "current" comes from disk and the panel, not from what you remember writing.
-- **One defect class per check.** When the gate fails, the message should name the file and the exact reason — a gate that says "something is wrong" is a gate you learn to ignore.
-- **Exit codes are the contract.** `0` = ship. Non-zero = the loop is not finished. Wire it into your commit habit: *no green, no push.*
-- **Keep it stdlib-only.** A checker with dependencies is a checker that breaks on a new machine. Mine run on bare Python 3.9+.
+### Advanced Perfect Edition (from 12+ serials)
 
-## The human audit (the other half)
+**Grey Wolf perfect rebuild run_all.py — 4 steps:**
+```
+[1/4] manuscript synced: 6 reader editions + FULL edition (manuscript/ gains FULL edition)
+[2/4] style gate passed — style_gate.py: band 2400-3400, avg 14-18, over60 0, the-way 0, bare 0, dialogue density, etc.
+[3/4] site built — build_site.py: 6 chapters + index -> docs/
+[4/4] panel ledger in sync — check_panels.py: ledger rows 80 IN SYNC, frozen meter fails build
+```
 
-The machine catches mechanical lies: wrong numbers, stale edges, missing ledgers. It cannot catch:
+**Lan Shen 9 layers:**
+```
+1  verify.py            9 structural gates (7 inherited from kit + 2 local) RESULT: PASS
+2  style_gate.py        voice law measured from author's corpus RESULT: PASS (warnings)
+3  canon_copy_check.py  narration 12-grams · quoted runs >= 7 words · density <= 120 words RESULT: PASS
+4  marker-leak grep     no codex glyph may reach finished prose (8 glyphs) PASS
+5  privacy grep         no personal email / token / sandbox id / arena.local host PASS
+6  build hygiene        no __pycache__ / .pyc / .bak / .DS_Store PASS
+7  selftest.py          20 checks — proves every gate can fail PASS
+8  kit selftest.py      inherited-gate regression against vendored kit PASS
+9  banned_token_check.py  regression tokens — values known-dead PASS
++ check (d) date arithmetic: every "N days ago / N days later" recomputed by hand against day map — highest-yield check
+```
 
-- **Voice** — does this canon character sound like themselves? (style-match, ore notes)
-- **Centering** — did the OC quietly take over a canon moment? (panel audit)
-- **Earned bends** — is this butterfly caused by the story so far, or by what I want to happen next?
+**MCU Stark Heir + Eternal mcu_verify.py — 8 gates + 2 manifest:**
+```
+G1 unreadable-script — CJK regex per line, scanned 22 files 0 hits
+G2 backslash-n — literal \n surviving into VALUE rejected
+G3 digits-in-prose — 4 chapters prose outside fences 0 digits (zero-digit law)
+G4 dialogue-floor — Chapter_01 96 lines, Chapter_02 83, Chapter_03 67, Chapter_04 72 (floor enforced)
+G5 anchor-order — Chapter_01 anchor 2008 OK, same-era sequence allowed, single-anchor order only span-contiguity needs start-end panels
+G6 placeholders — 0 placeholders (foundation TBDs out of scope)
+G7 marker-discipline — markers fenced only cards ≤1 and last
+M1 manifest-edge — edge ch4 matches 4 files, edge ch3 matches 3 files
+M2 forbidden-future — denylist ['Chitauri','Ultron',...] absent, ['Uni-Mind','Tiamut',...] absent
+TOTAL: PASS 0 failures
+```
 
-That's the self-audit step: read your own chapter *as a reader who loves the source*, against every law, before the gate ever runs. Machine for facts, human for truth.
+**Devouring Dragon + Soul Library advanced:**
+```
+tools/measure_prose.py: floor/ceiling/60-cap + retired-word hits + the-way tic cap 2 + one-line beat paragraphs allowed house style
+tools/build_oc_status.py: OC status sheet generated from authority files glance table full sheet §1-8 verbatim life ledger live edge next chapter, regenerates on every ship, Sentinel 2 new checks fail build if stale (25 checks total)
+tools/ship_chapter.py: one-command chapter ship — WHAT IT AUTOMATES mechanical 80%: gates first measure_prose floor/ceiling/60-cap + verify single-file + full project sweep ship STOPS if any fails, kit root README chapter count bumped LIVE BUILD line + tree-table row, serial README LIVE EDGE/NEXT BEAT block swapped machine block <!-- LIVE-EDGE-START ... LIVE-EDGE-END --> wholesale block replace nothing stale survives, site chapter copied serials.json appended search_data.json rebuilt analytics rebuilt news.html + feed.xml entries calendar edge, profile README chapter counts bumped pushed needs SHIP_TOKEN env, sentinel re-run at end expects green. WHAT IT DELIBERATELY DOES NOT AUTOMATE authored 20%: STATUS_PANEL entry + LIVE EDGE line, HIS_STATUS_PANEL live line, ADAPTATION_LOG delta, SERIAL_LOG row, CONTINUITY row, PLACES/TIMELINE rows checklist printed refuses "shipped" until --mirrors-done. Exit 0 only when every automated step verified.
+tools/analytics.py: measure every chapter house way sentence avg dialogue density length write analytics_data.json measured never typed
+tools/build_recaps.py: build recaps_data.json The Story So Far from kit devouring-dragon foundation/CONTINUITY.md two table formats LAST occurrence per chapter wins recap table overrides anchor table
+tools/lint_continuity.py: cross-chapter consistency checks TIMELINE monotonicity no chapter may travel back in time each row's real-age span must start at-or-after previous row's close, TIMELINE coverage every chapter on disk must have written row no row may reference chapter that does not exist, PLACES references every "(chN)" citation must point at existing chapter, CONTINUITY coverage chapters ch1..chN all present in anchor/recap tables, exit 0 clean
+tools/sentinel.py: independent workspace health scan scans kit + library RUNS real gates checks every live-edge claim it can find writes sentinel.html + sentinel_data.json into site root every value measured never typed re-run any time python3 tools/sentinel.py --kit /path/to/kit, checks per serial panel/README live-edge vs chapter files on disk library snapshot vs disk gate result actually executed where gate exists workspace checks kit README serial-row counts vs disk Control Centre registered edge vs disk if checkout given public profile README live-edge vs disk fetched live, lesson counting *.md in chapters/ dir over-counts when dir carries notes/README files (Tide false-positive) count only chapter-numbered files checker must measure thing it claims to measure.
+```
 
-## Drift scanning (advanced)
+**StoryOS + Control Centre:**
+```
+storyos-site/scripts/build.py: scans StoryOS workspace one or more project folders emits self-contained static payload into data/ — data/index.json portal gates growth integrity small load first, data/state/<proj>.json full state locks firewalls characters decisions rules, data/chapters/<proj>/<n>.json one chapter prose footer separated + coverage, data/vault/<proj>.json every file path bytes sha256 kind, data/issues.json independent drift/stale-edge findings + scanner-gap proof, design notes no third-party dependencies Python 3.9+ stdlib only published state DERIVED FROM PROJECT'S OWN FILES never hard-coded here authority order foundation/CURRENT_STATE_MANIFEST.json -> foundation/STATUS_PANEL.md -> HANDOFF.md if they disagree disagreement reported not silently resolved, chapter prose split from ## Footer production block so reader page can show prose only while agents still get footer, every vault file carries sha256 so consumer can detect alteration.
+storyos-site/scripts/drift.py: independent stale-edge scanner does not trust project's checker
+storyos-site/scripts/server.py: static app + JSON API + proposal inbox + key-gated writes + audit log
+the-universal-storyline-creation/tools/selftest.py: CONTROL CENTRE SELFTEST negative tests for validate.py every rule gets bad case and good case, baseline minimal valid firewall passes valid firewall without provenance passes array of two valid contributions passes, parse level malformed JSON rejected empty array rejected non-object contribution rejected, Gate 1 unreadable script CJK in string rejected kana rejected hangul rejected em dash and en dash allowed not blanket non-ASCII ban box-drawing characters allowed bullet marker allowed, Gate 2 literal backslash-n real newline inside JSON string allowed multi-line belief with several newlines allowed literal backslash-n surviving into VALUE rejected nested deep rejected
+the-universal-storyline-creation/tools/extract_state.py: Extract real project state from workspace into state/*.json run from repo root's control_centre/ directory every number written here measured from disk never typed by hand re-run any time workspace changes, if fiction workspace not present alongside control_centre/ normal case for agent handed Control Centre on its own script leaves committed state/workspace.json untouched and exits 0 measurements already stored in state/ so bootstrap and site still build nothing downstream depends on re-deriving them, REQUIRED_DIRS blue_silver SOUL_LAND_UNIVERSAL_KIT guard cold-start, walk_files is_binary check PK ZIP PNG JPEG GIF PDF gzip, measure files words mislabeled_binaries, PROJECTS blue_silver Book One complete 15 rebuilt chapters gate-pass sl4_fire_phoenix After Chapter 31 Ticket Owed to Fire live SOUL_LAND_UNIVERSAL_KIT 11 laws +13 templates portable SOUL_LAND_NEW Tian Yu 6 chapters pre-Chapter-11 active reference/sl3_lin_hao Reference archive craft only never canon reference soul_land_starter Blank-project bootstrap skeleton template, blue_silver_chapters file title n words, kit_laws file n words title, templates, sl4_chapters Chapter_\\d+.md
+```
 
-When the workspace grows beyond one serial:
+## The human audit (the other half) — advanced
 
-- Re-scan **everything** on a cadence, not just the serial you're writing.
-- Compare generated artifacts (site, handoff text) against source state — regenerated-if-drifted, never hand-edited.
-- Log every scan result with a date. A drift log is a serial's medical record: you want to see the moment things went wrong, not discover it a month later.
+Machine catches mechanical lies: wrong numbers, stale edges, missing ledgers, marker leaks, privacy leaks, build hygiene, style avg, over60, the-way tic, digits-in-prose, dialogue floor, anchor order, forbidden future, timeline monotonicity, places references, continuity coverage, OC status stale, library snapshot vs disk, profile vs disk, kit README vs disk, Control Centre vs disk.
+
+It cannot catch:
+- **Voice** — does this canon character sound like themselves? (style-match, ore notes, personality-first law)
+- **Centering** — did OC quietly take over canon moment? (panel audit, Multi-Panel Law)
+- **Earned bends** — is butterfly caused by story so far or what I want next? (Natural-Ripple, butterfly registry, T-registry)
+- **Pacing** — does sameness get one line and 1000-year road time-skip summary? (Pacing Law s44)
+- **Plainness** — does prose say thing plainly or hide simple events behind heavy prose? (Plain Language Law s40 + Clean and Clear Law Grey Wolf avg 14-18)
+- **Scope** — does chapter write it once or narrated explained re-summarized bloat? (Scope Law s39)
+
+That's self-audit step: read own chapter as reader who loves source, against every law (25 laws), before gate ever runs. Machine for facts, human for truth.
+
+## Drift scanning (advanced perfect edition)
+
+When workspace grows beyond one serial (12 repos, 2940 files, 193ch library):
+
+- Re-scan everything on cadence, not just serial you're writing
+- Compare generated artifacts (site, handoff text) against source state — regenerated-if-drifted, never hand-edited — e.g., Control Centre state/ is data what actually persists, site and bootstrap generated from state via bootstrap.py + build.py, you do not edit them you change state, one read and stranger reaches correct state
+- Log every scan result with date — drift log is serial's medical record: you want to see moment things went wrong not discover month later — e.g., state/log.json every growth event append-only, MISTAKES_LEDGER_2026-09-23.md complete mistake ledger 148 distinct recorded mistakes 13 author strikes that became standing law 5 disasters 23 still open or author-gated
+- Run sentinel.py --kit /path/to/kit — 25 PASS / 0 WARN / 0 FAIL — every value measured never typed
+- Run drift.py — independent stale-edge scanner does not trust project's checker
+- Two checkers disagree is most honest alarm
 
 ---
 
-*Working example, ready to adapt: [`examples/minigate.py`](../examples/minigate.py) → run `python3 minigate.py --selftest` and watch it prove itself.*
+*Working examples, ready to adapt: examples/minigate.py (100 lines stdlib only with selftest) + soul-land-2-the-grey-wolf/tools/run_all.py (4 steps manuscript+style+site+panels) + lan_shen/checks/run_all.sh (9 layers) + stark_heir/tools/mcu_verify.py (8 gates) + soul-library/tools/sentinel.py (25 checks) + storyos-site/scripts/build.py (data/index.json + state/ + chapters/ + vault/ + issues.json with sha256) + the-universal-storyline-creation/tools/selftest.py + extract_state.py + bootstrap.py + build.py + soul-land-universal-kit/tools/ship_chapter.py (mechanical 80% + authored 20% checklist).*
