@@ -1,6 +1,6 @@
-# SKILLS_CANON.md — v5.0 Perfect Rebuild — Soul Skills Description Like Soul Land Canon
+# SKILLS_CANON.md — v5.1 Evolution Chain Fix — Soul Skills Description Like Soul Land Canon
 
-**v5.0 perfect rebuild with Ghost Wolf golden lock iron-gray coat green glowing eyes toughest skull fragile body tofu waist paradox Light of Netherworld 3 clones Shrek Beast Dueling Area + Dai Mubai White Tiger possession + Feng Xiaotian Wind Blade Burst etc — copy and adapt for your serial**
+**v5.1 evolution chain fix: There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt for your serial**
 
 ---
 
@@ -13,37 +13,48 @@
 - **Advanced Ghost Doppelganger:** 3 phantom clones hiding real body
 - **Shrek Academy Beast Dueling Area:** Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull
 
-## Storm Frost Ghost Wolf — Evolution at High+Purple — F17
+## Storm Frost Ghost Wolf — Evolution at High+purple — F17 — v5.1 Evolution Chain Fix
 
-- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc
-- **Concealment:** Ring Veil hides purple as yellow fool shows two thousand-year
+- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — v5.1 evolution chain fix: no terminal, Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High
+- **Concealment:** Ring Veil hides purple as yellow fool shows two thousand-year — Low→Mid→High evolution chain
 - **Skills:**
-  - **Ghost Veil:** 3 phantom clones hiding real body — Advanced Ghost Doppelganger
-  - **Storm Step:** Ghost Veil/Storm Step at 1000y check SL3 — speed-boost
-  - **Stormwind:** Wind Blade Burst Wings Wolftaken — ice+wind High 1350y/1850y
-  - **Wind Blade Burst Wings:** flight 50m best condition shatter preserve life — Wolftaken
+  - **Ghost Veil:** 3 phantom clones hiding real body — Advanced Ghost Doppelganger — evolution chain High→Top
+  - **Storm Step:** Ghost Veil/Storm Step at 1000y check SL3 — speed-boost — Low→Mid→High evolution
+  - **Stormwind:** Wind Blade Burst Wings Wolftaken — ice+wind High 1350y/1850y — evolution chain
+  - **Wind Blade Burst Wings:** flight 50m best condition shatter preserve life — Wolftaken — evolution
 
-## Dai Mubai — White Tiger Possession — Canon Skill Format — F19
+## Evolution Chain Examples — v5.1 NEW — How Logically Things Work
 
-- **White Tiger Possession:** pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers — canon skill format example
-- **Format:** possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers — use this format for your own possession skills
+**Walking → Silent Wind Step → Ghost Frost Storm Step:**
+- Basic Walking (Low) 1-100% — every step counts — at 100% that second evolves → Silent Wind Step (Mid) 1%
+- Silent Wind Step (Mid) 1-100% — quiet step, seen-late — at 100% evolves → Ghost Frost Storm Step (High) 1%
+- Ghost Frost Storm Step (High) 1-100% — frost + ghost + storm — at 100% evolves → Storm Frost Ghost Veil (Top)
+- No terminal — 100% is evolution trigger — there is no such thing as terminal
 
-## Feng Xiaotian — Wind Blade Burst etc — Canon Skill Format — F19
+**Running → Wind Stride → Storm Step:**
+- Basic Running (Low) 1-100% → Wind Stride (Mid) 1-100% → Storm Step (High) 1-100% → etc.
 
-- **Wind Blade Burst:** 10 half crescent sealing evasion 10× quantity
-- **Double Wolf Possession:** +50% attack defense agility
-- **Swift Wind Dual Wings:** cyan wings flight 50m best condition shatter preserve life
-- **Tornado Wind Blade:** countless sharp wind blades tornado
-- **Thirty-Six Continuous Slashes:** strength speed increasing each chop evolves 54/72
-- **Format:** 10 half crescent sealing evasion 10× quantity etc — use this format for your own wind skills
+**Fusion — Three Low → Mid — How Logically Things Work:**
+- Walking (Low 100%) + Running (Low 100%) + Body Control (Low 100%) fuse → Silent Wind Step (Mid 1%) — logically movement techniques fuse into movement
+- Reading (Low 100%) + Understanding (Low 100%) + Tally (Low 100%) fuse → Clear Mind (Mid 1%) — mental techniques fuse into mental
+- Observation (Low 100%) + Hunter's Sense (Low 100%) + Stillness (Low 100%) fuse → Hunter's Eye (Mid 1%) — perception techniques fuse into perception
+- Soul Power Control (Low 100%) + Body Control (Low 100%) + Five Senses (Low 100%) fuse → Grey Ridge Hunt base (Mid) — etc.
 
-## Your OC Skills — Template
+**Fusion — Three Mid → High:**
+- Silent Wind Step (Mid 100%) + Wind Stride (Mid 100%) + Flowing Body (Mid 100%) fuse → Ghost Frost Storm Step (High 1%)
+- Clear Mind (Mid 100%) + Keen Senses (Mid 100%) + Flowing Control (Mid 100%) fuse → Spirit Eye (High) — etc.
 
-- **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers format — include golden lock iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox Light of Netherworld 3 clones etc if beast-type]
-- **Second Ring — [Name] — [Age]y — [Effect]:** [Description]
-- **Third Ring — [Name] — [Age]y — [Effect]:** [Description — evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year]
+**Logic:** Suitable techniques can fuse like three fuse and become a High and others many, how logically things work — movement + movement + body = movement High; mental + mental + mental = mental High; perception + perception + patience = perception High. No random fusion.
+
+**No such thing as terminal — 100% is evolution, not terminal.**
+
+## Your OC Skills — Template — v5.1 Evolution Chain
+
+- **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — include golden lock iron-gray coat etc] — Low 1-100% → Mid → High evolution chain — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse
+- **Second Ring — [Name] — [Age]y — [Effect]:** [Description] — evolution chain
+- **Third Ring — [Name] — [Age]y — [Effect]:** [Description — evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow] — evolution chain
 - **Full Grant:** 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — F11
 
 ---
 
-*Template v5.0 perfect rebuild — soul skills description like Soul Land canon — copy and fill for your OC — every skill needs canon-format description.*
+*Template v5.1 evolution chain fix — soul skills description like Soul Land canon — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*

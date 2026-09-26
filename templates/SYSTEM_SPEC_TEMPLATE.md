@@ -1,75 +1,43 @@
-# SYSTEM_SPEC.md — v5.0 Perfect Rebuild — Ledger Complete Every Law Day One Through Perfect Rebuild
+# SYSTEM_SPEC.md — v5.1 Evolution Chain Fix — Ledger Complete Every Law Day One Through Perfect Rebuild
 
-**v4.0 perfect rebuild: slots 1/1/1 +1 per rank-up 10/10/10 at Titled, meters, full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k, walls alone ring-gated, honest yield 24/7, Mastery no stages→MASTERED 120→168 pour-based Mid-caliber 1% Mid interconnection 2.96× Grey Mid appearance cascade thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc life-skills 100% MASTERED High ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken effective talent 3.5x — copy and adapt**
+**v5.1 evolution chain fix: There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work — copy and adapt**
 
 ---
 
 ## Slots — F10 Ring Seats Beast Bloodline
 
 - **Slots:** 1/1/1 +1 per rank-up 10/10/10 at Titled — F10 ring seats beast bloodline
-- **Example:** Level30 Great Soul Master 2 rings, Level40 Soul Ancestor 3 rings, etc.
 
-## Full Grant — F11
+## Evolution Chain Law — F14 v5.1 — There is no such thing as terminal
 
-- **Full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k** — F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — every ring grants 7 parts level per ring white10 yellow100 purple1k black10k red100k — example: white10 means white ring grants 10 levels? Actually white10/yellow100/purple1k/black10k/red100k means white10 yellow100 purple1k black10k red100k — adjust for your system
+- **There is no such thing as terminal.** Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
+- Every technique has grade Low/Mid/High/Top and progress 1-100% within grade
+- At 100% that second it evolves into next technique in its lineage — instant, no resting, no terminal
+- Example: Basic Walking (Low) 1-100% → evolves second it hits 100% → Silent Wind Step (Mid) 1-100% → evolves → Ghost Frost Storm Step (High) 1-100% → evolves → Storm Frost Ghost Veil (Top)
+- Running (Low) 1-100% → Wind Stride (Mid) → Storm Step (High)
+- Fusion: Walking + Running + Body Control (three Low 100%) fuse → Silent Wind Step Mid 1% — logically movement techniques fuse into movement; Reading + Understanding + Tally → Clear Mind Mid; Observation + Sense + Stillness → Hunter's Eye Mid; three Mid fuse → High
+- No technique ever stays at terminal — 100% is trigger for evolution/fusion, not terminal — how logically things work — replaces old Mastery — that was nonsense — user: basic walking and running low it go 1 to 100% the just as it reach 100% that second it evolve into next like imagine silent wind step, mid level, then same
 
-## Walls Alone Ring-Gated — F12
+## Interconnection — F15 — v5.1 Evolution Chain
 
-- **Walls alone ring-gated** — F12 walls alone ring-gated — walls alone ring-gated means rank walls require ring to break through
+- **Interconnection 2.96× Grey Mid appearance cascade** — F15 — talent grows as bloodlines grow and techniques evolve Low→Mid→High — innate is start not ceiling
 
-## Honest Yield 24/7 — F13
+## Thousand-Year — F16 — v5.1 Evolution Chain
 
-- **Honest yield 24/7** — F13 honest yield 24/7 — honest yield 24/7 means cultivation yields honestly 24/7 no cheat
+- **Thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt** — F16 — evolution chain — three Low fuse → Mid, three Mid → High — suitable techniques can fuse like three fuse and become a High, how logically things work
 
-## Mastery — F14
+## Evolution — F17 — v5.1 Evolution Chain Fix
 
-- **Mastery no stages→MASTERED 120→168 pour-based Mid-caliber 1% Mid** — F14 Mastery no stages→MASTERED 120→168 pour-based Mid-caliber 1% Mid — Mastery no stages→MASTERED 120→168 pour-based means no stages only MASTERED 120→168 pour-based
+- **Evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc but evolution chain Low→Mid→High — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High** — F17
 
-## Interconnection — F15
+## Life-Skills — F18 — v5.1 Evolution Chain Fix — No Terminal
 
-- **Interconnection 2.96× Grey Mid appearance cascade** — F15 interconnection 2.96× Grey Mid appearance cascade — 2.96× Grey Mid appearance cascade means interconnection multiplier
+- **Life-skills evolution chain v5.1: no terminal — Walking Low 1-100% → Silent Wind Step Mid, Running Low→Wind Stride Mid, Body Control Low→Flowing Body Mid, Soul Power Control Low→Flowing Control Mid, Five Senses Low→Keen Senses Mid, Reading Low→Fluent Reading Mid, Understanding Low→Deep Understanding Mid, Spearmanship Low→Spear Flow Mid, Cooking Low→Camp Cooking Mid, Combat Style Low→Grey Ridge Hunt High, Hunter's Sense Low→Beast Sense Mid, Stillness Low→Patience as Limb Mid, etc — ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages but evolution chain Low→Mid→High — full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — suitable techniques can fuse like three fuse and become a High and others many, how logically things work** — F18 — replaces old terminal — that was nonsense
 
-## Thousand-Year — F16
+## Clean and Clear Law — Avg 14-18 Band 2400-3400 Over60 0 The-Way 0 Bare 0 — v5.1 Evolution Chain Fix
 
-- **Thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt** — F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt — 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt means thousand-year rings at level29-30
-
-## Evolution — F17
-
-- **Evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc** — F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc
-
-## Life-Skills — F18
-
-- **Life-skills 100% MASTERED High ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken** — F18 life-skills 100% MASTERED High ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken
-
-## Canon Skill Format — F19
-
-- **Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72** — F19 canon skill format
-
-## Ghost Wolf 1000-Year Canon Facts — F20
-
-- **Golden hair lock forehead iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull** — F20 Ghost Wolf 1000-year canon facts
-
-## Panel Prose Rule — F22
-
-- **Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md** — F22 panel prose rule — full panel only on level/ring/bloodline update beat 0 lines allowed Ch6 The Hem Road 0 panel lines daily life no fights yet
-
-## MCU P12 Camera Law + P12-AMENDMENT
-
-- **Camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT** — MCU P12 camera law
-
-## StoryOS + Control Centre + Soul Library + Dual-Track + Foundation-Stage + Ship Law
-
-- **StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json** — StoryOS
-- **Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed** — Control Centre
-- **Soul Library one index.html no frameworks sentinel 25 PASS 193ch 796K+** — Soul Library
-- **Dual-Track canon-parallel canon on page complete unskipped Wulin close-third OC parallel same clock same streets butterfly only when tracks contact** — Dual-Track
-- **Foundation-Stage rulings first prose second always zero chapters until ruled** — Foundation-Stage
-- **Ship Law mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified** — Ship Law
-
-## Clean and Clear Law — Avg 14-18 Band 2400-3400 Over60 0 The-Way 0 Bare 0
-
-- **Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages** — clean and clear law — old bad style avg 6.8 med 5 repeating 100% MASTERED High per sentence repeating golden lock/toughest skull/tofu waist/Light of Netherworld 10x user rejected clean and clear no nonsense repetition new good style avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics MASTERED High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m
+- **Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages — evolution chain Low→Mid→High, no terminal** — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected — new good style avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w — evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable techniques fuse like three fuse and become a High, how logically things work
 
 ---
 
-*Template v5.0 perfect rebuild — Ledger complete every law day one through perfect rebuild — copy and fill for your OC — every law needs receipt.*
+*Template v5.1 evolution chain fix — Ledger complete — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
