@@ -9,8 +9,7 @@
 **There is no such thing as terminal.** Every technique has grade Low/Mid/High/Top and progress 1-100% within grade. At 100% that second it evolves into next technique in its lineage — instant, no resting.
 
 - Basic Walking (Low) 1-100% → evolves second it hits 100% → Silent Wind Step (Mid) 1-100% → evolves → Ghost Frost Storm Step (High) 1-100% → evolves → Storm Frost Ghost Veil (Top)
-- Basic Running (Low) 1-100% → Wind Stride (Mid) → Storm Step (High)
-- Suitable techniques can fuse like three fuse and become a High and others many, how logically things work
+- - Suitable techniques can fuse like three fuse and become a High and others many, how logically things work
 
 **Fusion Law v5.1:**
 
@@ -25,7 +24,7 @@
 | Meter | Grade & Progress | Evolution Chain | Current at Ch6 Gate — v5.1 Evolution Chain | Notes |
 |---|---|---|---|---|
 | Walking | Low 1-100% → Mid → High | Walking (Low) → Silent Wind Step (Mid) → Ghost Frost Storm Step (High) → Storm Frost Ghost Veil (Top) | Silent Wind Step Mid 45% — evolved from Walking Low 100% at age 8 | Basic walking Low 1-100% that second evolves into Silent Wind Step Mid — no terminal |
-| Running | Low 1-100% → Mid → High | Running (Low) → Wind Stride (Mid) → Storm Step (High) | Wind Stride Mid 60% — evolved from Running Low 100% at age 9 | Running Low 1-100% evolves |
+| Footwork — FUSED | Mid → Ghost Frost Storm Step | Basic Walking Low + Basic Running Low + Mountain Stride Low FUSE → Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! | — |
 | Body Control | Low 1-100% → Mid → High | Body Control (Low) → Flowing Body (Mid) → Seamless Body (High) | Flowing Body Mid 70% | Body arrives where mind went first — evolution chain |
 | Soul Power Control | Low 1-100% → Mid → High | Soul Power Control (Low) → Flowing Control (Mid) → Seamless Flow (High) | Flowing Control Mid 80% | Soul power flows where eye goes — evolution chain |
 | Five Senses | Low 1-100% → Mid → High | Five Senses (Low) → Keen Senses (Mid) → Spirit Eye (High) | Keen Senses Mid 85% | Sight Hearing Smell Taste Touch Low→Mid→High |
@@ -35,15 +34,14 @@
 | Cooking | Low 1-100% → Mid → High | Cooking (Low) → Camp Cooking (Mid) → Field Chef (High) | Camp Cooking Mid 40% | Cooking evolves |
 | Combat Style | Low 1-100% → Mid → High → Top | Combat Style (Low) → Grey Ridge Hunt base (Mid) → Grey Ridge Hunt (High) → Storm Frost Ghost Wolf Combat (Top) | Grey Ridge Hunt High 30% — fused from many Low→Mid→High | Fusion of many basics — evolution chain |
 | Hunter's Sense | Low 1-100% → Mid → High | Hunter's Sense (Low) → Beast Sense (Mid) → Predator Sense (High) | Beast Sense Mid 65% | Sense evolves |
-| Mountain Stride | Low 1-100% → Mid → High | Mountain Stride (Low) → Ridge Stride (Mid) → Storm Stride (High) | Ridge Stride Mid 55% | Stride evolves |
-| Tally | Low 1-100% → Mid → High | Tally (Low) → Quick Count (Mid) → Mind Count (High) | Quick Count Mid 50% | Counting evolves |
+| Mountain Stride | Low 1-100% → Mid → High | | Tally | Low 1-100% → Mid → High | Tally (Low) → Quick Count (Mid) → Mind Count (High) | Quick Count Mid 50% | Counting evolves |
 | Plain Speech | Low 1-100% → Mid → High | Plain Speech (Low) → Clear Speech (Mid) → Persuasive Speech (High) | Clear Speech Mid 60% | Speech evolves |
 | Spirit Sea | Spirit Sea Realm 850 | Spirit Origin 0-99 → Spirit Connection 100-499 → Spirit Sea 500-4999 → Spirit Abyss 5000+ | 850 Spirit Sea Realm — perception 10-100m | Measured not typed effective talent 3.5x |
 | Body | ~500kg robust | Body grows with bloodlines and techniques evolving Low→Mid→High | 500kg robust | F18 but evolution chain not terminal |
 
 ## Fusion Examples — v5.1 — How Logically Things Work
 
-**Movement fusion:** Walking (Low 100%) + Running (Low 100%) + Body Control (Low 100%) fuse → Silent Wind Step (Mid 1%) — three movement basics fuse into movement Mid — logically — suitable techniques can fuse like three fuse and become a High, how logically things work
+**Movement fusion:** Basic Walking (Low 100%) + Basic Running (Low 100%) + Mountain Stride (Low 100%) fuse → Silent Wind Step (Mid) different name 1% ONE — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! — three movement basics fuse into movement Mid — logically — suitable techniques can fuse like three fuse and become a High, how logically things work
 
 **Mental fusion:** Reading (Low 100%) + Understanding (Low 100%) + Tally (Low 100%) fuse → Clear Mind (Mid 1%)
 
@@ -67,17 +65,19 @@
 ---
 
 
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately?
 
-**User complaint:** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
+## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
 
-**Fix v5.4:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
+**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
 
-- Basic Walking Low 100% + Basic Running Low 80%+ + Mountain Stride Low 80%+ (or one 100% + two 60%+) fuse → Silent Wind Step Mid 1% ONE — which fool masters so many step techniques separately? They fuse!
-- Silent Wind Step Mid 1-100% → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — ONE footwork line, not three
-- No separate: Basic Walking does NOT evolve to High alone, Basic Running does NOT evolve to High alone, Mountain Stride does NOT evolve to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory
+**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
 
-Other techniques correct evolution per technique — NOT everything into Silent Wind Step:
+- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
+- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
+- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
+
+**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
+
 - Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
 - Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
 - Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
@@ -96,8 +96,8 @@ Other techniques correct evolution per technique — NOT everything into Silent 
 - Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
 - Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
 - Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step
+- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
 - Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
 
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse!
+Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
 

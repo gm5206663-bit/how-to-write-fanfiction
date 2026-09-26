@@ -10,8 +10,7 @@
 
 - **Talent never named embodied only:** MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named — Talent never named embodied only — not watching just there like floor — cannot be influenced by resources — nothing bought moves a meter — free — never invents roads world defines next stage and System counts what he does with it
 - **Gravity+Kinetic:** buffer+field ceilings hard — Varun gravity+kinetic — buffer+field ceilings hard — never replace never nerf — Talent never named embodied only
-- **Evolution chain for MCU techniques:** Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — Basic Running Low different name → Wind Stride Mid different name → Storm Step High different name → Ghost Wind Burst Top different name — different name per grade — Body Control Low→Flowing Body Mid→Storm Body High — Soul Power Control Low→Flowing Control Mid→Spirit Control High — Five Senses Low→Keen Senses Mid→Spirit Eye High — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No terminal — 100% is evolution trigger — no MASTERED terminal — only explanatory "There is no such thing as 100% MASTERED" allowed as documentation of fix
-
+- **Evolution chain for MCU techniques:** Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
 ### Dual-Track Film Order — Stark Heir P12+P12-AMENDMENT Camera Law Plural Panels T-Registry
 
 - **Complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 + P12-AMENDMENT camera law:** MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry — complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 + P12-AMENDMENT camera law — film order plural canon-side panels camera goes where canon goes — MCU_TIMELINE.md + CROSS_PROJECT_LAW.md + STATUS_PANEL.md + TIMELINE_MARK.md
@@ -27,10 +26,7 @@
 ### Evolution Chain for MCU — Same Law Different Skin
 
 - **Walking → Silent Wind Step → Ghost Frost Storm Step:** Basic Walking Low 1-100% every step counts at 100% that second evolves → Silent Wind Step Mid 1% — Silent Wind Step Mid 1-100% quiet step seen-late at 100% evolves → Ghost Frost Storm Step High 1% — Ghost Frost Storm Step High 1-100% frost+ghost+storm at 100% evolves → Storm Frost Ghost Veil Top — No terminal 100% is evolution trigger — Example evolution chain — MCU adaptation: Walking Low→Silent Wind Step Mid→Ghost Frost Storm Step High — suitable for stealth infiltration
-- **Running → Wind Stride → Storm Step:** Basic Running Low 1-100% → Wind Stride Mid 1-100% → Storm Step High 1-100% → etc — Example evolution chain — MCU adaptation: Basic Running Low different name → Wind Stride Mid different name → Storm Step High different name → Ghost Wind Burst Top different name — different name per grade — suitable for escape
-- **Fusion:** Walking Low 100% + Running Low 100% + Body Control Low 100% fuse → Silent Wind Step Mid 1% logically movement techniques fuse into movement — Reading Low 100% + Understanding Low 100% + Tally Low 100% fuse → Clear Mind Mid 1% mental techniques fuse into mental — Observation Low 100% + Hunter's Sense Low 100% + Stillness Low 100% fuse → Hunter's Eye Mid 1% perception techniques fuse into perception — Silent Wind Step Mid 100% + Wind Stride Mid 100% + Flowing Body Mid 100% fuse → Ghost Frost Storm Step High 1% — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No random fusion — No such thing as terminal 100% is evolution not terminal — suitable techniques can fuse like three fuse and become a High and others many how logically things work
-
-## MCU Timeline — Complete MCU Chronology v4 + Confidence Tags + Butterfly Registry T-14..T-22 P1-P15 + P12-AMENDMENT Camera Law
+- ## MCU Timeline — Complete MCU Chronology v4 + Confidence Tags + Butterfly Registry T-14..T-22 P1-P15 + P12-AMENDMENT Camera Law
 
 - **MCU_TIMELINE.md:** complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 — dated sourced day map for date arithmetic check d — canon spine receipted + our road — dated sourced day map
 - **CROSS_PROJECT_LAW.md:** cross-project law — relation to other fics same universe as other serials or separate — Default separate universe — Separate but sibling project VARUN paused at Ch3
@@ -44,22 +40,23 @@
 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — Basic Running Low different name → Wind Stride Mid different name → Storm Step High different name → Ghost Wind Burst Top different name — different name per grade — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No terminal — 100% is evolution trigger.*
-
+*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
 ---
 
 
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately?
 
-**User complaint:** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
+## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
 
-**Fix v5.4:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
+**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
 
-- Basic Walking Low 100% + Basic Running Low 80%+ + Mountain Stride Low 80%+ (or one 100% + two 60%+) fuse → Silent Wind Step Mid 1% ONE — which fool masters so many step techniques separately? They fuse!
-- Silent Wind Step Mid 1-100% → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — ONE footwork line, not three
-- No separate: Basic Walking does NOT evolve to High alone, Basic Running does NOT evolve to High alone, Mountain Stride does NOT evolve to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory
+**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
 
-Other techniques correct evolution per technique — NOT everything into Silent Wind Step:
+- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
+- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
+- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
+
+**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
+
 - Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
 - Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
 - Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
@@ -78,8 +75,8 @@ Other techniques correct evolution per technique — NOT everything into Silent 
 - Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
 - Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
 - Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step
+- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
 - Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
 
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse!
+Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
 
