@@ -11,7 +11,7 @@
 </p>
 
 > The system I use to write long-form fan fiction that stays **canon-true for hundreds of thousands of words**.
-> Proven on **10+ Soul Land (斗罗大陆) serials** — one of them 116 chapters / ~354,700 words with every chapter machine-checked before shipping.
+> Proven on **12+ Soul Land (斗罗大陆) serials + 2 MCU serials** — 193 chapters / 796K+ words in the library alone, every shipped chapter machine-checked before shipping. Latest: Grey Wolf perfect rebuild v0.7.0 — 6 chapters clean and clear, avg 14-18, band 2400-3400, over60 0.
 > Written for **any fandom**, with Soul Land as the working example.
 
 **This is not a vibe guide.** It is a working production system: laws, a foundation docset, a chapter loop, and an audit gate that must pass before anything ships. Treat fan fiction like software: source of truth, tests, and state panels — and your story can grow forever without rotting.
