@@ -16,11 +16,11 @@ You built a gated serial. If you want readers beyond your own repo, here are rea
 >
 > It's fandom-neutral — works for any source material: **[how-to-write-fanfiction](https://github.com/gm5206663-bit/how-to-write-fanfiction)**
 >
-> And the serials are readable here: **[The Soul Library](https://gm5206663-bit.github.io/soul-library/)** — 183 chapters, every one gate-checked. AMA about the method; I have receipts for everything.
+> And the serials are readable here: **[The Soul Library](https://gm5206663-bit.github.io/soul-library/)** — 193 chapters, every one gate-checked. Latest: Grey Wolf perfect rebuild 6ch clean and clear. AMA about the method; I have receipts for everything.
 
 ## The essay version (AO3/AO3-adjacent, blogs)
 
-Title: **"Canon Is a River: What I Learned Machine-Gating 550,000 Words of Fanfiction"**
+Title: **"Canon Is a River: What I Learned Machine-Gating 796,000 Words of Fanfiction"**
 
 Beats:
 1. The origin: a 90,000-word serial rejected for five reasons that were all diagnosable in hindsight.
@@ -39,4 +39,4 @@ Beats:
 
 ## Where the numbers on this page come from
 
-Measured, never typed: 181 chapter files across five serials, ~766K words of chapter text, 116 of them under a ten-layer suite, every claim traceable to a panel or a check. When you share your own numbers — measure them the same day you post them. A stale claim in a post about drift-checking is the most embarrassing bug there is.
+Measured, never typed: 193 chapter files across six serials, ~796K words of chapter text, 116 of them under a ten-layer suite, every claim traceable to a panel or a check. When you share your own numbers — measure them the same day you post them. A stale claim in a post about drift-checking is the most embarrassing bug there is. Latest: Grey Wolf perfect rebuild v0.7.0 6ch 15.8Kw clean and clear avg14-18 band2400-3400 over60 0.
