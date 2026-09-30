@@ -27,7 +27,7 @@ LIVE-EDGE-END -->
 
 ---
 
-## §1 OC — Full Status Completely Everything — F0-F22 v5.1 Evolution Chain Fix
+## §1 OC — Full Status Completely Everything — F0-F26 law revision v5.4
 
 - **Name:** Ye Cang (example — replace with your OC)
 - **Origin:** OC grown Earth full meta silent wolf innate1 beside Yuhao — F0

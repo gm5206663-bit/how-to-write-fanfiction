@@ -1,10 +1,12 @@
-# 01 · The Laws — 25 laws — v2.1 Evolution Chain Fix
+# 01 · The Laws — 31 entries of record (F0-F26 + P12 + 7 structural) — guide edition v2.1 Advanced Perfect Edition, law revision v5.4
+
+> **Was:** "25 laws — v2.1 Evolution Chain Fix". **Corrected 2026-09-30.** The count had not been re-measured since F23 and F26 were added to the templates and docs but never to this pin. Measured inventory and the two version axes are in `VERSION_OF_RECORD.md` at the repo root.
 
 **Every law was paid for. v5.1 evolution chain fix at author's strike: There is no such thing as 100% MASTERED. Techniques evolve Low 1-100% → Mid → High → Top. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work.**
 
 ---
 
-## The 25 Laws — Compressed Pin — v5.1 Evolution Chain Fix
+## The Laws — Compressed Pin — 31 entries of record — law revision v5.4
 
 ```
 F0 OC grown Earth full meta silent wolf innate1 beside Yuhao
@@ -28,6 +30,8 @@ F18 life-skills evolution chain v5.1: no terminal — Walking Low 1-100% → Sil
 F19 canon skill format Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72
 F20 Ghost Wolf 1000-year canon facts golden hair lock forehead iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull
 F22 panel prose rule Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md
+F23 Evolution Chain Fix v5.1 — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name — same law family as F14/F18 — pinned here 2026-09-30, was recorded only in docs/05, docs/08, docs/10
+F26 footwork fusion complaint — which fool masters so many step techniques separately? They fuse! — Basic Walking Low + Basic Running Low + Mountain Stride Low all footwork fuse into ONE movement technique not three separate High — pinned here 2026-09-30, was cited by the Footwork Fusion Law below as its own source without appearing in this list
 P12 camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT
 StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json
 Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed
@@ -79,6 +83,8 @@ Clean-and-clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft he
 - F19 canon skill format Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72
 - F20 Ghost Wolf 1000-year canon facts golden hair lock forehead iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull
 - F22 panel prose rule Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md
+- F23 Evolution Chain Fix v5.1 — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name — consolidated here verbatim from docs/05_glossary.md, docs/08_advanced_perfect_edition.md, docs/10_storyos_and_control_centre.md on 2026-09-30; same law family as F14/F18
+- F26 footwork fusion complaint (author's words, verbatim) — "What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques" — the ruling that produced the Footwork Fusion Law v5.4 below; consolidated here 2026-09-30 from SYSTEM_SPEC_TEMPLATE.md, STATUS_PANEL_TEMPLATE.md, SKILLS_CANON_TEMPLATE.md
 - P12 camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT
 - StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json
 - Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed
