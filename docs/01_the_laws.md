@@ -35,7 +35,7 @@ F26 footwork fusion complaint — which fool masters so many step techniques sep
 P12 camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT
 StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json
 Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed
-Soul Library one index.html no frameworks sentinel 26 PASS 219ch 917K+
+Soul Library one index.html no frameworks sentinel 26 PASS 219ch 928K+
 Dual-Track canon-parallel canon on page complete unskipped Wulin close-third OC parallel same clock same streets butterfly only when tracks contact
 Foundation-Stage rulings first prose second always zero chapters until ruled
 Ship Law mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified
@@ -88,7 +88,7 @@ Clean-and-clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft he
 - P12 camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT
 - StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json
 - Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed
-- Soul Library one index.html no frameworks sentinel 26 PASS 219ch 917K+
+- Soul Library one index.html no frameworks sentinel 26 PASS 219ch 928K+
 - Dual-Track canon-parallel canon on page complete unskipped Wulin close-third OC parallel same clock same streets butterfly only when tracks contact
 - Foundation-Stage rulings first prose second always zero chapters until ruled
 - Ship Law mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified
