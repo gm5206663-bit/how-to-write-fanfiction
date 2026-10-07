@@ -23,7 +23,7 @@
 
 ### build_site.py — Reading Site
 
-- **Does:** builds reading site — Control Centre state in data site generated — StoryOS sha256 independent drift stdlib only — Soul Library one index.html no frameworks sentinel 25 PASS
+- **Does:** builds reading site — Control Centre state in data site generated — StoryOS sha256 independent drift stdlib only — Soul Library one index.html no frameworks sentinel 26 PASS
 
 ### verify.py — Scene Skeleton Verifier
 

@@ -83,7 +83,7 @@
 
 ## 10. StoryOS — sha256 independent drift stdlib only
 
-**Method:** sha256 independent drift stdlib only — StoryOS sha256 independent drift stdlib only — Control Centre state in data site generated — Soul Library one index.html no frameworks sentinel 25 PASS
+**Method:** sha256 independent drift stdlib only — StoryOS sha256 independent drift stdlib only — Control Centre state in data site generated — Soul Library one index.html no frameworks sentinel 26 PASS
 
 **Evolution chain:** same — but for StoryOS — Low 1-100% → Mid → High — no terminal
 
@@ -93,9 +93,9 @@
 
 **Evolution chain:** same
 
-## 12. Soul Library — One index.html no frameworks sentinel 25 PASS
+## 12. Soul Library — One index.html no frameworks sentinel 26 PASS
 
-**Method:** one index.html no frameworks sentinel 25 PASS — Soul Library one index.html no frameworks sentinel 25 PASS
+**Method:** one index.html no frameworks sentinel 26 PASS — Soul Library one index.html no frameworks sentinel 26 PASS
 
 **Evolution chain:** same
 
