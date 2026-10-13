@@ -141,6 +141,18 @@ Craft extraction, 2026-09-07, at the author's direction: the author's own SL3 se
 
 **And the warning seen in the model itself:** the reference's own early footers leaked end-of-serial state — a "three purple rings" line in chapter one, when the character is six with no rings. **Centralized current state plus a tight per-chapter state line is the medicine; never embed end-state boilerplate in early chapters.**
 
+## 15 · The Adaptation Talent — one original system, seventeen holders (five worlds)
+
+**One locked core (76 sections) · 17 holders · 5 worlds · [`adaptation-talent`](https://github.com/gm5206663-bit/adaptation-talent): 56 files, hash-manifested, CI on every push.**
+
+The account's one original system — a non-sentient adaptive principle that refines, integrates, and personalizes a holder's complete being, never a voice and never a power in itself — run across **seventeen holders in five worlds**: eleven Soul Land serials, two MCU, Avengers, two Naagin projects, and Dragon Prince Yuan. Its case value is the problem no single serial has: **one system that must stay one system in universes it was never written for.**
+
+The answer, built and published 2026-10-13: a locked 76-section master core, one module per holder beneath it (the seven-part module template, §71), and the rule that makes it hold — **a module never rewrites the core**; a universal change requires an explicit amendment (§76, the amendment rule). Every module quotes its author rulings verbatim, so the author's word travels inside the files that depend on it.
+
+The receipt is the same one this guide teaches everywhere else. The core was found living as **three byte-identical twins** across the account; the published repository keeps **one** — and records the other two, with hashes, in its provenance file. Canon, modules, and the writing law sit in that one repository, whose push-time CI verifies every file against a hash manifest and sweeps every relative link — *the text and its receipts cannot drift apart silently* (death #5, structurally impossible).
+
+**The lesson:** a shared system survives seventeen holders the way a text survives revision — one home per fact, a hash manifest, and a gate that fails the moment anything moves without its receipt.
+
 ---
 
-*Rebuilt 2026-10-13 from the compressed originals; all thirteen case studies, the ten craft laws, and the model's warning preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*
+*Rebuilt 2026-10-13 from the compressed originals; all thirteen serial case studies, the ten craft laws, the model's warning, and the system case (§15, added the same day) preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

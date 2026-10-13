@@ -10,6 +10,7 @@
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases"><img src="https://img.shields.io/badge/guide%20edition-v3.0-brightgreen?style=flat-square" alt="Guide v3.0"></a>
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions"><img src="https://img.shields.io/badge/discussions-open-9cf?style=flat-square&logo=github" alt="Discussions"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
+  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/workflows/verify.yml"><img src="https://github.com/gm5206663-bit/how-to-write-fanfiction/actions/workflows/verify.yml/badge.svg" alt="verify"></a>
 </p>
 
 > **Guide edition v3.0 · Law revision v5.4 · rebuilt 2026-10-13.** The two version axes are explained in [`VERSION_OF_RECORD.md`](VERSION_OF_RECORD.md) — where they disagree with any heading, that file wins.
@@ -51,7 +52,7 @@ Each of those five deaths has a chapter of its own here — §1 in [`docs/01_the
 | [`01 · The Laws`](docs/01_the_laws.md) | You want the constitution — all 31 entries of record, what each one says, the check that enforces it, and which serial paid for it |
 | [`02 · The Workflow`](docs/02_workflow.md) | You are starting a serial — foundation docset, ore mining, and the six-step chapter loop |
 | [`03 · Gates and Audits`](docs/03_gates_and_audits.md) | You want the machine room — the gate layers, what each one catches, and the selftest culture |
-| [`04 · Case Studies`](docs/04_case_studies.md) | You want the proof — thirteen serials, what each taught, with numbers |
+| [`04 · Case Studies`](docs/04_case_studies.md) | You want the proof — thirteen serials, what each taught, with numbers — and the original system that runs through them (§15) |
 | [`05 · Glossary`](docs/05_glossary.md) | A term is unfamiliar (band, locks, ore, butterfly, drift guard…) |
 | [`06 · Automation`](docs/06_automation.md) | You want your rules enforced by code, not memory |
 | [`07 · Share Kit`](docs/07_share_kit.md) | You want the templates and a release checklist |
@@ -60,6 +61,7 @@ Each of those five deaths has a chapter of its own here — §1 in [`docs/01_the
 | [`10 · StoryOS and Control Centre`](docs/10_storyos_and_control_centre.md) | You want to publish: readers, state sites, and an agent console |
 | [`templates/`](templates/) | You are ready to build the docset — nine copy-paste starting files |
 | [`examples/minigate.py`](examples/minigate.py) | You want a working gate in one file — stdlib only, selftest included |
+| [`examples/github-actions-gate.yml`](examples/github-actions-gate.yml) | You want every push of *your* repo gated — the minimal CI shape (live here as [`.github/workflows/verify.yml`](.github/workflows/verify.yml)) |
 
 ## Start in five minutes
 

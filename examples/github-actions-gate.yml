@@ -3,9 +3,10 @@
 # (or fork this repo and enable Actions) and every push/PR will
 # have to pass the gate selftest — the Gate Law, applied to CI.
 #
-# (Why an example and not live CI here? Creating .github/workflows/
-# from a classic personal token requires the extra `workflow` scope.
-# The gate still ships with its own selftest you can run anywhere:
+# This guide now walks the law itself: the repository's live CI is
+# .github/workflows/verify.yml — the demo gate's selftest plus a full
+# markdown link sweep on every push. This file below stays minimal on
+# purpose: the smallest shape that gates YOUR repository.
 #   python3 examples/minigate.py --selftest)
 name: gate
 on:

@@ -78,7 +78,7 @@ Three specific checks keep the model from regressing:
 
 - Archives with `tar`, not `rsync`; git identity re-exported every shell; tokens never in the tree (a privacy grep runs as a battery layer).
 - Releases contain only what passed the gates; a zip's own build label (like `v2.5-footwork-fusion-clean`) is a build label, **not a version** — the version axes are in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
-- The CI form of the battery ships as [`examples/github-actions-gate.yml`](../examples/github-actions-gate.yml): every push runs the gate, and a red gate blocks the merge.
+- The CI form of the battery ships as [`examples/github-actions-gate.yml`](../examples/github-actions-gate.yml): every push runs the gate, and a red gate blocks the merge. **This guide now walks it on itself** — its live gate is [`.github/workflows/verify.yml`](../.github/workflows/verify.yml): the demo gate's selftest plus a full markdown link sweep ([`tools/check_links.py`](../tools/check_links.py)) on every push.
 
 ---
 

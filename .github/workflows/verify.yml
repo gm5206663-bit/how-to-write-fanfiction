@@ -1,0 +1,24 @@
+name: verify
+
+# The guide checks itself on every push — the same contract it teaches:
+#   1. the demo gate proves it still catches defects (minigate --selftest)
+#   2. every relative link across all markdown resolves (tools/check_links.py)
+# A red run blocks the merge, exactly like the serials this guide describes.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gate selftest (a gate must prove it catches defects)
+        run: python3 examples/minigate.py --selftest
+      - name: Link sweep (every relative link in the guide resolves)
+        run: python3 tools/check_links.py
