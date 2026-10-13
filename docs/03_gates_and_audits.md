@@ -1,108 +1,83 @@
-# 03 · Gates and Audits — v2.1 Advanced Perfect Edition — Evolution Chain Fix
+# 03 · Gates and Audits — the machine room
 
-**Every gate was paid for. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
-
----
-
-## The 10-layer gate (Adaptive Prodigy) / 9-layer (Lan Shen V2) / 8-gate MCU / 7-gate Blue Silver
-
-Each serial has its own gate count, but all share core:
-
-| Layer | Check | Tool | Example |
-|---|---|---|---|
-| 1 | Prose floor/ceiling | `measure_prose.py` | 2400-3400w band, avg 14-18, over60 0, the-way 0, bare 0 |
-| 2 | Style law | `style_gate.py` | clean and clear no nonsense repetition, no repetitive skill list in body |
-| 3 | Canon copy check | `canon_copy_check.py` | verbatim-plagiarism sweep vs canon receipts n-gram runs |
-| 4 | Banned token | `banned_token_check.py` | banned-token drift-guard sweep — the-way, bare, MASTERED terminal |
-| 5 | Plain word | `plain_word_check.py` | plain-register wordlist audit — Devouring Dragon s40 |
-| 6 | Panel drift | `check_panels.py` | drift guard frozen meter fails build — 80 rows IN SYNC Grey Wolf — Exact-figures single cultivation authority |
-| 7 | Scope line | `scan_project.py` | deterministic scope-line tracker |
-| 8 | Selftest | `selftest.py` | test suite every tool |
-| 9 | Status gen | `status_gen.py` | rebuilds STATUS.md from tree — lan_shen pattern |
-| 10 | MCU verify / Dual-track | `mcu_verify.py` / `verify.py` | 8 gates zero-digit zero-CJK / scene skeleton verifier |
-
-**Must exit 0 — all green — before ship.**
-
-## Evolution Chain Gate — F23 NEW v5.1
-
-- **Check:** No valid MASTERED terminal — grep -r "100%.*MASTERED" docs/ templates/ foundation/ must return 0 valid — only explanatory "There is no such thing as 100% MASTERED" allowed as documentation of fix
-- **Check:** Evolution chain law present — Low 1-100% → Mid → High instant evolution second it hits 100%
-- **Check:** Fusion law present — suitable techniques can fuse like three fuse and become a High and others many how logically things work — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High
-- **Check:** Examples: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — - **Tool:** `banned_token_check.py` includes MASTERED terminal in banned list — except when preceded by "no such thing as" or "was nonsense" — drift guard fails build on any stale MASTERED terminal as valid
-
-## Panel Gate — F22
-
-- **Rule:** Not every time in chapter you only write when there is update or just gain, then you write full, normally can check in status file everything when needed — panel prose rule: no full panel in chapter unless level/ring/bloodline update — beat 0 lines allowed — full details in STATUS.md SKILLS_CANON.md
-- **Check:** Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m, show mastery via hem roads villages Grey Ridge Hunt using all basics evolving — clean and clear no nonsense repetition
-- **Tool:** `check_panels.py` — drift guard frozen meter fails build — 80 rows IN SYNC Grey Wolf — Exact-figures section single cultivation authority — 80 rows IN SYNC — every meter its own pace — infusion-fed — passive 24/7 — evolution chain no terminal — suitable fuse like three fuse become High logically
-
-## Prose Gate — Clean and Clear
-
-- **Band:** 2400-3400w — Grey Wolf Ch1 2875w avg14.5 Ch2 2428w avg15.0 Ch3 2414w avg14.1 Ch4 2498w avg18.5 Ch5 3125w avg12.8 Ch6 2458w avg11.3 all IN band all gates PASS
-- **Avg:** 14-18 — natural prose avg 14-18 — no repetitive skill list in body — show mastery via daily life action — keep lore dumps in footer only
-- **Over60:** 0 — over60 ban — measure_prose.py floor/ceiling/60-cap
-- **The-way:** 0 — the-way ban
-- **Bare:** 0 — bare ban
-- **Nonsense repetition:** 0 — user explicitly rejected Chapter 6 style with avg 6.8 med 5, repeating "100% evolving High" per sentence, repeating golden lock/toughest skull/tofu waist/Light of Netherworld 10x — required style clean and clear no nonsense repetition — natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only
-
-## Canon Gate
-
-- **Receipts:** nothing enters chapter unverified — canon_extract/ chapters 001-018 read-only receipts never edited never silently corrected — variance logged both readings held — INDEX.txt + readnovelfull_map.txt + CANON_INDEX_23_600.txt
-- **Check canon perfectly:** standing instruction — CANON_GROUND.md verified 2026-09-24 against multiple fan-translation sources and Soul Land Wiki rank table cross-checked in three independent WebNovel auxiliary chapters ring colors cross-checked in all of them
-- **Beast-type study:** CANON_STUDY_BEAST_TYPE.md beast-type study whole — even commonest thing is blue silver grass — dogs → spirit hounds, serpent → Black-Ravine Serpent rule SB-11
-
-## Audit Records
-
-- **FULL_COMPARATIVE_AUDIT:** dated audit records — e.g., FULL_COMPARATIVE_AUDIT, POST_RANKING_REBUILD_VALIDATION, CHAPTER_52_VALIDATION etc
-- **POST_RANKING_REBUILD_VALIDATION:** Grey Wolf perfect rebuild F0-F22 clean-and-clear avg14-18 band2400-3400 over60 0 the-way 0 F22 panel prose rule — evolution chain fix v5.1 — 80 rows IN SYNC — run_all green
-- **CHAPTER_52_VALIDATION:** Devouring Dragon 52ch — plain language s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56
-
-## Evolution Chain Audit — v2.1
-
-- **Old F14 Mastery no stages→MASTERED was nonsense — user: "There is no such thing: 100% MASTERED"**
-- **New F14 Evolution Chain Law v5.1:** There is no such thing as terminal — Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same — Suitable techniques can fuse like three fuse and become a High and others many how logically things work
-- **Fusion Audit:** Walking Low 100% + Running Low 100% + Body Control Low 100% fuse → Silent Wind Step Mid 1% — logically movement techniques fuse into movement — Reading Low 100% + Understanding Low 100% + Tally Low 100% fuse → Clear Mind Mid 1% — mental techniques fuse into mental — Observation Low 100% + Hunter's Sense Low 100% + Stillness Low 100% fuse → Hunter's Eye Mid 1% — perception techniques fuse into perception — Silent Wind Step Mid 100% + Wind Stride Mid 100% + Flowing Body Mid 100% fuse → Ghost Frost Storm Step High 1% — No terminal — evolution chain only — suitable techniques can fuse like three fuse and become a High and others many how logically things work
-- **Grade Audit:** Ladder Low Waste Mid Ordinary High Excellent Top Top-tier Ultimate Divine Extreme attribute road — Grades honest current readings rise as thing grows and 100% triggers evolution instantly — F22 Perfect Rebuild v5.1 Evolution Fix everything Mid or above at Ch6 gate per author's view no Low martial soul evolves to Storm Frost Ghost Wolf ice+wind High skills upgrade on breakthrough Ring Veil concealment all basics evolve and fuse into named techniques like Purple Demon Eyes evolution chain no terminal
+**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** A law without a check is a wish; this doc is the checks. Tools are catalogued in [`06`](06_automation.md).
 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
+## The contract of a gate
+
+Three rules, learned the hard way, govern every gate in this system:
+
+1. **A gate must selftest.** Every tool ships with a test suite that *injects known defects* and proves the gate catches and names them. A gate that has never been seen to fail is a gate nobody has tested.
+2. **Never weaken a gate to pass it.** If the gate is wrong, fix the gate — with a receipt. If the work is wrong, fix the work. Never lower the threshold so the run goes green.
+3. **Never trust only the project's own checker.** The strongest configurations run an *independent* scan on top (the shelf's sentinel, StoryOS's drift scan) because a project grading its own homework can be consistently wrong.
+
+And one culture rule that only exists because it repeatedly mattered: **a coverage line is a claim — it gets checked like one.** When a run says "25 of 26 checks", the missing check is a bug until explained. (Two real catches: a sentinel reporting *25 of 26* — traced to a check quietly skipping; and an earlier sentinel which said *26 of 22*.) A check that silently skips is a check that lies.
+
+## The gate battery — layers
+
+Each serial carries its own count — ten, nine, eight, seven layers — but the core is the same:
+
+| Layer | Gate | What it catches |
+|---|---|---|
+| 1 | **Prose measure** | band violations (2,400–3,400 w), average sentence out of 14–18, any sentence over 60, banned constructions (the-way, bare fragments) |
+| 2 | **Style gate** | repetition and voice drift — repetitive skill lists, line-level sameness, the serial's own voice law |
+| 3 | **Canon copy check** | verbatim borrowing from the source — n-gram runs against the canon receipts (long quoted runs, density ceilings) |
+| 4 | **Banned tokens** | terms and *values* that must never appear in prose — dead models ("100% MASTERED" as valid), fourth-wall leaks, superseded numbers |
+| 5 | **Plain word check** | register drift — the plain-language law for serials that carry one |
+| 6 | **Panel drift guard** | a frozen meter or stale line — fails the build rather than letting state rot |
+| 7 | **Scope line scan** | deterministic tracking of scope lines across files |
+| 8 | **Selftest** | the gate suite itself — every injected defect must be caught and named |
+| 9 | **Status generation** | rebuilds the serial's live inventory from the tree; an unregistered file surfaces itself, nothing hides |
+| 10 | **Verify / MCU verify** | scene-skeleton verification (canon beats, confidence tags) and the film/TV gate (zero digits, zero CJK glyphs in an English-MCU text) |
+
+**The battery is one command and must exit 0.** A red layer is a stop; a green run with a skipped layer is not green (see the coverage rule above).
+
+## The prose gate — clean and clear
+
+The author's standard, enforced by measurement:
+
+- **Band:** 2,400–3,400 words per chapter.
+- **Average sentence length:** 14–18 words.
+- **Over 60:** zero sentences over 60 words.
+- **The-way constructions:** zero. **Bare fragments:** zero.
+- **No repetitive skill lists in the body** — mastery is shown by daily-life *action*; lore dumps live in the footer or the status file.
+
+Why so specific: the rejected chapter that produced this law averaged **6.8** words per sentence (median **5**), repeated "100% evolving High" in nearly every sentence, and repeated the same four canon phrases ten times. The rebuild that followed is the standard — see the Grey Wolf study in [`04`](04_case_studies.md).
+
+## The panel gate — F22 plus the drift guard
+
+- **F22 (panel prose rule):** a full panel prints in a chapter **only on change** — a level, a ring, a bloodline beat. Ordinary chapters may print **zero panel lines** and that is legal and deliberate; the status file holds the detail.
+- **Drift guard:** every meter and every printed number is checked against the serial's authority file. A frozen meter — a number that stopped moving though its feeders grow — **fails the build**. State may not rot silently.
+- **The ledger stays IN SYNC either way:** the panel ledger records every line ever printed, whether the chapter printed three lines or none.
+
+## The canon gate — receipts, not memory
+
+- **Nothing enters a chapter unverified (F3).** The canon this chapter consumes is fetched, quoted into the receipts folder, and cited in the chapter's coverage doc.
+- **Receipts are read-only.** Never edited, never silently corrected; if two readings of the same passage exist, **both are kept and the variance is logged**.
+- **Secondary sources are ore, never law** — a wiki note is a lead to check, not a citation to trust.
+- **The copy check closes the loop:** the gate compares the chapter's narration and dialogue against the receipts (n-gram runs, quoted-run length, density ceilings) and fails on borrowing. The check's threshold itself has receipts: it was rebuilt from corpus evidence after a real leak (see Lan Shen in [`04`](04_case_studies.md)).
+
+## The evolution-chain gate (F14 · F23 · F26)
+
+- **Law presence:** the evolution-chain law and the fusion law must be *findable in the tree* — a law that fell out of the docs fails the check.
+- **Ban sweep:** a valid "100% MASTERED terminal" may not appear anywhere; only the explanatory quote of the fix is allowed. The sweep is how the old model is kept purged (F23).
+- **Fusion discipline:** the skills canon must show **one footwork line** (not three), and each technique's lineage must match the per-technique map in [`01`, Appendix B](01_the_laws.md).
+- **Grades honest:** grade claims must match the exact-figures section of the status panel — a grade is a reading, not a label.
+
+## The film/TV gate (MCU)
+
+`mcu_verify.py` runs **eight gates**, including the rules that make an MCU text feel like a screenplay transcription where it must and a novel where it should: **zero digits** (numbers are written out — "nineteen beats", not "19") and **zero CJK glyphs** in an English text; no chapter footers; ASCII discipline. The camera law (P12) is checked through the coverage docs and the T-registry: every canon touch registered, every scene staged in film order from plural canon-side panels.
+
+## Audit culture — the dated record
+
+Every pass leaves a dated audit. The record currently includes: the **full comparative audit** (2026-09-20, Lan Shen — where the transcribed-dialogue leak and the butterfly-ledger stall were found), the **deep and full audits** (2026-10-10, lan_shen), the **ranking/rebuild validations** (Grey Wolf), the **chapter-52 validation** (Fire Phoenix's pacing arc), the **sentinel coverage catch** (2026-10-13 — the "25 of 26" traced to a silently skipping check and fixed to fail loudly), and the account-wide **scope sweeps** recorded in each repo's audit trail.
+
+Two lessons the audits keep re-teaching, now written into the code:
+
+- **A false FAIL is worth ten false PASSes.** A scanner once failed a chapter over hard-coded filenames from another project; the fix (a generic check) was worth more than a green run would have been. (Dragon Prince Yuan, [`04`](04_case_studies.md) §13.)
+- **Read the number, don't trust it.** Every count in this repo — chapters, words, gates, laws — is re-measured before it is quoted. When this guide says 31 laws, it means the pin block was parsed programmatically; when it says 26 of 26 checks, it means the run printed the coverage line.
+
 ---
 
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*Rebuilt 2026-10-13 from the compressed originals; every gate, layer, and audit receipt preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

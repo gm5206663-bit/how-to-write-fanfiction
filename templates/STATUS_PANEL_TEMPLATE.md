@@ -1,6 +1,6 @@
-# STATUS.md — v5.1 Evolution Chain Fix — Full Status Panel Night One Kept Current For Every Chapter
+# STATUS.md — law revision v5.4 — Full Status Panel Night One Kept Current For Every Chapter
 
-**THE single source of truth — if number isn't here doesn't exist yet — F22 Level30 Great Soul Master Storm Frost Ghost Wolf ice+wind High 1350y/1850y concealed yellow Ring Veil body 500kg Spirit Sea 850 — v5.1 evolution chain fix: no terminal**
+**THE single source of truth — if number isn't here doesn't exist yet — F22 Level30 Great Soul Master Storm Frost Ghost Wolf ice+wind High 1350y/1850y concealed yellow Ring Veil body 500kg Spirit Sea 850 — law revision v5.4 (evolution chain): no terminal**
 
 ---
 
@@ -33,19 +33,19 @@ LIVE-EDGE-END -->
 - **Origin:** OC grown Earth full meta silent wolf innate1 beside Yuhao — F0
 - **Age:** 12 (example)
 - **Level:** 30 — Great Soul Master — F22 panel prose rule full panel only on level/ring/bloodline update beat 0 lines allowed Ch6 The Hem Road 0 panel lines daily life no fights yet
-- **Martial Soul:** Grey Wolf → Storm Frost Ghost Wolf — ice+wind — F2 bloodline at awakening F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — v5.1 evolution chain fix: no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse
+- **Martial Soul:** Grey Wolf → Storm Frost Ghost Wolf — ice+wind — F2 bloodline at awakening F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — law revision v5.4 (evolution chain): no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse
 - **Rings:** 2 rings — 1350y / 1850y — concealed yellow Ring Veil hides purple as yellow fool shows two thousand-year — F10 ring seats beast bloodline F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k
-- **Body:** ~500kg robust — F18 life-skills etc but evolution chain — ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages but evolution chain Low→Mid→High — full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — v5.1 evolution chain fix: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques can fuse like three fuse and become a High, how logically things work
+- **Body:** ~500kg robust — F18 life-skills etc but evolution chain — ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages but evolution chain Low→Mid→High — full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — law revision v5.4 (evolution chain): Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques can fuse like three fuse and become a High, how logically things work
 - **Spirit Sea:** 850 — effective talent 3.5x Spirit Sea 10-100m — measured not typed
 - **Appearance:** golden hair lock forehead iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull — F20 Ghost Wolf 1000-year canon facts
 
-## §2 Exact-Figures — Single Cultivation Authority — Panel Ledger 80 rows IN SYNC — v5.1 Evolution Chain Fix
+## §2 Exact-Figures — Single Cultivation Authority — Panel Ledger 80 rows IN SYNC — law revision v5.4 (evolution chain)
 
 - **Level:** 30
 - **Rings:** 1350y / 1850y concealed yellow Ring Veil
 - **Body:** 500kg robust — evolution chain, not terminal
 - **Spirit Sea:** 850 effective talent 3.5x 10-100m
-- **Meters — Evolution Chain v5.1 — No Terminal:**
+- **Meters — Evolution Chain — law revision v5.4 — No Terminal:**
   - Walking (Low 1-100% → Silent Wind Step Mid 45%) — Basic Walking Low 1-100% that second evolves into Silent Wind Step Mid — example — there is no such thing as terminal
   - Running (Low 1-100% → Wind Stride Mid 60%) — Running Low 1-100% evolves
   - Body Control (Low 1-100% → Flowing Body Mid 70%) — body arrives where mind went first — Low→Mid→High evolution chain
@@ -59,9 +59,9 @@ LIVE-EDGE-END -->
   - Fusion: Walking + Running + Body Control (three Low 100%) fuse → Silent Wind Step Mid 1% — logically movement techniques fuse into movement Mid — three Mid fuse → Ghost Frost Storm Step High 1% — suitable techniques can fuse like three fuse and become a High and others many, how logically things work — no terminal — 100% is evolution/fusion trigger
 - **Skills:** Stormwind Wind Blade Burst Wings Wolftaken Ghost Veil 3 clones Ghost Veil/Storm Step at 1000y check SL3 Ring Veil hides purple as yellow Storm Frost Ghost Wolf ice+wind High 1350y/1850y etc — see SKILLS_CANON.md — evolution chain
 
-## §3 Meters — Every Meter Own Pace Law — v5.1 Evolution Chain Fix
+## §3 Meters — Every Meter Own Pace Law — law revision v5.4 (evolution chain)
 
-- Evolution Chain Law v5.1: There is no such thing as terminal. Basic Walking and Running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
+- Evolution Chain Law — law revision v5.4: There is no such thing as terminal. Basic Walking and Running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
 - Walking paced by steps — Low 1-100% → Mid → High — at 100% evolves instantly
 - Running paced by distance — Low 1-100% → Mid → High
 - Body Control paced by control events — Low→Mid→High
@@ -79,7 +79,7 @@ LIVE-EDGE-END -->
 - Everything that grows feeds every open meter, 100% is evolution trigger never resting terminal
 - Fusion: Walking + Running + Body Control → Silent Wind Step Mid; Reading + Understanding + Tally → Clear Mind Mid; Observation + Sense + Stillness → Hunter's Eye Mid; three Mid → High — suitable techniques can fuse like three fuse and become a High, how logically things work
 
-## §4 Road Craft Preference — Ch6 Focus Hem Roads Villages Grey Ridge Hunt In Use All Basics Evolving Low→Mid→High Daily Life No Fights Yet Effective Talent 3.5x Spirit Sea 10-100m — v5.1 Evolution Chain Fix
+## §4 Road Craft Preference — Ch6 Focus Hem Roads Villages Grey Ridge Hunt In Use All Basics Evolving Low→Mid→High Daily Life No Fights Yet Effective Talent 3.5x Spirit Sea 10-100m — law revision v5.4 (evolution chain)
 
 - Hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m
 - Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet
@@ -88,7 +88,7 @@ LIVE-EDGE-END -->
 
 ---
 
-*Template v5.1 evolution chain fix — THE single source of truth — if number isn't here doesn't exist yet — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
+*Template law revision v5.4 (evolution chain) — THE single source of truth — if number isn't here doesn't exist yet — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
 
 ---
 

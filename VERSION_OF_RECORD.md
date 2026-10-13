@@ -113,3 +113,37 @@ rulings are never paraphrased into something better.
 
 *Receipt: measured 2026-09-30 by grep and by parsing the compressed pin block
 programmatically, not by reading the title and believing it.*
+
+---
+
+## Update — 2026-10-13: the deep pass (guide edition v3.0)
+
+**Ordered by the author:** *"A work on how to write fan fiction, repo, very deeply and seriously."* The pass touched every file for a real reason — which is exactly the retag condition this file was waiting for. The full record is [`DEEP-PASS-2026-10-13.md`](DEEP-PASS-2026-10-13.md); this section updates the version system itself.
+
+**The axes now:** **Guide edition v3.0 · Law revision v5.4.** The guide axis moved because the guide changed (every doc rebuilt for readability; the front door rebuilt; duplicated blocks removed). The law axis did **not** move — no law was added, struck, or renamed; the inventory re-verified at **31 entries of record** (F0–F26 with F1/F21 reserved, P12, seven structural).
+
+**Open item 1 is settled in practice.** *"Which version axis wins in headings?"* — neither, as proposed: every doc now carries exactly one metadata line (`Guide vX · Law revision vY`) and the H1 headings no longer carry tag chains at all. If the author would rather collapse to one number, say so and the one-line retags are trivial.
+
+**The retag policy is superseded by the pass.** The old rule — *leave `v5.1` until a file is touched for a real reason* — was correct while files sat still, and the deep pass is the real reason. The retag was done once, completely:
+
+| Tag | Before (2026-09-30 census) | After the deep pass (2026-10-13) |
+|---|---|---|
+| `v5.1` | 171 occurrences | **only** the verbatim pin receipt in `docs/01` Appendix A, plus this file's history and the deep-pass diagnosis |
+| `v5.2` | 19 occurrences | this file's history and the diagnosis only |
+| `v5.4` | 39 occurrences | 119 — the citation for all rebuilt content |
+| `v2.1` | 86 occurrences | this file's history and the retired-chain line in `README`/diagnosis only |
+| `v3.0` | (did not exist) | the guide edition, cited on every doc |
+
+**The retired tag chain — preserved verbatim, once, here** (it is history now, not a heading):
+
+> *v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution — everything good completely from 12 repos selected and merged.*
+
+**Still open — needs the author, not an agent:**
+
+1. **Should `F1` and `F21` stay empty forever?** Recommendation unchanged: yes, marked reserved — the deep pass preserved the gaps.
+2. **The Control Centre schema gap** (separate repo, `note#32`): `PROJECT_STATUSES` defines nine values; the registry holds three outside the list. Both fixes change a rule — the author rules.
+3. **The templates' full readable rebuild** — metadata retagged now; the body-text rebuild is the queued next pass of this work (recorded in the deep-pass note so it cannot be forgotten).
+
+**Guide edition history:** v2.0 Advanced Perfect → v2.1 Evolution Chain Fix → **v3.0 (the deep pass)**.
+
+*Receipt: every count above re-measured by grep across the tree immediately before the push that carried this section — not remembered, and not typed from the previous census.*

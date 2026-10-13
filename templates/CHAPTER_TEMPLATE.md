@@ -1,18 +1,18 @@
-# Chapter {{N}} — {{Title}} — v5.1 Evolution Chain Fix Template
+# Chapter {{N}} — {{Title}} — law revision v5.4 (evolution chain) Template
 
-**Band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose rule full only on update/gain beat 0 lines allowed — v5.1 evolution chain fix: no terminal — copy and fill**
+**Band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose rule full only on update/gain beat 0 lines allowed — law revision v5.4 (evolution chain): no terminal — copy and fill**
 
 ---
 
 ## Chapter {{N}} — {{Title}}
 
-[Your prose here — clean and clear avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — F22 panel prose rule Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md Ch6 The Hem Road 0 panel lines daily life no fights yet — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected clean and clear no nonsense repetition — plus terminal is nonsense, there is no such thing — techniques evolve Low 1-100% → Mid → High, suitable fuse like three fuse and become a High, how logically things work — v5.1 evolution chain fix]
+[Your prose here — clean and clear avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — F22 panel prose rule Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md Ch6 The Hem Road 0 panel lines daily life no fights yet — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected clean and clear no nonsense repetition — plus terminal is nonsense, there is no such thing — techniques evolve Low 1-100% → Mid → High, suitable fuse like three fuse and become a High, how logically things work — law revision v5.4 (evolution chain)]
 
 [Example good prose style — natural prose avg 14-18 — no repetitive skill list in body — show evolution via daily life action — keep lore dumps in footer only — band 2400-3400 — over60 0 — the-way 0 — bare 0 — road craft preference hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — Spirit Sea 850 body 500kg robust — Storm Frost Ghost Wolf ice+wind High 1350y/1850y concealed yellow Ring Veil — Ghost Veil 3 clones — golden lock iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox — Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking — Advanced Ghost Doppelganger 3 phantom clones hiding real body — Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull — Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers — Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72 — but NOT repeating per sentence — show via action — evolution chain: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work — no terminal]
 
 ---
 
-## Footer — Production Block — Full Panel Only On Update/Gain — F22 Panel Prose Rule — v5.1 Evolution Chain Fix
+## Footer — Production Block — Full Panel Only On Update/Gain — F22 Panel Prose Rule — law revision v5.4 (evolution chain)
 
 **F22:** Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — Ch6 The Hem Road 0 panel lines daily life no fights yet — full panel only on level/ring/bloodline update — evolution chain Low→Mid→High, no terminal.
 
@@ -35,7 +35,7 @@
 
 ---
 
-*Template v5.1 evolution chain fix — band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose rule full only on update/gain beat 0 lines allowed Ch6 The Hem Road 0 panel lines daily life no fights yet — clean and clear no nonsense repetition — evolution chain Low 1-100% → Mid → High — no terminal — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work.*
+*Template law revision v5.4 (evolution chain) — band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose rule full only on update/gain beat 0 lines allowed Ch6 The Hem Road 0 panel lines daily life no fights yet — clean and clear no nonsense repetition — evolution chain Low 1-100% → Mid → High — no terminal — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work.*
 
 ---
 

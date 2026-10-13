@@ -1,17 +1,17 @@
-# METERS.md — v5.1 Evolution Chain Fix — Every Meter With Own Pace Law
+# METERS.md — law revision v5.4 — Every Meter With Own Pace Law
 
-**v5.1 evolution chain fix: There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt**
+**law revision v5.4 (evolution chain): There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt**
 
 ---
 
-## Evolution Chain Law — v5.1 NEW (Replaces terminal)
+## Evolution Chain Law — law revision v5.4 (Replaces terminal)
 
 **There is no such thing as terminal.** Every technique has grade Low/Mid/High/Top and progress 1-100% within grade. At 100% that second it evolves into next technique in its lineage — instant, no resting.
 
 - Basic Walking (Low) 1-100% → evolves second it hits 100% → Silent Wind Step (Mid) 1-100% → evolves → Ghost Frost Storm Step (High) 1-100% → evolves → Storm Frost Ghost Veil (Top)
 - - Suitable techniques can fuse like three fuse and become a High and others many, how logically things work
 
-**Fusion Law v5.1:**
+**Fusion Law — law revision v5.4:**
 
 - 2-3 Low (each 80%+ or one 100% + two 60%+) fuse → 1 Mid at 1%
 - 2-3 Mid fuse → 1 High at 1%
@@ -19,9 +19,9 @@
 - Fusion logical: Walking + Running + Body Control → movement; Reading + Understanding + Tally → mental; Observation + Sense + Stillness → perception; Spear + Stride + Body Control → combat
 - No technique ever stays at terminal — 100% is trigger for evolution/fusion, not terminal — there is no such thing as terminal
 
-## Pace Laws — Every Meter Own Pace Law — v5.1 Evolution Chain
+## Pace Laws — Every Meter Own Pace Law — law revision v5.4 — Evolution Chain
 
-| Meter | Grade & Progress | Evolution Chain | Current at Ch6 Gate — v5.1 Evolution Chain | Notes |
+| Meter | Grade & Progress | Evolution Chain | Current at Ch6 Gate — law revision v5.4 — Evolution Chain | Notes |
 |---|---|---|---|---|
 | Walking | Low 1-100% → Mid → High | Walking (Low) → Silent Wind Step (Mid) → Ghost Frost Storm Step (High) → Storm Frost Ghost Veil (Top) | Silent Wind Step Mid 45% — evolved from Walking Low 100% at age 8 | Basic walking Low 1-100% that second evolves into Silent Wind Step Mid — no terminal |
 | Footwork — FUSED | Mid → Ghost Frost Storm Step | Basic Walking Low + Basic Running Low + Mountain Stride Low FUSE → Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! | — |
@@ -39,7 +39,7 @@
 | Spirit Sea | Spirit Sea Realm 850 | Spirit Origin 0-99 → Spirit Connection 100-499 → Spirit Sea 500-4999 → Spirit Abyss 5000+ | 850 Spirit Sea Realm — perception 10-100m | Measured not typed effective talent 3.5x |
 | Body | ~500kg robust | Body grows with bloodlines and techniques evolving Low→Mid→High | 500kg robust | F18 but evolution chain not terminal |
 
-## Fusion Examples — v5.1 — How Logically Things Work
+## Fusion Examples — law revision v5.4 — How Logically Things Work
 
 **Movement fusion:** Basic Walking (Low 100%) + Basic Running (Low 100%) + Mountain Stride (Low 100%) fuse → Silent Wind Step (Mid) different name 1% ONE — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! — three movement basics fuse into movement Mid — logically — suitable techniques can fuse like three fuse and become a High, how logically things work
 
@@ -53,14 +53,14 @@
 
 **No terminal — 100% is evolution/fusion trigger, not terminal — there is no such thing as terminal.**
 
-## Clean and Clear Law — Show Evolution Via Daily Life Action — v5.1 Evolution Chain Fix
+## Clean and Clear Law — Show Evolution Via Daily Life Action — law revision v5.4 (evolution chain)
 
 - **Old bad style (terminal nonsense):** avg 6.8 med 5 repeating terminal per sentence — user rejected — plus terminal is nonsense, there is no such thing — techniques evolve.
 - **New good style (evolution chain):** avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w over60 0 the-way 0 bare 0 road craft preference Ch6 focus hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m — evolution chain: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work.
 
 ---
 
-*Template v5.1 evolution chain fix — every meter with own pace law — evolution chain Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
+*Template law revision v5.4 (evolution chain) — every meter with own pace law — evolution chain Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
 
 ---
 

@@ -1,6 +1,6 @@
-# SKILLS_CANON.md — v5.1 Evolution Chain Fix — Soul Skills Description Like Soul Land Canon
+# SKILLS_CANON.md — law revision v5.4 — Soul Skills Description Like Soul Land Canon
 
-**v5.1 evolution chain fix: There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt for your serial**
+**law revision v5.4 (evolution chain): There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt for your serial**
 
 ---
 
@@ -13,9 +13,9 @@
 - **Advanced Ghost Doppelganger:** 3 phantom clones hiding real body
 - **Shrek Academy Beast Dueling Area:** Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull
 
-## Storm Frost Ghost Wolf — Evolution at High+purple — F17 — v5.1 Evolution Chain Fix
+## Storm Frost Ghost Wolf — Evolution at High+purple — F17 — law revision v5.4 (evolution chain)
 
-- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — v5.1 evolution chain fix: no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High
+- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — law revision v5.4 (evolution chain): no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High
 - **Concealment:** Ring Veil hides purple as yellow fool shows two thousand-year — Low→Mid→High evolution chain
 - **Skills:**
   - **Ghost Veil:** 3 phantom clones hiding real body — Advanced Ghost Doppelganger — evolution chain High→Top
@@ -23,7 +23,7 @@
   - **Stormwind:** Wind Blade Burst Wings Wolftaken — ice+wind High 1350y/1850y — evolution chain
   - **Wind Blade Burst Wings:** flight 50m best condition shatter preserve life — Wolftaken — evolution
 
-## Evolution Chain Examples — v5.1 NEW — How Logically Things Work
+## Evolution Chain Examples — law revision v5.4 — How Logically Things Work
 
 **Walking → Silent Wind Step → Ghost Frost Storm Step:**
 - Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! — not three separate High
@@ -45,7 +45,7 @@
 
 **No such thing as terminal — 100% is evolution, not terminal.**
 
-## Your OC Skills — Template — v5.1 Evolution Chain
+## Your OC Skills — Template — law revision v5.4 — Evolution Chain
 
 - **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — include golden lock iron-gray coat etc] — Low 1-100% → Mid → High evolution chain — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse
 - **Second Ring — [Name] — [Age]y — [Effect]:** [Description] — evolution chain
@@ -54,7 +54,7 @@
 
 ---
 
-*Template v5.1 evolution chain fix — soul skills description like Soul Land canon — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
+*Template law revision v5.4 (evolution chain) — soul skills description like Soul Land canon — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
 
 ---
 

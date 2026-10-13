@@ -1,4 +1,4 @@
-# CANON_LEDGER_TEMPLATE.md — v5.0 Perfect Rebuild — Canon Beats + Confidence Tags + Receipts + Butterfly Registry
+# CANON_LEDGER_TEMPLATE.md — law revision v5.4 — Canon Beats + Confidence Tags + Receipts + Butterfly Registry
 
 **Copy and adapt — Stark Heir MCU_TIMELINE.md v4 + confidence tags + butterfly registry T-14..T-22 + Lan Shen date arithmetic highest-yield + Devouring Dragon canon-voice rollout 3 lenses s53/s54/s56**
 

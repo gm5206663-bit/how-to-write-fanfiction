@@ -1,6 +1,6 @@
-# SYSTEM_SPEC.md — v5.1 Evolution Chain Fix — Ledger Complete Every Law Day One Through Perfect Rebuild
+# SYSTEM_SPEC.md — law revision v5.4 — Ledger Complete Every Law Day One Through Perfect Rebuild
 
-**v5.1 evolution chain fix: There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work — copy and adapt**
+**law revision v5.4 (evolution chain): There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work — copy and adapt**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - **Slots:** 1/1/1 +1 per rank-up 10/10/10 at Titled — F10 ring seats beast bloodline
 
-## Evolution Chain Law — F14 v5.1 — There is no such thing as terminal
+## Evolution Chain Law — F14 — law revision v5.4 — There is no such thing as terminal
 
 - **There is no such thing as terminal.** Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
 - Every technique has grade Low/Mid/High/Top and progress 1-100% within grade
@@ -18,29 +18,29 @@
 - Fusion: Walking + Running + Body Control (three Low 100%) fuse → Silent Wind Step Mid 1% — logically movement techniques fuse into movement; Reading + Understanding + Tally → Clear Mind Mid; Observation + Sense + Stillness → Hunter's Eye Mid; three Mid fuse → High
 - No technique ever stays at terminal — 100% is trigger for evolution/fusion, not terminal — how logically things work — replaces old Mastery — that was nonsense — user: basic walking and running low it go 1 to 100% the just as it reach 100% that second it evolve into next like imagine silent wind step, mid level, then same
 
-## Interconnection — F15 — v5.1 Evolution Chain
+## Interconnection — F15 — law revision v5.4 — Evolution Chain
 
 - **Interconnection 2.96× Grey Mid appearance cascade** — F15 — talent grows as bloodlines grow and techniques evolve Low→Mid→High — innate is start not ceiling
 
-## Thousand-Year — F16 — v5.1 Evolution Chain
+## Thousand-Year — F16 — law revision v5.4 — Evolution Chain
 
 - **Thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt** — F16 — evolution chain — three Low fuse → Mid, three Mid → High — suitable techniques can fuse like three fuse and become a High, how logically things work
 
-## Evolution — F17 — v5.1 Evolution Chain Fix
+## Evolution — F17 — law revision v5.4 (evolution chain)
 
 - **Evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc but evolution chain Low→Mid→High — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High** — F17
 
-## Life-Skills — F18 — v5.1 Evolution Chain Fix — No Terminal
+## Life-Skills — F18 — law revision v5.4 — No Terminal
 
-- **Life-skills evolution chain v5.1: no terminal — Walking Low 1-100% → Silent Wind Step Mid, Running Low→Wind Stride Mid, Body Control Low→Flowing Body Mid, Soul Power Control Low→Flowing Control Mid, Five Senses Low→Keen Senses Mid, Reading Low→Fluent Reading Mid, Understanding Low→Deep Understanding Mid, Spearmanship Low→Spear Flow Mid, Cooking Low→Camp Cooking Mid, Combat Style Low→Grey Ridge Hunt High, Hunter's Sense Low→Beast Sense Mid, Stillness Low→Patience as Limb Mid, etc — ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages but evolution chain Low→Mid→High — full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — suitable techniques can fuse like three fuse and become a High and others many, how logically things work** — F18 — replaces old terminal — that was nonsense
+- **Life-skills evolution chain — law revision v5.4: no terminal — Walking Low 1-100% → Silent Wind Step Mid, Running Low→Wind Stride Mid, Body Control Low→Flowing Body Mid, Soul Power Control Low→Flowing Control Mid, Five Senses Low→Keen Senses Mid, Reading Low→Fluent Reading Mid, Understanding Low→Deep Understanding Mid, Spearmanship Low→Spear Flow Mid, Cooking Low→Camp Cooking Mid, Combat Style Low→Grey Ridge Hunt High, Hunter's Sense Low→Beast Sense Mid, Stillness Low→Patience as Limb Mid, etc — ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages but evolution chain Low→Mid→High — full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — suitable techniques can fuse like three fuse and become a High and others many, how logically things work** — F18 — replaces old terminal — that was nonsense
 
-## Clean and Clear Law — Avg 14-18 Band 2400-3400 Over60 0 The-Way 0 Bare 0 — v5.1 Evolution Chain Fix
+## Clean and Clear Law — Avg 14-18 Band 2400-3400 Over60 0 The-Way 0 Bare 0 — law revision v5.4 (evolution chain)
 
 - **Clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages — evolution chain Low→Mid→High, no terminal** — old bad style avg 6.8 med 5 repeating terminal per sentence — user rejected — new good style avg 14-18 no repetitive skill list in body show evolution via daily life action keep lore dumps in footer only band 2400-3400w — evolution chain: Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable techniques fuse like three fuse and become a High, how logically things work
 
 ---
 
-*Template v5.1 evolution chain fix — Ledger complete — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
+*Template law revision v5.4 (evolution chain) — Ledger complete — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
 
 ---
 

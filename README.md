@@ -2,204 +2,113 @@
   <img src="assets/banner.png" alt="A writing desk at night: a glowing book, five golden spirit rings, a phoenix quill and blue-silver grass" width="100%">
 </p>
 
-# How to Write Gated Fan Fiction — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
+# How to Write Gated Fan Fiction
+
+**A production system for long-form fan fiction that stays true to its source — for hundreds of thousands of words.**
 
 <p align="center">
-  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v2.0-advanced-perfect"><img src="https://img.shields.io/badge/release-v2.0%20Advanced%20Perfect-brightgreen?style=flat-square" alt="v2.0 Advanced Perfect"></a>
+  <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases"><img src="https://img.shields.io/badge/guide%20edition-v3.0-brightgreen?style=flat-square" alt="Guide v3.0"></a>
   <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions"><img src="https://img.shields.io/badge/discussions-open-9cf?style=flat-square&logo=github" alt="Discussions"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
 
-> The system I use to write long-form fan fiction that stays **canon-true for hundreds of thousands of words**.
-> Proven on **12+ Soul Land (斗罗大陆) serials + 2 MCU serials** — 2940 files measured, 290+ chapters, 312 chapters / 1.35M+ words in the library alone, every shipped chapter machine-checked before shipping. Latest: Grey Wolf — 10 chapters clean and clear (v5.4.3 Canon-Strict; panel 10 chapters IN SYNC), avg 14-18, band 2400-3400, over60 0, run_all 4 steps PASS.
-> Written for **any fandom**, with Soul Land + MCU as working examples. **v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution — everything good completely from 12 repos selected and merged.**
-
-**This is not a vibe guide.** It is a working production system: 31 entries of record (F0-F26 + P12 + 7 structural laws, measured 2026-09-30 — was "25 laws"), foundation docset v5.0 20 files, chapter loop, audit gates 9 layers lan_shen 8 gates mcu_verify 7 gates blue_silver 10-layer adaptive prodigy sl2-goldenv grey-wolf run_all.py 4 steps sentinel 26 PASS drift scanner selftest, and publishing patterns Control Centre/StoryOS/Soul Library. Treat fan fiction like software: source of truth, tests, and state panels — and your story can grow forever without rotting.
+> **Guide edition v3.0 · Law revision v5.4 · rebuilt 2026-10-13.** The two version axes are explained in [`VERSION_OF_RECORD.md`](VERSION_OF_RECORD.md) — where they disagree with any heading, that file wins.
 
 ---
 
-## The big idea in 30 seconds — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
+## What this is
 
-Most fan fiction dies the same five deaths. This method makes each death **structurally impossible** by attaching a rule and a check to every one of them — now 31 entries of record with compressed pin:
+**This is not a vibe guide.** It is the working system behind a workshop of gated serials — every chapter machine-checked against its own laws before it ships. As of the 2026-10-13 measurement, the account holds **22 registered books · 375 chapters · 1,617,455 words**, of which the public library shelf carries **18 serials · 312 chapters · 1,351,161 words**. The method is proven across **16 Soul Land (斗罗大陆) serials plus Supergirl and two MCU serials**, and it is written to be **fandom-neutral** — the Soul Land and MCU work is the worked example, not the requirement.
 
-| # | How fan fiction dies | The law that kills it | The check that enforces it | Which serial taught it |
-|---|---|---|---|---|
-| 1 | **Canon drift** — fic contradicts or forgets source | Canon-First Creation Law + Ledger-Canon Law receipts not memory | canon spine + canon ledger + gate scan + canon_copy_check narration 12-grams quoted >=7 words density <=120 | Lan Shen V1 15ch retired transcribed 297 verbatim re-voiced 0-63 + Devouring Dragon canon-voice rollout 3 lenses s53/s54/s56 |
-| 2 | **OC takeover** — world bends around OC | Multi-Panel Law: canon always shown never skipped OC added never centered + Panel Law Re-Bound s45 story is beast's + F22 panel prose rule full only on update/gain beat 0 lines allowed | panel audit per chapter + panel ledger 80 rows IN SYNC + check_panels.py drift guard frozen meter fails build + human takeover s45 46-87% men keepers doings carried plot while beast carried audience rebuilt 0% panels | Unraveled Tide home + Devouring Dragon + Grey Wolf F22 Ch6 The Hem Road 0 panel lines |
-| 3 | **Power inflation** — OC becomes god by ch20 | Unfixed Law: power baseline never ceiling traits dated states + F0-F26 locks effective talent 3.5x Spirit Sea 850 body 500kg Storm Frost Ghost Wolf ice+wind High Ring Veil hides purple as yellow + Never inflate no unearned power/mastery/immunity buffer+field ceilings hard + Never replace canon cause deny ACCESS not competence Talent embodied only | status panel + banned-value scan + STATUS.md single source of truth if number isn't here doesn't exist yet + exact-figures section single cultivation authority | Grey Wolf F0-F22 perfect rebuild v0.7.0 + Eternal Varun gravity+kinetic never replace never nerf + Stark Heir Talent embodied only |
-| 4 | **Voice drift** — canon characters stop sounding like themselves | Style-match + personality-first law + Clean and clear law avg 14-18 + Plain Language Law s40 ~350 substitutions + Style Law + House Grammar s34 avg ≤25 no >60 ≥3 registers dialogue mandatory + MCU zero-digit zero-CJK | prose method doc + self-audit + style_gate.py band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 + measure_prose.py floor/ceiling/60-cap + retired-word hits + the-way tic cap 2 + dialogue floor 96/83/67/72 + canon_copy_check + date arithmetic highest-yield | Devouring Dragon plain language s40 + Grey Wolf clean and clear avg 14-18 vs old avg 6.8 med 5 repeating evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High) + Golden Lion METHOD v4 plain-first + MCU zero-digit + Lan Shen date arithmetic caught 9 month-count errors in ch9 alone |
-| 5 | **State rot** — notes contradict each other until nobody knows what's true | Two-Copies Law: fact maintained in two places will be wrong in one of them and check reads other + Ship Law mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified + Foundation-Stage rulings first prose second always zero chapters until ruled | single source of truth + independent drift scan + sentinel 26 PASS + drift.py independent stale-edge scanner does not trust project's checker + selftest.py 20 checks proves every gate can fail + status_gen.py STATUS.md auto-generated never hand-edit + extract_state.py workspace.json measured never typed + build.py data/index.json state/ chapters/ vault/ issues.json sha256 | Adaptive Prodigy two-copies law mirror retired staleness layer fails if second copy reappears + Fire Phoenix five-copies disaster two copies frozen at Ch31 while live edge Ch52 + Golden Lion agent-driven near-daily STATUS_PANEL truth + Lan Shen STATUS.md auto-generated 116 files 8779w + Control Centre state in data site generated + StoryOS sha256 + Soul Library sentinel |
+Treat fan fiction like software. Give it a source of truth, tests, and state panels — and a story can grow forever without rotting.
 
----
+## The problem: how fan fiction dies
 
-## The chapter loop — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
+Most long fan fiction dies one of five deaths. This method makes each death *structurally impossible* by attaching a law to it and a check that enforces the law.
 
-Every chapter, without exception — now with 6 stages + 4 advanced patterns + rebuild protocol + 3 publishing patterns:
+| # | The death | The law | The check that enforces it |
+|---|---|---|---|
+| 1 | **Canon drift** — the fic contradicts or forgets the source | Canon-First Creation · Ledger-Canon: receipts, not memory | canon spine + canon ledger + gate scan + verbatim-plagiarism sweep (n-gram runs vs canon receipts) |
+| 2 | **OC takeover** — the world bends around your original character | Multi-Panel Law: *canon always shown, never skipped; the OC added, never centered* | panel audit per chapter + panel ledger IN SYNC + drift guard that fails the build on a frozen meter |
+| 3 | **Power inflation** — the OC becomes a god by chapter 20 | Unfixed Law: *power is a baseline, never a ceiling; traits are dated states* | status panel as single source of truth + banned-value scan |
+| 4 | **Voice drift** — canon characters stop sounding like themselves | Style-match + personality-first | style gate with a prose band, average sentence length, and hard caps |
+| 5 | **State rot** — the fic's own numbers no longer match its own text | Ship Law: update *everything* the same turn, or refuse to ship | generated status files + selftest + independent drift scan |
 
-```
-   ┌─────────────────────────────────────────────────────────────────────────┐
-   │  Stage0 RULINGS FIRST — RULINGS_LOG.md F0-F26 locks numbered dated       │
-   │  Stage1 FOUNDATION v5.0 20 files — Grey Wolf perfect rebuild pattern    │
-   │    FOUNDATION.md RULINGS_LOG.md SYSTEM_SPEC.md STATUS.md METERS.md      │
-   │    SKILLS_CANON.md PANELS.md TIMELINE.md STORY_ARCS.md CHARACTERS.md    │
-   │    CANON_GROUND.md CANON_STUDY_BEAST_TYPE.md SERIAL_LOG.md              │
-   │    AGENT_EXPERIENCE.md GLOSSARY.md PLACES.md ECONOMY.md CODEX.md        │
-   │    + chapters/ + tools/ — THE single source of truth                    │
-   │  Stage2 ORE MINING — canon_coverage/ or canon_extract/ source-tagged    │
-   │    receipts nothing enters chapter unverified Ledger-Canon Law           │
-   │  Stage3 LOOP — band/style/panels/MCU constraints                        │
-   │    band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose    │
-   │    rule full only on update/gain beat 0 lines allowed Ch6 The Hem Road  │
-   │    0 panel lines daily life no fights yet road craft hem roads villages │
-   │    Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights │
-   │    yet effective talent 3.5x Spirit Sea 10-100m clean and clear          │
-   │    no nonsense repetition show mastery via daily life action             │
-   │    lore dumps in footer only old bad avg 6.8 med 5 repeating            │
-   │    evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High) per sentence repeating golden lock/toughest        │
-   │    skull/tofu waist/Light of Netherworld 10x user rejected               │
-   │  Stage4 PUBLISHING PATTERNS — Control Centre/StoryOS/Soul Library       │
-   │    Control Centre state in data site generated                           │
-   │    StoryOS sha256 independent drift stdlib only                          │
-   │    Soul Library one index.html no frameworks sentinel 26 PASS            │
-   │  Stage5 AUDIT GATES — 9 layers lan_shen 8 gates mcu_verify              │
-   │    7 gates blue_silver 10-layer adaptive prodigy sl2-goldenv             │
-   │    grey-wolf run_all.py 4 steps sentinel drift scanner selftest          │
-   │    Stage6 SHARE KIT — templates v5.0 perfect rebuild + gates             │
-   │                                                                         │
-   │  Advanced Patterns:                                                     │
-   │  • Agent-driven near-daily Golden Lion STATUS_PANEL truth G09 sect-join  │
-   │  • Dual-track canon-parallel Lan Shen V2 9 layers ALL GREEN             │
-   │    canon on page complete unskipped Wulin close-third OC parallel       │
-   │    same clock same streets butterfly only when tracks contact            │
-   │  • MCU dual-track film order Stark Heir/Varun 8 gates                   │
-   │    P12+P12-AMENDMENT camera law camera goes where canon goes             │
-   │    receipts first film order plural panels T-registry                    │
-   │  • Beast-POV plain language Devouring Dragon s40/s45/s44/s39             │
-   │    s53/s54/s56 canon-voice rollout 3 lenses                              │
-   │                                                                         │
-   │  Rebuild Protocol: Grey Wolf perfect rebuild example                     │
-   │  when foundations stale rebuild all files v5.0 Perfect Rebuild F22      │
-   │  STATUS.md SKILLS_CANON.md SYSTEM_SPEC.md etc + 6ch rebuilt perfectly  │
-   │  clean and clear + run_all 4 steps manuscript synced 6 reader editions  │
-   │  + FULL edition manuscript/ gains FULL edition style gate passed        │
-   │  site built panel ledger in sync 80 IN SYNC + release v0.7.0-perfect    │
-   │  rebuild zip 293K + site docs/ built                                     │
-   │                                                                         │
-   │  1. ORE        read the canon chapters this fic consumes                │
-   │  2. DRAFT      write the chapter (panels, prose law)                    │
-   │  3. SELF-AUDIT check every law by hand, fix your own                    │
-   │  4. GATE       run the machine checks — must exit 0                     │
-   │  5. SYNC       update EVERY state file same-turn                        │
-   │  6. SHIP       commit + push, stamp the live edge + sentinel            │
-   └─────────────────────────────────────────────────────────────────────────┘
-        ↑ repeat. small things become big things if you skip.
+Each of those five deaths has a chapter of its own here — §1 in [`docs/01_the_laws.md`](docs/01_the_laws.md), the checks in [`docs/03_gates_and_audits.md`](docs/03_gates_and_audits.md), and the serials that paid for them in [`docs/04_case_studies.md`](docs/04_case_studies.md).
+
+## The big idea in thirty seconds
+
+1. **A source of truth per serial** — one status panel stating everything current; if a number isn't in it, the number doesn't exist yet.
+2. **Receipts, not memory** — nothing enters a chapter unverified. Canon is fetched, quoted, and filed before it is written.
+3. **A law only counts with a check** — every rule that matters is enforced by a script that can *fail*. A gate that has never been seen to fail is a gate nobody has tested.
+4. **Update everything the same turn** — a chapter is not shipped until every state file agrees with it. "Later" is how state rots.
+5. **One copy of one thing** — a document kept in two places will be wrong in one of them.
+
+## How to read this repo
+
+| Doc | Read it when |
+|---|---|
+| [`01 · The Laws`](docs/01_the_laws.md) | You want the constitution — all 31 entries of record, what each one says, the check that enforces it, and which serial paid for it |
+| [`02 · The Workflow`](docs/02_workflow.md) | You are starting a serial — foundation docset, ore mining, and the six-step chapter loop |
+| [`03 · Gates and Audits`](docs/03_gates_and_audits.md) | You want the machine room — the gate layers, what each one catches, and the selftest culture |
+| [`04 · Case Studies`](docs/04_case_studies.md) | You want the proof — thirteen serials, what each taught, with numbers |
+| [`05 · Glossary`](docs/05_glossary.md) | A term is unfamiliar (band, locks, ore, butterfly, drift guard…) |
+| [`06 · Automation`](docs/06_automation.md) | You want your rules enforced by code, not memory |
+| [`07 · Share Kit`](docs/07_share_kit.md) | You want the templates and a release checklist |
+| [`08 · Advanced Edition`](docs/08_advanced_perfect_edition.md) | You want the technique-evolution and fusion laws in full |
+| [`09 · MCU Adaptation`](docs/09_mcu_adaptation.md) | Your fandom is film/TV — camera law, film order, plural panels |
+| [`10 · StoryOS and Control Centre`](docs/10_storyos_and_control_centre.md) | You want to publish: readers, state sites, and an agent console |
+| [`templates/`](templates/) | You are ready to build the docset — nine copy-paste starting files |
+| [`examples/minigate.py`](examples/minigate.py) | You want a working gate in one file — stdlib only, selftest included |
+
+## Start in five minutes
+
+```bash
+# 1. Prove the demo gate catches defects (and passes clean prose):
+python3 examples/minigate.py --selftest
+
+# 2. Copy the contract into your serial:
+cp -r templates/ my_serial/foundation/
+
+# 3. Fill the rulings first — foundation stage is a stage, not a failure to start.
+#    Drafting opens when the rulings are answered (see docs/02, Stage 1).
+
+# 4. Chapter loop, forever:  ORE → DRAFT → SELF-AUDIT → GATE → SYNC → SHIP
 ```
 
-The full workflow — from empty folder to finished serial — is in [`docs/02_workflow.md`](docs/02_workflow.md).
+## The scoreboard (measured 2026-10-13)
 
-## What's in this repository — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
+| Serial | Chapters | Words | Gates | What it taught |
+|---|---:|---:|---|---|
+| The Adaptive Prodigy | 116 | 523,356 | ten-layer, ALL GREEN | built the system; the two-copies law |
+| Fire Phoenix | 52 | 270,659 | per-chapter validation | the five-copies disaster; pacing law (compress the routine, expand the butterfly) |
+| The Unraveled Tide | 24 | 80,127 | run_all battery | the multi-panel law's home |
+| Devouring Dragon | 24 | 65,081 | 8-tool battery, sentinel 26 PASS | plain-language law; panel re-bind; the canon-voice rollout |
+| The Grey Wolf | 10 | 25,792 | run_all 4 steps, panel 10 IN SYNC | the perfect-rebuild standard: clean-and-clear prose, F0–F26 locks |
+| Lan Shen (V2) | 7 | 32,211 | nine layers, ALL GREEN | dual-track canon-parallel; date arithmetic as the highest-yield check |
+| One in a Thousand | 7 | 63,691 | gate PASS | the OC as the actor; canon complete but told tight |
+| Stark Heir | 5 | 27,673 | mcu_verify 8 gates | MCU film order; camera law; plural panels |
+| Fire Dragon Lizard | 5 | 18,605 | chapter gate | a complete small book |
+| The Golden Lion | 8 | 22,487 | sl2-goldenv 8 PASS | agent-driven near-daily shipping; possession carding |
+| Blue Silver (parked) | 15 | 34,711 | seven-gate maturity | small and gated can coexist; rebuild protocol |
+| Supergirl — Adrian Vale | 17 | 61,986 | CI gates on every push | the 70-sentence ruling: a serial's compressed voice is the author's call |
+| MCU Eternal — Varun | 3 | 9,212 | mcu_verify 8 gates | talent embodied, never named |
+| Dragon Prince Yuan | 1 | 3,706 | gate PASS | a false FAIL is worth ten false PASSes |
 
-| Path | What it gives you — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution |
-|---|---|
-| [`VERSION_OF_RECORD.md`](VERSION_OF_RECORD.md) | **Which version this is.** Two axes — guide edition v2.1, law revision v5.4 — the measured law inventory, the superseded tags, and what still needs an author ruling |
-| [`docs/01_the_laws.md`](docs/01_the_laws.md) | The laws of record — 31 entries: F0-F26 (23 assigned; F1/F21/F24/F25 never assigned) + MCU P12 camera law + StoryOS + Control Centre + Soul Library + Dual-Track + Foundation-Stage + Ship Law compressed pin, each with why it exists and how to enforce it |
-| [`docs/02_workflow.md`](docs/02_workflow.md) | Foundation → ore → draft → gate → sync → ship, six stages + four advanced patterns + rebuild protocol + publishing patterns Stage0 rulings first Stage1 20-file foundation docset v5.0 Grey Wolf pattern Stage2 ore mining with receipts Stage3 loop with band/style/panels/MCU constraints Stage4 publishing patterns Control Centre/StoryOS/Soul Library Stage5 audit gates Stage6 share kit, advanced workflows agent-driven near-daily Golden Lion dual-track canon-parallel Lan Shen V2 9 layers MCU dual-track film order Stark Heir/Varun 8 gates beast-POV plain language Devouring Dragon s40/s45/s44/s39 s53/s54/s56, rebuild protocol Grey Wolf perfect rebuild example |
-| [`docs/03_gates_and_audits.md`](docs/03_gates_and_audits.md) | How to build your own audit gate — all checks from all projects — working example lives at examples/minigate.py ~100 lines stdlib only with selftest — advanced gates from 12+ serials included — Grey Wolf run_all.py 4 steps manuscript+style+site+panels 80 rows IN SYNC, Lan Shen 9 layers ALL GREEN, MCU 8 gates +2 manifest zero-digit zero-CJK PASS, Blue Silver 7-gate maturity, Adaptive Prodigy 10-layer, Golden Lion sl2-goldenv, Devouring Dragon measure+verify+build_oc_status+ship+analytics+recaps+lint+sentinel 26 PASS, Soul Library sentinel 26 PASS, StoryOS drift.py, Control Centre selftest.py |
-| [`docs/04_case_studies.md`](docs/04_case_studies.md) | Real numbers real lessons real methods from inside how they do how they write — 14 serials scoreboard v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution 2026-09-26 audit 12 repos 2940 files — Grey Wolf perfect rebuild v0.7.0 clean and clear F0-F22, Golden Lion agent-driven near-daily G09 sect-join panel v20, Devouring Dragon plain language s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56, Blue Silver 7-gate Book One 15ch, Adaptive Prodigy 116ch 10-layer two-copies law, Lan Shen V2 dual-track canon-parallel 9 layers ALL GREEN, Stark Heir MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry, MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named, Fire Phoenix pacing compress routine, StoryOS sha256 independent drift stdlib only, Control Centre state in data site generated, Soul Library one index.html no frameworks sentinel 26 PASS, the SL3 foundation study — Lin Hao's first five read as the bar → the ten craft laws (extraction doc removed 2026-10-12; live home `lan_shen/foundation/STYLE_LAW.md` §2/§4/§6) |
-| [`docs/05_glossary.md`](docs/05_glossary.md) | Every term in one place from 12+ serials + StoryOS + Control Centre + Soul Library + MCU — 2940 files measured |
-| [`docs/06_automation.md`](docs/06_automation.md) | Every tool from 12 serials — tool inventory all tools from all projects — how to adapt minigate.py to your serial — advanced patterns Grey Wolf run_all.py 4 steps Lan Shen 9 layers MCU 8 gates Soul Library sentinel — working examples ready |
-| [`docs/07_share_kit.md`](docs/07_share_kit.md) | Ready-to-post intros + essay + etiquette for sharing your gated serials with the world — templates v5.0 perfect rebuild + MCU templates + publishing templates StoryOS + Control Centre + Soul Library + gates |
-| [`docs/08_advanced_perfect_edition.md`](docs/08_advanced_perfect_edition.md) | Everything good from 12 serials selected — compressed pin — checklist — advanced perfect edition checklist before ship |
-| [`docs/09_mcu_adaptation.md`](docs/09_mcu_adaptation.md) | Dual-track film order — Stark Heir method + chronological Eternal Varun method — camera law P12+P12-AMENDMENT — zero-digit zero-CJK — T-registry — never replace canon cause deny ACCESS not competence Talent embodied only |
-| [`docs/10_storyos_and_control_centre.md`](docs/10_storyos_and_control_centre.md) | Publishing patterns — StoryOS + Control Centre + Soul Library — how to adapt — sha256 independent drift stdlib only — state in data site generated — one index.html no frameworks sentinel 26 PASS |
-| [`templates/`](templates/) | Copy-paste skeletons v5.0 perfect rebuild Grey Wolf pattern 20 files: FOUNDATION.md RULINGS_LOG.md SYSTEM_SPEC.md STATUS.md METERS.md SKILLS_CANON.md PANELS.md TIMELINE.md STORY_ARCS.md CHARACTERS.md CANON_GROUND.md CANON_STUDY_BEAST_TYPE.md SERIAL_LOG.md AGENT_EXPERIENCE.md GLOSSARY.md PLACES.md ECONOMY.md CODEX.md + chapters/ + tools/ + STATUS.md SKILLS_CANON.md METERS.md SYSTEM_SPEC.md CHARACTERS.md PANELS.md templates updated to v5.0 perfect rebuild + MCU templates + publishing templates |
-| [`examples/minigate.py`](examples/minigate.py) | A working 5-check gate in ~100 lines, stdlib Python, with selftest — 10/10 classes caught on real ones 5/5 on minigate example 20 checks lan_shen selftest.py every injected defect caught and named |
-| [`examples/github-actions-gate.yml`](examples/github-actions-gate.yml) | Copy-paste CI: make every push/PR pass the gate selftest on GitHub Actions |
+**Combined:** 375 chapters across 22 registered books, 1,617,455 words — every shipped chapter gate-checked. The library shelf publishes 18 serials · 312 chapters · 1,351,161 words as one reading site.
 
-## The living tools (used daily, in their own repos) — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
+## The law inventory
 
-| Tool | What it is — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution |
-|---|---|
-| [`soul-land-universal-kit`](https://github.com/gm5206663-bit/soul-land-universal-kit) | The full public workspace + the portable authoring kit (canon, laws, gates, templates, verify script) — 300ch total — tools/ship_chapter.py mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified |
-| [`the-universal-storyline-creation`](https://github.com/gm5206663-bit/the-universal-storyline-creation) | The **Control Centre** — one read and a fresh agent reaches correct state — state in data site generated — index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed — tools/selftest.py negative tests for validate.py every rule gets bad case and good case — tools/extract_state.py workspace.json measured from disk — tools/bootstrap.py + build.py — live on GitHub Pages https://gm5206663-bit.github.io/the-universal-storyline-creation/ — 13 projects |
-| [`storyos-site`](https://github.com/gm5206663-bit/storyos-site) | **StoryOS** — publishes a workspace as a reader + agent console with sha256-level integrity — scripts/build.py data/index.json state/ chapters/ vault/ issues.json — scripts/drift.py independent stale-edge scanner does not trust project's checker — scripts/server.py static app + JSON API + proposal inbox + key-gated writes + audit log — app/index.html whole UI one self-contained file no external assets — bin/serve-tunnel.sh build + serve + cloudflared http2 + end-to-end edge verification — stdlib only Python 3.9+ |
-| [`soul-library`](https://github.com/gm5206663-bit/soul-library) | **Soul Library** — read the serials every gated Soul Land fanfiction serial published as one clean reading site 312ch 1.35M+ words every shipped chapter machine-checked — live https://gm5206663-bit.github.io/soul-library/ — one index.html no frameworks no CDN no tracking reading progress localStorage only — tools/analytics.py measure every chapter house way sentence avg dialogue density length write analytics_data.json measured never typed — tools/build_recaps.py build recaps_data.json The Story So Far — tools/lint_continuity.py cross-chapter consistency checks TIMELINE monotonicity coverage PLACES references CONTINUITY coverage — tools/sentinel.py independent workspace health scan 26 checks 26 PASS — tools/build_oc_status.py OC status sheet generated from authority files — what's on shelf Golden Lion SL2 LIVE 8ch near-daily Grey Wolf SL2 LIVE PERFECT REBUILD 10ch Devouring Dragon SL+1000y LIVE 24ch gate-PASS canon-voice rollout Ch1-12 Blue Silver pre-canon Book One complete 15ch Adaptive Prodigy SL3 116ch ten-layer green Unraveled Tide SL2 24ch paused Supergirl DC TV LIVE 15ch ultra clean prose One in a Thousand SL3 LIVE 7ch Qian Xun Ji Reborn SL1 LIVE 9ch Fire Phoenix SL4 LIVE 52ch Lan Shen SL3 LIVE 7ch Fire Dragon Lizard SL1 complete 5ch Holy Spirit SL2 paused 4ch System Cheat design 4ch Dragon Prince Yuan 1ch Stark Heir MCU LIVE 5ch MCU Eternal paused 3ch SL3-new retired 1ch |
-| [`soul_land_2_the_grey_wolf/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/soul_land_2_the_grey_wolf) | **Grey Wolf** — perfect rebuild v5.4.3 Canon-Strict: ten chapters, all in band 2400–3400 avg 14–18, over60 0, the-way 0, 80 panel rows IN SYNC, run_all green. Foundation: meters — every meter its own pace, 100% is a gate never resting; SKILLS_CANON; PANELS with drift guard; receipted TIMELINE; STORY_ARCS — Arc 1 Grey Ridge complete, Arc 2 hem-road craft. |
-| [`soul-land-2-the-golden-lion`](https://github.com/gm5206663-bit/soul-land-2-the-golden-lion) | **Golden Lion** — agent-driven near-daily — 8ch 24,806w LIVE — foundation/AUTHORS_LAW.md L-01.. + codex/PROSE_METHOD_SL2.md METHOD v4 plain-first + foundation/NATURAL_DOCTRINE.md G01-G07 foundation/STATUS_PANEL.md single-state truth Snapshot v20 G09 sect-join executed ch8 shipped assessment-eve armed chapters live 8 — agent-driven near-daily STATUS_PANEL truth not README ship script automates mechanical 80% — author-strike pattern Chapter 1 written author rejected entire opening venue as canon-illogical "if she wants she choose in starting; who gives her first ring?" Chapter 1 rebuilt same-day on canon-logical footing every ledger re-synced later strike produced CANON-FIRST default follow canon ask never possession carding author flagged missed power-state reveal panel versioned v4→v5 with base-form card stack order ring-orbit exposure fix went into panel and gate — live edge Ch8 G09 sect-join executed assessment-eve armed panel v20 8ch live 3089w avg21.1 |
-| [`lan_shen/`](https://github.com/gm5206663-bit/soul-land-universal-kit/tree/main/lan_shen) | **Lan Shen** — dual-track canon-parallel: canon runs on the page, complete and unskipped; the OC lives parallel on the same clock, butterflies only when the tracks touch. V2 epoch: 7 chapters live · 32,211w · nine layers ALL GREEN. (V1’s 15-chapter epoch was consolidated out on 2026-10-12 — retrievable from the kit’s own history.) |
-| [`mcu_fanfic_stark_heir`](https://github.com/gm5206663-bit/mcu_fanfic_stark_heir) | **Stark Heir** — MCU dual-track film order — 4ch 22K V1 epoch 4ch shipped gated — Mark Howard Stark born 1996 Tony Stark's son brief night with actress bought home for money raised open as Stark heir genius by blood supernaturally beautiful since birth underneath Adaptation Talent stabilized X-gene psychic core grows through breakthrough slumbers world calls disease start Chapter One opens at Iron Man 1 (2008) he is twelve — status V1 epoch 4ch shipped gated Ch2 v2 6231w Ch3 v3 4909w Ch4 5467w tools/mcu_verify.py PASS zero-digit zero-CJK canon consumed Iron Man 1 beats 1-15 staged scene-by-scene film order ambush→cave→find→return→chest-swap→workshop rebirth complete→gala Everhart photographs next Chapter Five Gulmira sortie jets tank-punch board lockout doctrine canon runs on page complete unskipped in film order from plural canon-side panels P12+P12-AMENDMENT camera law P13 P14 OC lives braided around it absolute canon ownership butterfly only logged when two tracks touch on page T-registry in MCU_TIMELINE.md incl T-14 armor family canon-designated Mark because that is his name origin-stage queued for Ch.4 map STATUS.md every file its role live numbers cold start HANDOFF.md read order laws gates next move — gates tools/mcu_verify.py 8 gates PASS zero-digit zero-CJK G1 unreadable-script scanned 22 files 0 hits CJK regex per line G2 backslash-n scanned project text self excluded 0 hits G3 digits-in-prose 4ch prose outside fences 0 digits G4 dialogue-floor Chapter_01 96 lines Chapter_02 83 Chapter_03 67 Chapter_04 72 G5 anchor-order Chapter_01 anchor 2008 OK same-era sequence allowed single-anchor order only span-contiguity needs start-end panels G6 placeholders 0 placeholders foundation TBDs out of scope G7 marker-discipline markers fenced only cards ≤1 and last M1 manifest-edge edge ch4 matches 4 files M2 forbidden-future denylist ['Chitauri','Ultron','Extremis','Vibranium','Sokovia','Blip','Thanos','Avengers','Infinity'] absent TOTAL PASS 0 failures |
-| [`mcu_eternal_fanfic`](https://github.com/gm5206663-bit/mcu_eternal_fanfic) | **MCU Eternal Varun** — chronological MCU — 3ch paused — Adaptation Talent MCU Eternal version gravity+kinetic never replace never nerf Talent never named — HANDOFF.md only file says what is true NOW foundation/STATUS_PANEL.md single source of truth §0 live post-Ch.3 First Shore §1-26 2024 TARGET benchmark to be earned — live edge After Chapter Three The First Shore 2026-09-20 shore battle won law on sand bead pair carried next Chapter Four first ATTACK order freeze uncontrolled catch wound+regen — locks never replace canon cause participate protect preserve Gaurav rule never nerf to preserve canon deny ACCESS parallel separate scene never competence never inflate no unearned power/mastery/immunity buffer+field ceilings hard Talent never named/voiced in-story embodied only true mission reaches Varun ONLY via Arc 5 canon chain Sersi stays Uni-Mind center unless user approves Gilgamesh canon death via separation no access flippable to branch-save ONLY before that chapter written romance FIRST is AJAK earned Arc 2+ lock file governs later loves natural unforced no planned list zero romance before maturity no digits in prose no chapter footers no CJK anywhere ASCII filenames — gates mcu_verify 8 PASS zero-digit zero-CJK — HOLD-BUBBLE 3 breaths bleed law on sand ANCHOR-FEET 3 breaths CATCH on self shell-bead pair |
+**31 entries of record:** F0–F26 (the soul-beast constitution, gaps at F1/F21/F24/F25 reserved forever) + P12 (camera law, for film/TV fandoms) + 7 structural laws (StoryOS · Control Centre · Soul Library · Dual-Track · Foundation-Stage · Ship Law · Clean-and-clear). The full list, each with its check and its receipts, is [`docs/01_the_laws.md`](docs/01_the_laws.md); `VERSION_OF_RECORD.md` carries the measured inventory and the history of how it was counted.
 
-> **Two-Copies note:** this repo *teaches* the method; the tools above *are* the method. When they disagree, the tools win.
-
-## Start your first gated serial in 10 steps — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution
-
-1. **Choose your lane** — which era/branch of canon, where you enter, how far you'll follow the spine before diverging — Soul Land vs MCU vs your fandom.
-2. **Write the premise in one paragraph** — protagonist, martial soul / power system hook, and *why canon needs your OC to exist* (if the answer is "it doesn't", good — the OC is added, never centered) — example Grey Wolf OC grown Earth full meta silent wolf innate1 beside Yuhao F0 bloodline at awakening F2, Stark Heir Mark Howard Stark born 1996 Tony Stark's son brief night with actress bought home for money raised open as Stark heir genius by blood supernaturally beautiful since birth underneath Adaptation Talent stabilized X-gene psychic core grows through breakthrough slumbers world calls disease start Chapter One opens at Iron Man 1 (2008) he is twelve.
-3. **Open the rulings file** — list every decision only the author can make (protagonist identity, relation to canon, entry point, divergence policy) — F0-F26 locks numbered dated every ruling verbatim from author — **Drafting is LOCKED until the rulings are answered** — Foundation-Stage rulings first prose second always zero chapters until ruled.
-4. **Build the canon spine** — a dated, sourced list of the canon events your fic will touch — primary text only; wiki knowledge is ore, not law — canon_coverage/ or canon_extract/ source-tagged receipts nothing enters chapter unverified Ledger-Canon Law — date arithmetic every "N days ago / N days later" recomputed by hand against day map highest-yield check caught 9 month-count errors in ch9 alone and 4 stale year counts in ch13 Lan Shen — MCU_TIMELINE.md v4 + confidence tags + butterfly registry T-14..T-22.
-5. **Write the power law** — ranks, ages, costs, ceilings — SYSTEM_SPEC.md Ledger complete every law day one through perfect rebuild v4.0 perfect rebuild slots 1/1/1 +1 per rank-up 10/10/10 at Titled meters full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k walls alone ring-gated honest yield 24/7 Evolution Chain Law v5.1: Low 1-100% → Mid → High instant evolution second it hits 100% 120→168 pour-based Mid-caliber 1% Mid interconnection 2.96× Grey Mid appearance cascade thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc life-skills evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High) ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken effective talent 3.5x — SKILLS_CANON.md soul skills description like Soul Land canon v5.0 perfect rebuild with Ghost Wolf golden lock iron-gray coat green glowing eyes toughest skull fragile body tofu waist paradox Light of Netherworld 3 clones Shrek Beast Dueling Area + Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers + Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72 — Then write the **banned-values list**: numbers the prose may never state — banned-value scan gate check catching prose stating numbers panel superseded or banned real bug caught stale copies presented Dawnflame 1,120 Dawn-Iron 2,040 as current values live panel explicitly banned Fire Phoenix 5 copies disaster.
-6. **Write the knowledge firewalls** — what your OC must not know yet, and from which chapter they may learn it — codex/KNOWLEDGE_FIREWALLS_VARUN.md who may/must-not know what — knowledge firewall gate check OC knowing something before chapter that allows it reincarnator OC casually knowing cult secrets 40 chapters early Holy Spirit Varun.
-7. **Create the status panel** — the single source of truth for the live edge: ranks, locks, location, relationships, next chapter — STATUS.md full status panel night one kept current for every chapter v5.0 perfect rebuild F22 Level30 Great Soul Master Storm Frost Ghost Wolf ice+wind High 1350y/1850y concealed yellow Ring Veil body 500kg Spirit Sea 850 THE single source of truth if number isn't here doesn't exist yet — STATUS_PANEL.md single-state truth Snapshot v20 G09 sect-join executed ch8 shipped assessment-eve armed chapters live 8 Golden Lion — exact-figures section single cultivation authority — LIVE EDGE machine block wholesale replace nothing stale survives — NEXT BEAT road craft preference hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life.
-8. **Write the gate** — start from [`examples/minigate.py`](examples/minigate.py), add your serial's banned values and firewalls — **A gate must selftest**: prove it catches defects before you trust it on real chapters — defect-class selftest 10/10 classes caught on real ones 5/5 on minigate example 20 checks lan_shen selftest.py every injected defect caught and named check that has never caught anything is decoration gate that has never failed selftest is rubber stamp — never weaken gate to pass it if gate fails chapter wrong or panel stale fix work not test moment you edit check just to get through gate dead and every future pass rubber stamp — never trust only project's own checker checker shares project's blind spots if scanner hard-codes wrong filenames it reads zero firewalls and says PASS happened scanner hard-coded 11 SL4-specific firewall filenames so project declaring firewalls in differently-named file read as zero firewalls scanner bug made generic after and project genuinely lacked machine-readable live-edge manifest authored after plus two stale "do not write Chapter 1 yet" headers sitting above contradicted later sections fix independent drift scanner built on different assumptions side-by-side two checkers disagree is most honest alarm examples soul-land-universal-kit/tools/ship_chapter.py independent soul-library/tools/sentinel.py independent workspace health scan storyos-site/scripts/drift.py independent stale-edge scanner does not trust project's checker the-universal-storyline-creation/tools/selftest.py + validate.py.
-9. **Write Chapter 1** — canon chapter open, your chapter close — band 2400-3400 avg 14-18 over60 0 the-way 0 bare 0 F22 panel prose rule full only on update/gain beat 0 lines allowed Ch6 The Hem Road 0 panel lines daily life no fights yet road craft preference hem roads villages Grey Ridge Hunt in use all basics evolving Low→Mid→High daily life no fights yet effective talent 3.5x Spirit Sea 10-100m clean and clear no nonsense repetition show mastery via daily life action keep lore dumps in footer only old bad style avg 6.8 med 5 repeating evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High) per sentence repeating golden lock/toughest skull/tofu waist/Light of Netherworld 10x user rejected — Then run the loop: self-audit → gate → sync every file → ship — ship mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified soul-land-universal-kit/tools/ship_chapter.py.
-10. **After every chapter, update everything same-turn** — panel, ledger, log, continuation prompt — never "later" — later is how state rots — STATUS_PANEL entry + LIVE EDGE line HIS_STATUS_PANEL live line ADAPTATION_LOG delta SERIAL_LOG row CONTINUITY row PLACES/TIMELINE rows checklist printed refuses "shipped" until --mirrors-done — publishing patterns Control Centre state in data site generated StoryOS sha256 independent drift stdlib only Soul Library one index.html no frameworks sentinel 26 PASS.
-
-## The laws, compressed — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution — 31 entries of record
-
-> **F0 OC grown Earth full meta silent wolf innate1 beside Yuhao**
-> **F2 bloodline at awakening**
-> **F3 research everything**
-> **F4 all files**
-> **F5 workshop refresh**
-> **F6 Do yourself**
-> **F7 FULL panels**
-> **F8 honest pace**
-> **F9 grade ladder**
-> **F10 ring seats beast bloodline**
-> **F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k**
-> **F12 walls alone ring-gated**
-> **F13 honest yield 24/7**
-> **F14 Evolution Chain Law v5.1: Low 1-100% → Mid → High instant evolution second it hits 100% 120→168 pour-based Mid-caliber 1% Mid**
-> **F15 interconnection 2.96× Grey Mid appearance cascade**
-> **F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt**
-> **F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc**
-> **F18 life-skills evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High) ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken**
-> **F19 canon skill format Dai Mubai White Tiger possession pale white light muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers Feng Xiaotian Wind Blade Burst 10 half crescent sealing evasion 10× quantity Double Wolf Possession +50% attack defense agility Swift Wind Dual Wings cyan wings flight 50m best condition shatter preserve life Tornado Wind Blade countless sharp wind blades tornado Thirty-Six Continuous Slashes strength speed increasing each chop evolves 54/72**
-> **F20 Ghost Wolf 1000-year canon facts golden hair lock forehead iron-gray coat green glowing eyes identifier toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull**
-> **F22 panel prose rule Not every time in chapter you only write when there is update or just gain then you write full normally i can check in status file everything when i needed beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md**
-> **P12 camera law camera goes where canon goes receipts first film order plural panels + P12-AMENDMENT**
-> **StoryOS sha256 independent drift stdlib only data/index.json state/ chapters/ vault/ issues.json**
-> **Control Centre state in data site generated index.html GENERATED TRANSFER_BOOTSTRAP.txt GENERATED state/workspace.json measured never typed**
-> **Soul Library one index.html no frameworks sentinel 26 PASS 219ch 928K+**
-> **Dual-Track canon-parallel canon on page complete unskipped Wulin close-third OC parallel same clock same streets butterfly only when tracks contact**
-> **Foundation-Stage rulings first prose second always zero chapters until ruled**
-> **Ship Law mechanical 80% + authored 20% checklist Exit 0 only when every automated step verified**
-> **Clean-and-clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 road craft hem roads villages**
-
-Full text with commentary: [`docs/01_the_laws.md`](docs/01_the_laws.md).
-
-## Scoreboard — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution (2026-09-26 Audit — 12 Repos, 2940 Files)
-
-| Serial | Chapters | Words/state | Gates | Method Legacy |
-|---|---|---|---|---|
-| The Adaptive Prodigy | 116 | ~354,700 | ten-layer ALL GREEN | built the system, two-copies law, mirror retired staleness layer fails if second copy reappears |
-| Fire Phoenix | 52 | 270,659w live on the shelf | validation per chapter + support sync | five-copies disaster + pacing law compress routine expand butterfly + natural institutional consequence payoff |
-| The Unraveled Tide | 24 | 84K | run_all | multi-panel law home |
-| Devouring Dragon | 24 | 65K | measure + verify + build_oc_status + ship + analytics + recaps + lint + sentinel 26 PASS | plain language law s40 + panel re-bound s45 story is beast's 0% panels + scope s39 write once + style s34 avg ≤25 no >60 + pacing s44 sameness skipped time-skip + three adaptation lenses s53/s54/s56 canon-voice rollout + OC status system s55 |
-| Blue Silver | 15 | 34,711 | seven-gate maturity | small and gated coexist, rebuild protocol, Book One complete kill count zero permanent |
-| The Golden Lion | 8 | 24K 3089w avg21.1 | sl2-goldenv 8 PASS | one-day gated launch near-daily agent-driven STATUS_PANEL truth, possession carding base-form card stack order ring-orbit, author-strike pattern cheap overrides |
-| The Grey Wolf | 10 | 25,792 v5.4.3 Canon-Strict | run_all 4 steps manuscript+style+site+panels 80 rows IN SYNC band 2400-3400 all 10 IN over60 0 the-way 0 | clean and clear law avg 14-18 band 2400-3400 over60 0 the-way 0 F0-F26 locks effective talent 3.5x Spirit Connection 200-300 body 100-150kg robust for age Storm Frost Ghost Wolf ice+wind High Ring Veil yellow within limits concealment dimming PROPOSED Ghost Veil 3 clones golden lock toughest skull tofu waist Light of Netherworld Storm Step Wind Blade Burst Wings 50m F22 panel prose rule full only on update/gain road craft hem roads villages |
-| Lan Shen | 7 V2 | 32,211w V2 | 9 layers ALL GREEN | dual-track canon-parallel doctrine canon on page complete unskipped Wulin close-third OC parallel same clock same streets butterfly only when tracks contact, V1 epoch (15 ch) deleted with the 2026-10-12 extras — retrievable from the kit's own history, V1 transcribed dialogue 297 verbatim re-voiced 0-63, date arithmetic highest-yield |
-| Stark Heir | 5 | 27,673 | mcu_verify 8 gates PASS zero-digit zero-CJK | MCU dual-track film order P12+P12-AMENDMENT camera law camera goes where canon goes receipts first film order plural panels T-registry, never replace canon cause deny ACCESS not competence Talent embodied only |
-| MCU Eternal Varun | 3 | paused | mcu_verify 8 gates PASS zero-digit zero-CJK no footers no CJK ASCII | chronological MCU forbidden_now list true mission only Arc5 Sersi Uni-Mind center Ajak-first romance lock, HOLD-BUBBLE 3 breaths bleed law on sand ANCHOR-FEET 3 breaths CATCH on self shell-bead pair |
-| Dragon Prince Yuan | 1 | 3706w | gate PASS | gate that cried FAIL scanner bug hard-coded 11 SL4 firewall filenames made generic, false FAIL worth ten false PASSes |
-| Holy Spirit | 4 | live | no-mistake kit | twin souls DEVOURING DRAGON public + DRAGON HEART hidden |
-| The Second Heartbeat | 0 | foundation | rulings-before-prose | butterfly registry ripple rules |
-| Seed of Creation | 0 | foundation | same | scaffolded 4 rulings pending zero chapters until ruled |
-
-**Combined: 1.35M+ words in soul-library (312 chapters across 18 serials) + Fire Phoenix 52ch + MCU 8ch + Lan Shen 7ch + Fire Dragon Lizard 5ch + Miraculous 4ch + System Cheat 4ch = 290+ chapters across the workshop, 2940 files indexed, every shipped chapter gate-checked. Method proven across 10+ Soul Land serials plus MCU. Latest: Grey Wolf — ten chapters clean and clear (v5.4.3 Canon-Strict). New v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution: 31 entries of record, 6 stages + 4 advanced patterns + rebuild protocol + 3 publishing patterns, 10+ gate types, 14 serials case studies, 2940 files measured, 15 commits, 2 new releases with assets, all gates green, all pages live.**
+**Every law was paid for by a mistake.** The numbers are receipts — F26 exists because of one specific complaint, and it says so. That is why gaps stay gaps and laws are never renumbered.
 
 ---
 
-*How to Write Gated Fan Fiction — v2.1 Advanced Perfect Edition — Evolution Chain Fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution — everything good completely from the workshop 2940 files 290+ chapters measured — Grey Wolf perfect rebuild F0-F22 clean-and-clear, Golden Lion agent-driven near-daily G09 sect-join panel v20, Devouring Dragon plain language s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56, Blue Silver 7-gate Book One 15ch, Adaptive Prodigy 116ch 10-layer two-copies law, Lan Shen V2 dual-track canon-parallel 9 layers ALL GREEN, Stark Heir MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry, MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named, Fire Phoenix pacing compress routine, StoryOS sha256 independent drift stdlib only, Control Centre state in data site generated, Soul Library one index.html no frameworks sentinel 26 PASS — copy, adapt, never invent from scratch.*
+## House rules
+
+Add-only spirit (corrections supersede; they don't rewrite history) · claims carry receipts · a law without a check is a wish · be kind — fan fiction is love made public. Contributions welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+## License and provenance
+
+MIT for everything here ([`LICENSE`](LICENSE)). This guide is fandom-neutral: your fandom's own rules for fan work outrank anything in it. Soul Land (斗罗大陆 / Douluo Dalu) and all related characters belong to Tang Jia San Shao and the original rights holders; everything in the workshop is non-commercial derivative fan work ([`NOTICE.md`](NOTICE.md)).

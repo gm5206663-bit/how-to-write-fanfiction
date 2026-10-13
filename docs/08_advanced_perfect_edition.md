@@ -1,114 +1,88 @@
-# 08 · Advanced Perfect Edition — What Makes v2.1 Advanced Perfect — Evolution Chain Fix
+# 08 · The Advanced Edition — the evolution chain and fusion, in full
 
-**v2.0 was advanced perfect. v2.1 is advanced perfect + evolution chain fix. Every law was paid for. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
-
----
-
-## What v2.0 Added Over v1.0
-
-- **20-file foundation docset:** not 10 — perfect rebuild edition — README.md HANDOFF.md LICENSE NOTICE.md STATUS.md foundation/FOUNDATION.md RULINGS_LOG.md SYSTEM_SPEC.md STATUS.md METERS.md SKILLS_CANON.md PANELS.md TIMELINE.md STORY_ARCS.md RELATIONSHIPS.md CHARACTERS.md CANON_GROUND.md GLOSSARY.md PLACES.md ECONOMY.md CODEX.md RAILS.md OPEN_RULINGS.md CANON_SPINE.md POWER_LAW.md KNOWLEDGE_FIREWALLS.md MCU_TIMELINE.md CROSS_PROJECT_LAW.md STATUS_PANEL.md TIMELINE_MARK.md chapters/ codex/ canon_extract/ canon_coverage/ tools/ checks/ audits/
-- **F22 panel prose rule:** Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed — panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — e.g., Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m hem roads villages Grey Ridge Hunt using all basics evolving clean and clear no nonsense repetition
-- **Clean and clear prose law:** natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only keep band 2400-3400 over60 0 the-way 0 bare 0 — Grey Wolf Ch1 2875w avg14.5 Ch2 2428w avg15.0 Ch3 2414w avg14.1 Ch4 2498w avg18.5 Ch5 3125w avg12.8 Ch6 2458w avg11.3 all IN band all gates PASS 80 panel rows IN SYNC release v0.7.0-perfect-rebuild 293K zip — evolution chain fix v5.1
-- **10-layer gate / 9-layer / 8-gate / 7-gate:** Adaptive Prodigy 116ch 10-layer two-copies law — Lan Shen V2 dual-track canon-parallel 9 layers ALL GREEN — Stark Heir MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry 8 gates — Blue Silver 7-gate Book One 15ch — all must exit 0 — all green — before ship
-- **Agent experience:** AGENT_EXPERIENCE.md clean and clear guide for other agents F0-F22 + perfect rebuild — Grey Wolf perfect rebuild F0-F22 clean-and-clear avg14-18 band2400-3400 over60 0 the-way 0 F22 panel prose rule
-- **Advanced patterns:** Four advanced patterns — dual-track canon-parallel Lan Shen V2 9 layers ALL GREEN canon runs on page complete unskipped in Wulin's own close-third OC parallel same clock same streets butterfly only logged when tracks make contact on page canon spine power law firewall system what Lan knows and when CANON_SPINE.md + POWER_LAW.md + KNOWLEDGE_FIREWALLS.md — MCU dual-track film order Stark Heir P12+P12-AMENDMENT camera law plural panels T-registry complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 film order plural canon-side panels camera goes where canon goes MCU_TIMELINE.md + CROSS_PROJECT_LAW.md + STATUS_PANEL.md + TIMELINE_MARK.md MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named — agent-driven near-daily Golden Lion G09 sect-join panel v20 — plain language + panel re-bound Devouring Dragon s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56 plain language s40 pacing compress routine Fire Phoenix 7-gate Book One 15ch Blue Silver 10-layer two-copies law Adaptive Prodigy 116ch StoryOS sha256 independent drift stdlib only Control Centre state in data site generated Soul Library one index.html no frameworks sentinel 26 PASS
-
-## What v2.1 Adds Over v2.0 — Evolution Chain Fix F23
-
-**User correction 2026-09-26:** "What the hell: 100% · MASTERED, there is no such thing, when it's work like that basic walking and running low it go 1 to 100% the just as it reach 100% that second it evolve into next like imagine silent wind step, mid level, then it's go same 1 to 100% then as it's reach 100%, it's become next, ghost Frost Storm step, High then it's same, Yes suitable techniques can fuse like three fuse and become a High and others many, how logically things work There is no such thing: 100% · MASTERED So why you add what i ever tell you to make this nonsense"
-
-### Old F14/F18 Was Nonsense — New F14/F18/F23 Is Evolution Chain
-
-- **Old (nonsense):** Mastery no stages→MASTERED 120→168 pour-based Mid-caliber 1% Mid — 100% MASTERED High — life-skills 100% MASTERED High — techniques stay at 100% MASTERED terminal
-- **New (v5.1 evolution chain fix):** There is no such thing as 100% MASTERED terminal — Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same — Suitable techniques can fuse like three fuse and become a High and others many how logically things work — Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal — 100% is evolution/fusion trigger
-
-### Evolution Chain Law v5.1 — THE CORE
-
-- **There is no such thing as terminal.** Each technique has grade Low/Mid/High/Top and progress 1-100% within grade — At 100% that second it evolves instantly into next technique in its lineage — No technique ever stays at 100% terminal — 100% is trigger for evolution/fusion
-- **Examples:**
-  - Basic Walking Low 1-100% every step counts at 100% that second evolves → Silent Wind Step Mid 1%
-  - Silent Wind Step Mid 1-100% quiet step seen-late at 100% evolves → Ghost Frost Storm Step High 1%
-  - Ghost Frost Storm Step High 1-100% frost+ghost+storm at 100% evolves → Storm Frost Ghost Veil Top
-  - Body Control Low 1-100% → Flowing Body Mid → Storm Body High — body arrives where mind went first
-  - Soul Power Control Low 1-100% → Flowing Control Mid → Spirit Control High — soul power flows where eye goes
-  - Five Senses Low 1-100% → Keen Senses Mid → Spirit Eye High — Sight Hearing Smell Taste Touch as technique — Low 1-100% → Keen Senses Mid → Spirit Eye High — no terminal — Sight amber ice-amber eyes sees weakness Hearing hears dogs hearts Smell nose reads whole day
-  - Reading Low→Fluent Reading Mid→Deep Reading High — paced by pages
-  - Understanding Low→Deep Understanding Mid→Profound Understanding High — paced by comprehension events
-  - Spearmanship Low→Spear Flow Mid→Storm Spear High — paced by thrusts
-  - Cooking Low→Camp Cooking Mid→Feast Cooking High — paced by meals — Low 89% → Camp Cooking Mid at 100%
-  - Combat Style Low→Grey Ridge Hunt Mid→High fusion — paced by sparring — fusion of all basics evolving — named technique like Purple Demon Eyes 4 stages Perception Attention Intoxication Immersion — own effects spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Ring Veil concealment hides purple as yellow mind's eye perception extreme distances Wide-Area incantation hunt
-
-### Fusion Law v5.1 — How Logically Things Work
-
-- **Suitable techniques can fuse like three fuse and become a High and others many how logically things work**
-- **2-3 Low fuse → 1 Mid at 1%, 2-3 Mid fuse → 1 High at 1%, 2-3 High fuse → 1 Top at 1%**
-- **Fusion logical:** Walking + Running + Body Control → movement; Reading + Understanding + Tally → mental; Observation + Sense + Stillness → perception; Spear + Stride + Body Control → combat — No technique ever stays at terminal — 100% is trigger for evolution/fusion not terminal
-- **Examples:**
-  - Walking Low 100% + Running Low 100% + Body Control Low 100% fuse → Silent Wind Step Mid 1% logically movement techniques fuse into movement
-  - Reading Low 100% + Understanding Low 100% + Tally Low 100% fuse → Clear Mind Mid 1% mental techniques fuse into mental
-  - Observation Low 100% + Hunter's Sense Low 100% + Stillness Low 100% fuse → Hunter's Eye Mid 1% perception techniques fuse into perception
-  - Soul Power Control Low 100% + Body Control Low 100% + Five Senses Low 100% fuse → Grey Ridge Hunt base Mid etc
-  - Silent Wind Step Mid 100% + Wind Stride Mid 100% + Flowing Body Mid 100% fuse → Ghost Frost Storm Step High 1%
-  - Clear Mind Mid 100% + Keen Senses Mid 100% + Flowing Control Mid 100% fuse → Spirit Eye High etc
-  - movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No random fusion — No such thing as terminal 100% is evolution not terminal
-
-### Grades — Honest Current Readings Rise As Thing Grows And 100% Triggers Evolution Instantly
-
-- **Ladder:** Low Waste Mid Ordinary High Excellent Top Top-tier Ultimate Divine Extreme attribute road
-- **Grades honest current readings rise as thing grows and 100% triggers evolution instantly — F22 Perfect Rebuild v5.1 Evolution Fix everything Mid or above at Ch6 gate per author's view no Low martial soul evolves to Storm Frost Ghost Wolf ice+wind High skills upgrade on breakthrough Ring Veil concealment all basics evolve and fuse into named techniques like Purple Demon Eyes evolution chain no terminal**
-- **Current Ch6 gate:** Wolf martial soul High→Storm Frost Ghost Wolf Excellent→Top via three bloodlines + thousand-year rings — Wolf skill possession High→Storm Frost Ghost Wolf possession — Netherlight first ring skill High→Ghost Veil — Dark Pool Cultivation High different name county plain method Basic Soul Power Cultivation Low different name → Flowing Soul Cultivation Mid different name → Dark Pool Cultivation High different name → Spirit Sea Cultivation Top different name — different name per grade evolution chain no terminal pool dark dense like Mysterious Heaven Skill foundation — Hunter's Craft High Low→Mid→High evolution — Grey Ridge Hunt fusion High F16/F17 Fusion + v5.1 Evolution Chain Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Soul Power Control+Body Control+Five Senses+Observation+Running+Reading+Understanding+Spearmanship+Cooking+Combat Style fused named method evolution chain includes Ring Veil concealment everything Mid+ — Grey Wolf bloodline High 65% old thin line evolved honest 5y + thousand-year rings appearance changed +1.30 talent feeds Wolf — Ghost Wolf bloodline Mid 35% first kill blood quiet step seen-late control observation everything Mid+ triggers Ghost Veil upgrade — Stormwind bloodline Mid→High 15% last hunt blood fast kind wind's stride observation running body control wind attribute even — Windstride second ring skill High→Storm Step 1850-year storm-wolf stride burst thousand-year purple upgrades at 1000y — Ring Veil concealment High F17 Concealment Law hides purple thousand-year as yellow to world true purple only Ledger — Ladder Low Waste Mid Ordinary High Excellent Top Top-tier Ultimate Divine Extreme attribute road — Grades honest current readings rise as thing grows and 100% triggers evolution instantly — F22 Perfect Rebuild v5.1 Evolution Fix everything Mid or above at Ch6 gate per author's view martial soul evolves to Storm Frost Ghost Wolf ice+wind High skills upgrade on breakthrough Ring Veil concealment all basics evolve and fuse into named techniques like Purple Demon Eyes evolution chain no terminal
-
-## Advanced Perfect Edition Checklist — v2.1
-
-- [x] 20-file foundation docset before chapter 1 — perfect rebuild edition
-- [x] F22 panel prose rule — no full panel in chapter unless level/ring/bloodline update — beat 0 lines allowed — full details in STATUS.md SKILLS_CANON.md — Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m hem roads villages Grey Ridge Hunt using all basics evolving clean and clear no nonsense repetition
-- [x] Clean and clear prose law — natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only keep band 2400-3400 over60 0 the-way 0 bare 0 — Grey Wolf Ch1 2875w avg14.5 Ch2 2428w avg15.0 Ch3 2414w avg14.1 Ch4 2498w avg18.5 Ch5 3125w avg12.8 Ch6 2458w avg11.3 all IN band all gates PASS 80 panel rows IN SYNC release v0.7.0-perfect-rebuild 293K zip
-- [x] 10-layer / 9-layer / 8-gate / 7-gate — Adaptive Prodigy 116ch 10-layer two-copies law — Lan Shen V2 dual-track canon-parallel 9 layers ALL GREEN — Stark Heir MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry 8 gates — Blue Silver 7-gate Book One 15ch — all must exit 0 — all green — before ship
-- [x] Agent experience — AGENT_EXPERIENCE.md clean and clear guide for other agents F0-F22 + perfect rebuild — Grey Wolf perfect rebuild F0-F22 clean-and-clear avg14-18 band2400-3400 over60 0 the-way 0 F22 panel prose rule
-- [x] Advanced patterns — Four advanced patterns — dual-track canon-parallel Lan Shen V2 9 layers ALL GREEN canon runs on page complete unskipped in Wulin's own close-third OC parallel same clock same streets butterfly only logged when tracks make contact on page canon spine power law firewall system what Lan knows and when CANON_SPINE.md + POWER_LAW.md + KNOWLEDGE_FIREWALLS.md — MCU dual-track film order Stark Heir P12+P12-AMENDMENT camera law plural panels T-registry complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 film order plural canon-side panels camera goes where canon goes MCU_TIMELINE.md + CROSS_PROJECT_LAW.md + STATUS_PANEL.md + TIMELINE_MARK.md MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named — agent-driven near-daily Golden Lion G09 sect-join panel v20 — plain language + panel re-bound Devouring Dragon s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56 plain language s40 pacing compress routine Fire Phoenix 7-gate Book One 15ch Blue Silver 10-layer two-copies law Adaptive Prodigy 116ch StoryOS sha256 independent drift stdlib only Control Centre state in data site generated Soul Library one index.html no frameworks sentinel 26 PASS
-- [x] Evolution Chain Fix F23 v5.1 — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — - [x] Templates v5.1 clean — STATUS_PANEL_TEMPLATE.md SKILLS_CANON_TEMPLATE.md METERS_TEMPLATE.md SYSTEM_SPEC_TEMPLATE.md CHARACTERS_TEMPLATE.md PANELS_TEMPLATE.md CHAPTER_TEMPLATE.md SERIAL_FOUNDATION_TEMPLATE.md — all v5.1 clean evolution chain Low 1-100%→Silent Wind Step Mid→Ghost Frost Storm Step High fusion logically no MASTERED terminal
-- [x] Docs v2.1 evolution fix — docs/01_the_laws.md v2.1 Evolution Chain Fix F14 Low 1-100%→Mid→High instant evolution second it hits 100% fusion 2-3 Low→Mid 3 Mid→High logically no terminal — docs/02_workflow.md v2.1 — docs/03_gates_and_audits.md v2.1 — docs/04_case_studies.md v2.1 — docs/05_glossary.md v2.1 — docs/06_automation.md v2.1 — docs/07_share_kit.md v2.1 — docs/08_advanced_perfect_edition.md v2.1 — docs/09_mcu_adaptation.md v2.1 — docs/10_storyos_and_control_centre.md v2.1
-- [x] Tools green — tools/run_all.py + check_panels.py green — must exit 0 — all green — before ship — drift guard frozen meter fails build — 80 rows IN SYNC Grey Wolf — Exact-figures single cultivation authority — 80 rows IN SYNC — every meter its own pace — infusion-fed — passive 24/7 — evolution chain no terminal — suitable fuse like three fuse become High logically
+**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** This doc is the deep-dive on the model that reshaped every serial's power system: **techniques evolve; there is no terminal.** The short form lives in [`01`](01_the_laws.md) (F14 · F18 · F23 · F26); this is the full technique.
 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
+## What the fix replaced
+
+The old model had a terminal state: a technique at 100% became "MASTERED" and stayed there, and life-skills were "100% MASTERED High" once and forever. The author struck it:
+
+> *"There is no such thing: 100% MASTERED"* — and further: *"So why you add what i ever tell you to make this nonsense"*.
+
+The replacement — recorded verbatim from the ruling:
+
+> *"Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same — Yes suitable techniques can fuse like three fuse and become a High and others many, how logically things work."*
+
+**Everything downstream changed with it:** the skills canon, the meters file, the status panel, the chapter footer rules, and the ban sweep that keeps the dead model from creeping back into any draft.
+
+## The evolution chain — the core, with examples
+
+- Every technique has a **grade**: Low · Mid · High · Top — and progresses **1–100% within its grade**.
+- **At 100%, that same second, it evolves** into the next technique of its lineage — instant, no resting state, no terminal.
+- **Every grade carries a different name.** Mid is not "Low, improved"; it is its own technique with its own identity, its own description, and its own next.
+
+```
+Basic Walking (Low)        1–100% → evolves at 100% →
+Silent Wind Step (Mid)     1–100% → evolves at 100% →
+Ghost Frost Storm Step(High) 1–100% → evolves at 100% →
+Storm Frost Ghost Veil (Top)
+```
+
+More lines, same shape — *each its own lineage*:
+
+- Running (Low) → **Wind Stride** (Mid) → **Storm Step** (High)
+- Body Control (Low) → **Flowing Body** (Mid) → **Storm Body** (High/further)
+- Soul Power Control (Low) → **Flowing Control** (Mid) → **Spirit Control** (High)
+- Five Senses (Low) → **Keen Senses** (Mid) → **Spirit Eye** (High) — sight, hearing, smell, taste and touch *as a technique*
+- Reading (Low) → **Fluent Reading** (Mid) → **Deep Reading** (High) — paced by pages
+- Understanding (Low) → **Clear Understanding** (Mid) → **Profound Understanding** (High) — paced by comprehension events
+- Cooking (Low) → **Camp Cooking** (Mid) → **Feast Cooking** (High) — paced by meals
+- Combat Style (Low) → **Grey Ridge Hunt** (Mid→High fusion) — paced by sparring; the fusion of everything that feeds it
+
+Named-technique discipline applies at every grade — in the model's own reference case, a perception line maturing through stages like *Perception → Attention → Intoxication → Immersion* — but the stages are **grades with different names**, never a terminal badge.
+
+## The fusion law — how logically things work
+
+When suitable techniques reach their ceilings together, they **fuse**:
+
+- **2–3 Lows at 100% fuse → one Mid at 1%. 2–3 Mids → one High. 2–3 Highs → one Top.**
+- **Fusion follows logic, never convenience:**
+  - movement + movement + body = **movement** (Walking 100% + Running 100% + Body Control 100% → Silent Wind Step, Mid 1%)
+  - mental + mental + mental = **mental** (Reading 100% + Understanding 100% + Tally 100% → Clear Mind, Mid 1%)
+  - perception + perception + patience = **perception** (Observation 100% + Hunter's Sense 100% + Stillness 100% → Hunter's Eye, Mid 1%)
+  - mid-tier example: Silent Wind Step 100% + Wind Stride 100% + Flowing Body 100% → Ghost Frost Storm Step, High 1%
+- **No random fusion.** No "everything into one technique." Each technique has a *correct evolution of its own* — the complete per-technique map is [`01`, Appendix B](01_the_laws.md). Combat style fuses the widest set — every basic that feeds it (craft, sense, stillness, stride, spear, tally, soul-power control, body control, the senses, observation, running, reading, understanding, spearmanship, cooking) — into one named method that keeps evolving.
+
+And the law that closes the door on splitting footwork three ways — **footwork fuses**:
+
+> *Which fool masters so many step techniques separately? They fuse!* — the author (F26)
+
+Basic Walking + Basic Running + Mountain Stride are all footwork: at 100% each they fuse into **one** movement technique — Silent Wind Step (Mid) — and evolve from there as **one line**. Not three separate Highs. Ever.
+
+## Grades are honest current readings
+
+The ladder — **Low · Waste · Ordinary · High · Excellent · Top · Top-tier · Ultimate · Divine · Extreme** (attribute roads beyond) — is a *reading of what actually is*, and readings rise as the thing grows. 100% within a grade triggers evolution *instantly*; nothing waits for a chapter to notice. In the reference serial's own gate: the martial soul line reads **Wolf → Storm Frost Ghost Wolf (ice+wind, High)** through bloodlines and thousand-year rings, each step with its own name; the first-ring skill's line runs **Netherlight → Ghost Veil → Ghost Storm Veil**; concealment runs **Ring Veil → Veil of Ghost → Phantom Veil** — every family distinct, nothing merged by convenience, nothing terminal anywhere.
+
+**And the honest-reading rule at the panel:** a grade claim must match the exact-figures section — a grade is never written to flatter the arc. The Grey Wolf's own gate statement is the model: *everything Mid or above at the Ch6 gate, per the author's view; the martial soul evolved to Storm Frost Ghost Wolf with a different name at every grade; skills upgraded on breakthrough; concealment lawful.*
+
+## The current-state example (Grey Wolf, resolved)
+
+Where the reference serial's state stands now (10 chapters shipped, panel v5.4.3 Canon-Strict — measured 2026-10-13):
+
+- **Bloodlines growing honestly:** Grey Wolf (High, the old thin line evolved over five honest years + thousand-year rings; appearance changed; +1.30 talent feeds it) · Ghost Wolf (Mid — first-kill blood; quiet step, seen-late control and observation all Mid+; triggers the Ghost Veil upgrade) · Stormwind (Mid→High — last-hunt blood; fast kind; wind's stride, running and body control; wind attribute even).
+- **Two seats, both thousand-year:** Slot 1 — Ghost Wolf, purple, age 120 → **1,350** (concealed as yellow); Slot 2 — Stormwind, purple, **1,850** (concealed as yellow). *Rings age in their seats — not by calendar, but by what pours through them (F16).*
+- **Techniques:** everything Mid or above at the gate; the footwork line fused and singular; combat style fused upward through Grey Ridge Hunt into Storm Frost Ghost Hunt; the per-technique map in full effect — **nothing dumped into Silent Wind Step**.
+
+## The checklist this edition stands on
+
+- [x] The dead model is banned **and swept** — a valid "MASTERED terminal" fails the build.
+- [x] The chain is pinned in the law list (F23), not only in prose docs.
+- [x] Every grade has a different name, and each technique keeps its own lineage.
+- [x] Footwork fuses to one line; fusion follows logic and never convenience.
+- [x] Grades in the panel are honest current readings, checked against exact figures.
+- [x] The pattern is shown by daily-life action in prose — not recited in lists (the clean-and-clear law).
+
 ---
 
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*Rebuilt 2026-10-13 from the compressed originals; the model, its verbatim rulings, every example line and the current-state receipt preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

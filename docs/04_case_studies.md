@@ -1,163 +1,146 @@
-# 04 · Case Studies — How Each Project Does It — v2.1 Advanced Perfect Edition — Evolution Chain Fix
+# 04 · Case Studies — thirteen serials, and what each one taught
 
-**Every law was paid for by a project. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
+**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** Every law in [`01`](01_the_laws.md) was paid for by one of these projects. Numbers are measured, not remembered — the shelf and register counts are as of 2026-10-13.
 
 ---
 
-## 1. Soul Land 2 — The Grey Wolf — Perfect Rebuild F0-F22 v5.1 Evolution Fix — THE GOLD STANDARD
+## 1 · The Grey Wolf — the gold standard (SL2)
 
-**Status:** Ch6 2458w avg11.3 IN band — daily life no fights yet effective — hem roads villages Grey Ridge Hunt using all basics evolving — clean and clear no nonsense repetition — natural prose avg 14-18 — no repetitive skill list in body — show mastery via daily life action — keep lore dumps in footer only — band 2400-3400 over60 0 the-way 0 bare 0 — panels 80 IN SYNC — run_all green — release v0.7.0-perfect-rebuild 293K zip
+**10 chapters · 25,792 words · panel v5.4.3 Canon-Strict · F0–F26 locks · run_all 4 steps PASS · 10 chapters IN SYNC.**
 
-**Locks F0-F22 v5.1 evolution fix:**
+OC Ye Cang — an Earth mind reborn beside Huo Yuhao, innate rank 1, a Grey Wolf soul and a ledger system — written at the level the whole workshop now aims at. This is the serial that produced the perfect-rebuild protocol (F6) and the clean-and-clear prose law in its present, measurable form.
 
-- F0 OC grown Earth full meta silent wolf innate1 beside Yuhao — reborn mind discipline
-- F2 bloodline at awakening — Grey Wolf bloodline inherited seats night one 7%
-- F3 research everything — check canon perfectly — nothing enters chapter unverified
-- F4 all files — 20 files before chapter 1 — perfect rebuild edition
-- F5 workshop refresh — tar not rsync — re-export git identity every bash — gh absent REST
-- F6 Do yourself — stop writing chapters until foundations approved ask questions first
-- F7 FULL panels — every list every line current — opens whenever he looks for it — prints at every key beat first night every rank-up every year's end every gate he crosses — STATUS.md is its ledger and is updated same turn any number moves — drift guard fails build on any stale line
-- F8 honest pace — every meter its own pace law — v5.1 evolution chain fix — Reading 0-100% paced by pages evolves Fluent Reading Mid → Deep Reading High, Understanding by comprehension events evolves Clear Understanding, Spearmanship by thrusts evolves Spear Flow Mid → Storm Spear High, Cooking by meals evolves Camp Cooking, Combat Style by sparring evolves Grey Ridge Hunt High — Low 1-100% → Mid → High instant evolution — suitable fuse three Low→Mid three Mid→High logically
-- F9 grade ladder — Ladder Low Waste Mid Ordinary High Excellent Top Top-tier Ultimate Divine Extreme attribute road — Grades honest current readings rise as thing grows and 100% triggers evolution instantly — F22 Perfect Rebuild v5.1 Evolution Fix everything Mid or above at Ch6 gate per author's view no Low martial soul evolves to Storm Frost Ghost Wolf ice+wind High skills upgrade on breakthrough Ring Veil concealment all basics evolve and fuse into named techniques like Purple Demon Eyes evolution chain no terminal
-- F10 ring seats beast bloodline — RING'S BLOOD every soul ring seats slain beast's bloodline — line deepens on living releases hunts years and on ring's years Aging F16 thousand-year — feeds blood/body/soul vitality recovery predator's frame senses fed thin ice appearance cultivation speed martial soul growth talent attribute evolution awakening when strange change receipts 18-19 F15/F16/F17
-- F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — SKILL RANK GIFT SOUL'S UPGRADE BODY FLOOD BLOOD YEARS white10 yellow100 purple1k black10k red100k first-ring limit ~420y at absorption but AGES beyond after seating — FULL GRANT
-- F12 walls alone ring-gated — bottleneck law gates every title 10,20,30 no ring no crossing — between walls hours honest and band pours F12 — effective speed grows with bloodlines and mastery F15/F16
-- F13 honest yield 24/7 — Passive Law slotted techniques run 24/7 at his best awake and asleep — Hours actually run are hours that count — Tending Law growth by living Nothing purchasable No ceiling
-- F14 Evolution Chain Law v5.1 no terminal Low 1-100%→Mid→High instant evolution second it hits 100% fusion 2-3 Low→Mid 3 Mid→High logically — **There is no such thing as 100% MASTERED terminal — Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same — Suitable techniques can fuse like three fuse and become a High and others many how logically things work — Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal — 100% is evolution/fusion trigger — Old F14 Mastery no stages→MASTERED was nonsense — user: "There is no such thing: 100% MASTERED"**
-- F15 interconnection 2.96× Grey Mid appearance cascade — effective talent = innate 1 + Grey + Ghost + Stormwind + basics evolving Low→Mid→High + fusion — talent GROWS as bloodlines grow and techniques evolve innate is start not ceiling — Infusion Law everything that grows feeds every open meter age growth mastery elsewhere cleaner spirit power ring's vitality bloodline Meter never freezes while feeders grow — Resonance Law every seat leans on every other whole is faster than parts can account for
-- F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt — Aging Law REVISED F14/F16/F17 thousand-year aging + skill upgrade on breakthrough — rings age in seats NOT by calendar but by what pours through them — Ghost 120→1,350y purple by Ch5 gate — thousand-year — F16
-- F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — F17 when bloodline strange change grade evolution Low→Mid→High ring yellow→purple martial soul awakens/evolves Grey Wolf → Ice Wolf → Frost Ghost Storm Wolf etc Martial Soul Evolution Law — Seats by Slots line — F17 when ring breakthroughs color threshold yellow→purple at 1000y purple→black at 10000y skill upgrades keeps identity power grows new effect Skill Upgrade Law — F17 Concealment Law Ring Veil hides purple thousand-year as yellow to world true purple only Ledger
-- F18 life-skills evolving High ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — F17/F18 v5.1 Evolution Chain Law all basics a person learns in life are techniques Soul Power Control Body Control Five Senses Observation Running Walking Stillness Hunter's Sense Mountain Stride Spear Tally Plain Speech Reading Understanding Basic Spearmanship Cooking Combat Style — there is no terminal — each has grade Low/Mid/High/Top and progress 1-100% within grade at 100% that second evolves into next — Example Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — - F22 panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — F22 Rule Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed — panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — e.g., Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m hem roads villages Grey Ridge Hunt using all basics evolving clean and clear no nonsense repetition
-- F23 evolution chain fix There is no such thing as 100% MASTERED nonsense — basic walking and running Low go 1 to 100% just as it reach 100% that second it evolve into next like Silent Wind Step Mid then same 1 to 100% then as it reach 100% it become next Ghost Frost Storm Step High then same suitable techniques can fuse like three fuse and become a High and others many how logically things work — techniques have grade Low/Mid/High/Top and progress 1-100% within grade 100% is trigger for instant evolution into next technique in lineage not terminal MASTERED — Fusion law 2-3 suitable Low each 80%+ or one 100%+two 60%+ fuse → Mid 1% 2-3 Mid fuse → High 1% logically movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — All previous F14/F18 100% MASTERED High references superseded and must be purged
+**The rejection that built the standard.** A draft chapter (Ch6) averaged **6.8 words per sentence** (median 5), repeated "100% evolving High" in nearly every sentence, and repeated the same four canon phrases ten times. The author rejected it in one line — *clean and clear, no nonsense repetition* — and stopped the serial for a rebuild. What the rebuild required, mechanically: natural prose **avg 14–18**, chapter band **2,400–3,400**, **0** over-60 sentences, **0** "the-way", **0** bare fragments, no repetitive skill lists in the body — mastery shown by daily-life action, lore kept to the footer, **the-way ban**, `tar` not `rsync`, identity re-exported every shell.
 
-**Method:** Stop writing chapters until foundations approved ask questions first check canon perfectly the-way ban tar not rsync re-export git identity — perfect rebuild F0-F22 clean-and-clear avg14-18 band2400-3400 over60 0 the-way 0 — Chapter 6 original avg 6.8 med 5 repeating 100% evolving High per sentence repeating golden lock/toughest skull/tofu waist/Light of Netherworld 10x — user rejected clean and clear no nonsense repetition — required natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only keep band 2400-3400 over60 0 the-way 0 — result Ch1 2875w avg14.5 Ch2 2428w avg15.0 Ch3 2414w avg14.1 Ch4 2498w avg18.5 Ch5 3125w avg12.8 Ch6 2458w avg11.3 all IN band all gates PASS 80 panel rows IN SYNC release v0.7.0-perfect-rebuild 293K zip — evolution chain fix v5.1 — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
-**Road craft preference:** Ch6 focus hem roads villages Grey Ridge Hunt in use all basics daily life no fights yet effective talent 3.5x Spirit Sea 10-100m
+**What the ten shipped chapters look like** (the receipt): every chapter inside the band; the panel's 80-row ledger IN SYNC; the locks F0–F26 applied; daily-life chapters with **0 panel lines** by rule (F22) — the story *is* the training, not a printout of it.
 
-## 2. Golden Lion — Agent-driven near-daily G09 sect-join panel v20
+**The lesson:** clean-and-clear is not a mood; it is a **band plus caps plus two bans**, and it rebuilt a serial that looked dead.
 
-**Method:** agent-driven near-daily — G09 sect-join panel v20 — panel v4→v5 — base-form card stack order ring-orbit exposure — exact-figures section single cultivation authority — 80 rows IN SYNC
+## 2 · The Adaptive Prodigy — the system's birthplace (SL3 · OC Lin Hao)
 
-**Evolution chain:** same — Low 1-100% → Mid → High instant evolution — suitable fuse like three fuse become High logically — no terminal
+**116 chapters · 523,356 words · ten-layer gate, ALL GREEN.**
 
-## 3. Devouring Dragon — Plain language s40 panel re-bound s45 pacing s44 scope s39 canon-voice 3 lenses s53/s54/s56
+The serial that built the original machinery: a ten-layer verification suite, the deterministic scope-line tracker, and — from a real mess — the **two-copies law** (*one copy of one thing*): a retired mirror staleness layer now **fails the build if a second copy of a text reappears**. Later consolidated into the kit as the workshop's largest single book (and the register's heaviest row).
 
-**Method:** prose law s25/s34 scope s39 plain language s40 pacing s44 panel law re-bound s45 three adaptation lenses s53/s54/s56 — plain language s40 — plain-register wordlist audit — banned-token drift-guard sweep
+**The lesson:** gates are grown, not adopted — every layer of this suite exists because something specific escaped the layer before it.
 
-**Evolution chain:** same — Low 1-100% → Mid → High — no terminal — suitable fuse like three fuse become High logically
+## 3 · Fire Phoenix — the five-copies disaster (SL4 · OC Yan Shuo)
 
-## 4. Blue Silver — 7-gate Book One 15ch
+**52 chapters · 270,659 words · per-chapter validation + support sync.**
 
-**Method:** 7-gate Book One 15ch — gated serial — 7 gates — must exit 0 — foundation docset 20 files before chapter 1 — perfect rebuild edition
+The serial whose text once existed in **five copies** across the account — all of them drifting. The cleanup produced the pacing law (**compress the routine, expand the butterfly**) and the natural institutional-consequence rule: when a change lands, the world reacts on the page — institutions, prices, people — not just the protagonist. Its later arc added the **late-arc V2 staging** (candidates kept, promotion to public numbering awaiting the author's ruling) and the version-law caution — *staged is not shipped*.
 
-**Evolution chain:** same
+**The lesson:** duplication is not redundancy, it is a fork — and every fork diverges. One copy, or none of them is true.
 
-## 5. Adaptive Prodigy — 116ch 10-layer two-copies law
+## 4 · Devouring Dragon — plain language, panel re-bind (SL1+1000y)
 
-**Method:** 116ch 10-layer two-copies law — 10 layers — two-copies law — deterministic scope-line tracker — test suite every tool — rebuilds STATUS.md from tree — lan_shen pattern — live inventory auto-generated never hand-edited
+**24 chapters · 65,081 words · 8-tool battery, sentinel 26 PASS.**
 
-**Evolution chain:** same
+A beast-voice serial 1,000 years after the first *Soul Land* book, written in a **plain register** (its own wordlist check enforces it) with three lessons the workshop kept:
 
-## 6. Lan Shen V2 — Dual-track canon-parallel 9 layers ALL GREEN
+- **Panel re-bind (s45):** the player panels were re-bound so the **story is the beast's**; an experiment ran whole chapters at **0% panels** — proving narrative could carry the state without the printout (the root of F22).
+- **Scope (s39):** write once — a scene written twice costs both versions.
+- **Pacing (s44):** sameness is skipped, not narrated; the butterfly is where the detail goes.
+- **Canon-voice rollout:** chapters 1–12 retold through three adaptation lenses (s53/s54/s56), receipts first.
 
-**Method:** dual-track canon-parallel 9 layers ALL GREEN — canon runs on page complete unskipped in Wulin's own close-third OC parallel same clock same streets butterfly only logged when tracks make contact on page — canon spine power law firewall system what Lan knows and when — CANON_SPINE.md + POWER_LAW.md + KNOWLEDGE_FIREWALLS.md — 9 layers ALL GREEN
+**The lesson:** a serial's *register* is a law like any other — measurable, named, and checkable.
 
-**Evolution chain:** same
+## 5 · The Unraveled Tide — the multi-panel law's home (SL2 · OC Jiang Che)
 
-## 7. Stark Heir — MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry
+**24 chapters · 80,127 words · run_all battery.**
 
-**Method:** MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry — complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 + P12-AMENDMENT camera law — film order plural canon-side panels camera goes where canon goes — MCU_TIMELINE.md + CROSS_PROJECT_LAW.md + STATUS_PANEL.md + TIMELINE_MARK.md — MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named
+The serial where the **multi-panel law** was born: several state panels (not one) coordinating a story whose viewpoints genuinely separate, with the panel ledger keeping them from contradicting each other. Its 2026-10-11 sentence repair (a passed round of long-sentence splitting) is part of the shelf's provenance record.
 
-**Evolution chain:** MCU talent never named embodied only — but for techniques — Low 1-100% → Mid → High instant evolution — suitable fuse like three fuse become High logically — no terminal
+**The lesson:** panels multiply with viewpoints — the discipline is that *every* panel answers to one authority when they disagree.
 
-## 8. MCU Eternal Varun — Gravity+kinetic never replace never nerf Talent never named
+## 6 · Lan Shen — dual-track canon-parallel (SL3)
 
-**Method:** gravity+kinetic buffer+field ceilings hard Talent never named embodied only — never replace never nerf — Varun gravity+kinetic
+**7 chapters (V2 epoch) · 32,211 words · nine layers, ALL GREEN.**
 
-**Evolution chain:** same — but Talent never named — techniques evolve Low→Mid→High no terminal
+A reincarnator in Glorybound City, two doors from Tang Wulin — and the serial that produced **Dual-Track** (canon runs complete and unskipped in Wulin's own close-third; the OC lives parallel on the same clock; butterflies only where the tracks touch on the page) and the **knowledge-firewall** system (what the OC knows, and when).
 
-## 9. Fire Phoenix — Pacing compress routine
+Its V1 epoch (15 chapters) was retired for violating the doctrine — and the retirement left receipts: V1's chapters one to four had staged canon partly by **transcribing the translation's dialogue** — 785 verbatim canon words, 297 in one chapter — while the copy check passed, because its threshold sat above every borrowed run. Forty-two passages were re-voiced, the threshold was **rebuilt from corpus evidence**, and the defect became a permanent regression test. V1's files survive in the kit's history, exactly.
 
-**Method:** pacing compress routine — pacing s44 — compress routine — daily life effective — hem roads villages — Grey Ridge Hunt in use all basics daily life no fights yet effective talent 3.5x Spirit Sea 10-100m
+Also the home of the workshop's highest-yield single check: **date arithmetic** — every "N days ago / N days later" in a chapter is recomputed by hand against the day map. It caught nine month-count errors in one chapter alone.
 
-**Evolution chain:** same
+**The lesson:** a gate's *threshold is a claim too* — and the only trustworthy fix is more measurement, not more faith.
 
-## 10. StoryOS — sha256 independent drift stdlib only
+## 7 · One in a Thousand — the OC as the actor (SL3 · OC Su Yan)
 
-**Method:** sha256 independent drift stdlib only — StoryOS sha256 independent drift stdlib only — Control Centre state in data site generated — Soul Library one index.html no frameworks sentinel 26 PASS
+**7 chapters · 63,691 words · gate PASS.**
 
-**Evolution chain:** same — but for StoryOS — Low 1-100% → Mid → High — no terminal
+A boy of Tang Wulin's year with a father who is the city's healer — and the serial where the author's correction *"entire chapter mostly canon, there is nothing OC"* became law: **the OC is the actor** (his own prime law); canon is shown complete but **told tight (≤ half the words)**; the reaction test; failure states; the voice target 8–10. Its operating set wrote down what most serials improvise: exact numbers, live ledgers, no fiat leaps (**R14**); the butterfly protocol with a ledger where every cause is born with its open obligation (**R15**); the whole-existence law (**R16**); the meaning law — no term without its canon-checked meaning, work, and effects (**R17**); and the house at its right scale — money told honestly (**FAMILY_AND_HOUSE**, from the author's own correction).
 
-## 11. Control Centre — State in data site generated
+**The lesson:** "canon on the page" and "the OC is the protagonist" are compatible — but only with a word budget and an actor's role written down.
 
-**Method:** state in data site generated — Control Centre state in data site generated — site generated — data site generated
+## 8 · Stark Heir — film order and the camera law (MCU · OC Mark Stark)
 
-**Evolution chain:** same
+**5 chapters · 27,673 words · mcu_verify 8 gates PASS · zero-digit, zero-CJK.**
 
-## 12. Soul Library — One index.html no frameworks sentinel 26 PASS
+Tony Stark's son, told in MCU **film order** — canon consumed beat by beat (Iron Man 1: ambush → cave → return → workshop rebirth → gala → the Gulmira sortie → the jet intercept → the Raza camp → the Malibu injunction), staged scene-by-scene with **plural canon-side panels**, the **camera going where canon goes** (P12 + amendment), every canon touch registered in the **T-registry**, and the Talent law applied: *never replace canon — deny ACCESS, not competence*; the OC's gift lives **embodied, never named**.
 
-**Method:** one index.html no frameworks sentinel 26 PASS — Soul Library one index.html no frameworks sentinel 26 PASS
+**The lesson:** for film fandoms, "canon-true" means camera-true — and a registry of every touch keeps plural panels honest.
 
-**Evolution chain:** same
+## 9 · MCU Eternal — Varun (MCU · post-Blip)
 
-## 13. SL3 — the foundation study (Lin Hao's first five → the ten craft laws)
+**3 chapters · 9,212 words · mcu_verify 8 gates PASS · paused.**
 
-**Status:** craft extraction, 2026-09-07, at the author's direction — the author's own SL3 serial read chapters 1–5 end to end as the foundation, its craft distilled, its canon/OC/world quarantined (reference only; never imported as story). The extraction doc was removed in the 2026-10-12 one-copy pass; its live home is `lan_shen/foundation/STYLE_LAW.md` §2/§4/§6, and the original is retrievable from the kit's history (`f33cc19`).
+The eleventh Eternal — gravity and kinetic command, an **Adaptation Talent that is never named**, a buffer and field ceilings that are hard law (*never replace, never nerf*), a chronological MCU with an explicit **forbidden-now list** (no character or event before its film-time), the true mission shape held until Arc 5, and the Sersi/Uni-Mind center and the Ajak-first romance lock kept on rails. Its craft receipts: HOLD-BUBBLE (three breaths — bleed law on sand) and ANCHOR-FEET (three breaths — catch on self; the shell-bead pair).
+
+**The lesson:** a power that is never explained needs *more* structure, not less — ceilings, lists, and anchors instead of exposition.
+
+## 10 · The Golden Lion — agent-driven near-daily (SL2 · OC Jin Yang)
+
+**8 chapters · 22,487 words · sl2-goldenv 8 PASS.**
+
+A village-born boy with a Golden Lion soul and a womb-born Adaptation Talent, walking toward Shrek Academy — **launched in one gated day** and advanced near-daily with the agent driving between rulings, which only works because the panel is the truth and **possession is carded**: base-form card, stack order, ring-orbit exposure (the panel's v4→v5 revision). Its other gift to the method: the **author-strike pattern** — the author corrects; the correction is applied cheaply because nothing depends on the old version.
+
+**The lesson:** near-daily shipping is a state-discipline test, not a speed test.
+
+## 11 · Blue Silver — parked, and proud of it (pre-canon, Book One)
+
+**15 chapters · 34,711 words · seven-gate maturity · parked (Book One complete).**
+
+A Blue Silver Emperor grass named *Home*; 775 years; one law — he never kills — with a **kill count of zero** across a completed Book One, behind a seven-gate maturity ladder. Parked by the author's ruling, its files archived under the park with its receipts, Book Two awaiting rulings.
+
+**The lesson:** *small and gated* coexist; a parked serial with clean receipts is worth more than a live one with murky state — and "parked" is a status, not a failure.
+
+## 12 · Supergirl — Adrian Vale — when the voice is the author's call (DC TV)
+
+**17 chapters · 61,986 words · CI gates armed on every push.**
+
+An OC hybrid Kryptonian/Daxamite, self-sealed to human level, working at Cat Grant's desk while the show's first season runs. Two receipts matter to this guide:
+
+- **The padding removal.** Chapters 9–14 carried 7,702 repeated words — one closing paragraph twenty times in a row. Removed — and the serial's verifier then failed with six `ACCEPTED_HASH` errors, **and that failure is true**: accepted text changed, so the acceptance went stale. No receipt or hash was rewritten to hide it. The desk carried the ruling (new receipts, or revert) to the author.
+- **The 70-sentence ruling.** Seventy remaining long sentences sit in this serial's compressed beat style end to end, and fewer than half have any punctuation a split could use. Standing treatment: **this is a serial's compressed voice, and the author rules on voice** — the 60-word law is not mechanically applied over a living style. That restraint is part of the method: know which law is mechanical and which law has an owner.
+
+**The lesson:** gates tell the truth even when the truth is inconvenient — and a method honest about its exceptions is stronger than one that pretends to have none.
+
+## 13 · Dragon Prince Yuan — a false FAIL is worth ten false PASSes
+
+**1 chapter · 3,706 words · gate PASS.**
+
+A native OC with natural butterflies in *Yuan Zun*'s world. Its study value is one incident: a chapter was failed by a scanner whose check had **hard-coded filenames from another project** — a false FAIL. The fix made the check generic, and the incident became the workshop's rule of thumb: *a check that fails wrongly is a gift — it teaches you the check was never general; a check that passes wrongly teaches you nothing, forever.*
+
+## 14 · The SL3 foundation study — ten craft laws from a master text
+
+Craft extraction, 2026-09-07, at the author's direction: the author's own SL3 serial, chapters 1–5, read end to end as a model — its craft distilled, its canon/OC/world quarantined (reference only, never imported as story). The extraction document was consolidated out in the 2026-10-12 one-copy pass; its live home is the kit's `lan_shen/foundation/STYLE_LAW.md` §2/§4/§6, and the original is retrievable from the kit's history (`f33cc19`).
 
 **The ten craft laws:**
+
 1. The OC is never a watcher across a whole chapter — observer moments are half-beats, never a chapter's spine (machine-enforced downstream: the style gate fails a chapter whose protagonist speaks fewer than four times).
 2. Talent is embodied, never named — counting, reading a notice, cups on a sill. No system voice; no narrator explaining what the gift means.
-3. World rules arrive as priced experience — delivered through a character who pays for the knowledge. Not stated. Costed.
-4. Choice > trait — every chapter gives him a decision with a consequence and a stated butterfly.
+3. World rules arrive as **priced experience** — delivered through a character who pays for the knowledge. Not stated. Costed.
+4. Choice > trait — every chapter gives the protagonist a decision with a consequence and a stated butterfly.
 5. Secondary cast have real interior — a character who appears for one chapter may still get an origin.
 6. Withholding is a tool — name the big thing and hold it back so its first use matters.
-7. Friendship is mutual and equal — the canon MC is not worshipped at a distance.
+7. Friendship is mutual and equal — the canon lead is not worshipped at a distance.
 8. Theme is earned in scenes, not declared — nobody delivers the thesis in a speech.
 9. Chapters end in shared warmth or forward motion, not solitude.
-10. Bookkeeping stays tight — and stays out of the chapter file entirely (apparatus law).
+10. Bookkeeping stays tight — and stays out of the chapter file entirely (the apparatus law).
 
-**And the warning seen in the model itself:** the reference's own first-five footers leaked end-of-serial state (a "three purple rings" law line in chapter one, when the character is six with no rings). Centralized current-state plus a tight per-chapter state line is the medicine; never embed end-state boilerplate in early chapters.
-
-**Evolution chain:** same
+**And the warning seen in the model itself:** the reference's own early footers leaked end-of-serial state — a "three purple rings" line in chapter one, when the character is six with no rings. **Centralized current state plus a tight per-chapter state line is the medicine; never embed end-state boilerplate in early chapters.**
 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
----
-
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*Rebuilt 2026-10-13 from the compressed originals; all thirteen case studies, the ten craft laws, and the model's warning preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

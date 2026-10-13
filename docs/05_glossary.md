@@ -1,88 +1,82 @@
-# 05 · Glossary — v2.1 Advanced Perfect Edition — Evolution Chain Fix
+# 05 · Glossary — the working vocabulary
 
-**Every term was paid for. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
+**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** Terms are grouped by where you meet them. Laws are numbered in [`01`](01_the_laws.md); tools in [`06`](06_automation.md).
 
 ---
 
-## Core Terms
+## Craft and prose
 
-- **Evolution Chain Law v5.1 (F14/F18/F23):** There is no such thing as terminal — Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same — Suitable techniques can fuse like three fuse and become a High and others many how logically things work — Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal — 100% is evolution/fusion trigger — Old F14 Mastery no stages→MASTERED was nonsense — user: "There is no such thing: 100% MASTERED" — Replaces old 100% MASTERED High
+- **Band** — the chapter's word window: **2,400–3,400 words**. In band is a pass; outside is a stop.
+- **Avg (14–18)** — average sentence length, in words, measured across the chapter. The clean-and-clear target.
+- **Over 60** — a sentence longer than 60 words. Count must be **0**.
+- **The-way** — a construction family banned outright from prose (a mechanical tic, policed by the banned-token sweep). Count must be **0**.
+- **Bare** — bare fragments (verbless stubs used as sentences) as a style crutch. Count must be **0**.
+- **Clean and clear** — the prose law: natural prose, no nonsense repetition, no repetitive skill lists in the body, mastery shown by daily-life action, lore kept to the footer or the status file.
+- **Panel line** — a line printed from the character's status panel inside prose. **F22** governs when panels may print in full: only on update or gain; **0 panel lines is legal and deliberate** for ordinary chapters.
+- **Footer / apparatus** — the mechanical line(s) at a chapter's end (state stamps, receipts). Apparatus lives in the chapter *file* only where the law allows, and never leaks end-state into early chapters.
+- **Ore** — raw canon material fetched from primary text before drafting. Secondary sources are ore, never law.
+- **Butterfly** — a change the story causes in the world, *felt, not footnoted*. Every butterfly is born with its **open obligation** in the butterfly ledger; logged only where the tracks make contact on the page (dual-track) or where the change is shown (single-track).
+- **Priced experience** — a world rule delivered through a character who pays for the knowledge, rather than stated by the narrator (craft law 3).
 
-- **Fusion Law v5.1 (F17/F18):** Suitable techniques can fuse like three fuse and become a High and others many how logically things work — 2-3 Low fuse → 1 Mid at 1%, 2-3 Mid fuse → 1 High at 1%, 2-3 High fuse → 1 Top at 1% — Fusion logical: Walking + Running + Body Control → movement; Reading + Understanding + Tally → mental; Observation + Sense + Stillness → perception; Spear + Stride + Body Control → combat — No technique ever stays at terminal — 100% is trigger for evolution/fusion not terminal — Examples: Walking Low 100% + Running Low 100% + Body Control Low 100% fuse → Silent Wind Step Mid 1% logically movement techniques fuse into movement — Reading Low 100% + Understanding Low 100% + Tally Low 100% fuse → Clear Mind Mid 1% mental techniques fuse into mental — Observation Low 100% + Hunter's Sense Low 100% + Stillness Low 100% fuse → Hunter's Eye Mid 1% perception techniques fuse into perception — Silent Wind Step Mid 100% + Wind Stride Mid 100% + Flowing Body Mid 100% fuse → Ghost Frost Storm Step High 1% — movement+movement+body=movement High mental+mental+mental=mental High perception+perception+patience=perception High — No random fusion
+## State and truth
 
-- **Technique Grade:** Low Waste / Mid Ordinary / High Excellent / Top Top-tier / Ultimate Divine — and Extreme attribute road — Ladder Low Waste Mid Ordinary High Excellent Top Top-tier Ultimate Divine Extreme attribute road — Grades honest current readings rise as thing grows and 100% triggers evolution instantly — F22 Perfect Rebuild v5.1 Evolution Fix everything Mid or above at Ch6 gate per author's view no Low martial soul evolves to Storm Frost Ghost Wolf ice+wind High skills upgrade on breakthrough Ring Veil concealment all basics evolve and fuse into named techniques like Purple Demon Eyes evolution chain no terminal
+- **Status panel** — the serial's **single source of truth**: identity card, live edge, ranks, locks, bans, relationships, exact figures, next beat. *If a number isn't in it, the number doesn't exist yet.* Rebuilt from chapters freely; **never rebuilt from memory**.
+- **Exact figures** — the panel section that is the *single cultivation authority* for every number: levels, meters, ring years, talent stacking.
+- **Meter** — a growth quantity with **its own pace law** (pages, thrusts, meals, sparring…). Meters are infusion-fed — they advance because life happened.
+- **Locks** — decisions fixed by the author (F0–F26 in the Grey Wolf) — "not up for renegotiation by a later draft".
+- **Bans** — things that must never appear: the-way, bare, over-60, any valid "MASTERED terminal", resource-buying, shop/quest/points, voice/intelligence theft, memory-write. Enforced by the banned-token sweep.
+- **Drift guard** — the check that fails the build when a meter freezes or a printed number goes stale against the authority file.
+- **Authority order** — when two files disagree, the ranked list that decides: the author's words first, then the project's locked documents, then the kit laws, then receipts.
+- **Handoff file** — the cold-start brief: what is true *now*, the authority order, and which file wins on conflict.
 
+## Gates and checks
 
-- **Walking → Silent Wind Step → Ghost Frost Storm Step:** Basic Walking Low 1-100% every step counts at 100% that second evolves → Silent Wind Step Mid 1% — Silent Wind Step Mid 1-100% quiet step seen-late at 100% evolves → Ghost Frost Storm Step High 1% — Ghost Frost Storm Step High 1-100% frost+ghost+storm at 100% evolves → Storm Frost Ghost Veil Top — No terminal 100% is evolution trigger — Example evolution chain
+- **Gate** — an automated check that can fail the run. Laws need gates; a law without a gate is a wish.
+- **Battery** — one command that runs every layer (`checks/run_all.sh` or `tools/run_all.py`). **Must exit 0.**
+- **Selftest** — a gate's own proof: injected defects must be caught and named. A gate that never failed is untested.
+- **Coverage line** — the "N of M checks ran" statement. **A coverage line is a claim — it gets checked like one.** A check that silently skips is a check that lies.
+- **Fail loud** — the design rule: a missing precondition is a FAIL, never a skip.
+- **Sentinel** — the shelf's independent health scan: 26 checks (2026-10-13: 26 of 26 ran, 26 pass) including the coverage line itself.
+- **Drift scan (independent)** — a scan that re-verifies a project *without trusting the project's own checker* (StoryOS ships one; sha256 on every file).
+- **Zero-digit / zero-CJK** — MCU gate rules: numbers written out in prose; no CJK glyphs in an English text.
+- **ACCEPTED_HASH** — a stored acceptance of a chapter text. When accepted text changes, the hash *must* fail — the failure is true, and the fix is a new acceptance, never a rewritten hash.
 
-- - **Soul Power Control → Flowing Control → Spirit Control:** Soul Power Control Low 1-100% → Flowing Control Mid → Spirit Control High — soul power flows where eye goes — Example evolution chain
+## Canon and receipts
 
-- **Five Senses → Keen Senses → Spirit Eye:** Five Senses Low 1-100% → Keen Senses Mid → Spirit Eye High — Sight Hearing Smell Taste Touch as technique — Low 1-100% → Keen Senses Mid → Spirit Eye High — no terminal — Example evolution chain — Sight amber ice-amber eyes sees weakness Hearing hears dogs hearts Smell nose reads whole day
+- **Receipts** — the fetched, quoted, dated canon evidence for a claim. Receipts are read-only: never edited, never silently corrected; conflicting readings are kept side by side with the variance logged.
+- **Canon spine** — the ordered list of source chapters a serial consumes, with a per-beat confidence tag.
+- **Knowledge firewall** — the file stating **what the OC knows, and when** — the map that prevents accidental omniscience.
+- **T-registry** — the MCU (film-order) registry of every canon touch: which beat, which panel, which change.
+- **False FAIL** — a gate failing for the wrong reason (e.g. a hard-coded assumption). Worth ten false PASSes: it teaches the check was never general.
 
-- **Reading → Fluent Reading → Deep Reading:** Reading Low→Mid→High evolution chain — Reading Low 1-100% → Fluent Reading Mid → Deep Reading High — paced by pages — Example
+## Structure and patterns
 
-- **Understanding → Deep Understanding → Profound Understanding:** Understanding Low→Mid→High evolution chain — paced by comprehension events — Example
+- **Dual-track (canon-parallel)** — canon on the page, complete and unskipped; the OC parallel on the same clock and streets; butterflies only where the tracks touch on the page.
+- **Film order** — for film/TV: canon consumed and retold in the work's own release order, staged scene-by-scene.
+- **Camera law (P12)** — *the camera goes where canon goes*: canon scenes shown from canon's own angles; the OC's line parallel, never a substitute.
+- **Plural panels** — several canon-side panels in one chapter: what each canon perspective sees.
+- **Foundation docset** — the ~20 files a serial holds before chapter one: the source of truth chapters are written *out of*.
+- **Open ruling** — a numbered decision only the author can make. Any open ruling **locks drafting**.
+- **Stage 0 (foundation stage)** — rulings first, prose second; zero chapters until ruled is a *success state*.
+- **One copy of one thing** — the account law (from the two-copies disaster): a text exists in exactly one authoritative place; a document kept in two places will be wrong in one of them.
+- **Park** — a deliberate, documented hold on a serial (receipts intact, files archived under the park), not a failure.
 
-- **Spearmanship → Spear Flow → Storm Spear:** Spearmanship Low→Mid→High evolution chain — paced by thrusts — Example
+## Publishing
 
-- **Cooking → Camp Cooking → Feast Cooking:** Cooking Low→Mid→High evolution chain — paced by meals — Example — Low 89% → Camp Cooking Mid at 100%
+- **Reading shelf (Soul Library)** — the public collection: one static page, no frameworks, no tracking, full-text search, 18 serials · 312 chapters · 1,351,161 words (2026-10-13).
+- **Control Centre** — the account console: state lives in `state/`; the site and a plain-text bootstrap are **generated** — change the state, not the site.
+- **StoryOS** — the reader + agent console: every file with its sha256, an independent drift scan, standard library only.
+- **Ship Law** — shipping is a printed checklist: mechanical 80% (measure → gate → sync → commit → push → stamp), authored 20% (the chapter's own final read), exit 0 on every automated step.
+- **Status generation** — the one command that rebuilds the serial's inventory file from the tree; never hand-edited; an unregistered file surfaces itself with a marker.
+- **Live edge** — the current frontier of a serial (chapter shipped / chapter next), stamped in the README and the panel in the same turn as the ship.
 
-- **Combat Style → Grey Ridge Hunt:** Combat Style Low→Mid→High evolution chain — paced by sparring — fusion of all basics evolving — named technique like Purple Demon Eyes 4 stages Perception Attention Intoxication Immersion — own effects spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Ring Veil concealment hides purple as yellow mind's eye perception extreme distances Wide-Area incantation hunt
-
-- **Grey Ridge Hunt:** F16/F17 Fusion + v5.1 Evolution Chain Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Soul Power Control+Body Control+Five Senses+Observation+Running+Reading+Understanding+Spearmanship+Cooking+Combat Style fused named method evolution chain includes Ring Veil concealment everything Mid+ — High — fusion of all basics evolving — named method like Purple Demon Eyes — Stages Stage1 Perception Five Senses Low→Mid Sight amber ice-amber eyes sees weakness Hearing hears dogs hearts Smell nose reads whole day Low 1-100% evolves → Mid — Stage2 Attention Observation+Soul Power Control Mid→High soul power flows where eye goes — Stage3 Intoxication Body Control+Running+Walking+Mountain Stride+Patience as limb Mid→High body arrives where mind went first — Stage4 Immersion Boundless Quiet Step+Seen-late+Burst+Wind Blade+Ring Veil concealment High→Top brief invisibility wind blade burst 10 half crescent stormwind wings flight 50m afterimage 2-3 hides purple as yellow unlocks mind's eye perception 10-100m — Training method morning purple qi rising sun ridge run thorn thicket stillness black pools blind wind line scree fold sledge runner spear point leading all hours at best via Passive Law reborn mind +24/7+bloodlines=compounding — Own effects spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Ring Veil concealment hides purple as yellow mind's eye perception extreme distances Wide-Area — Incantation hunt
-
-- **Ring Veil:** Mid→High evolution chain — hides true color purple thousand-year shows fake yellow/white — F17 Concealment Law hides purple thousand-year as yellow to world true purple only Ledger — fool shows two thousand-year? No — shows two yellow hundred-year to world — true purple only Ledger sees — High — hides purple thousand-year as yellow — brief invisibility wind blade burst 10 half crescent stormwind wings flight 50m afterimage 2-3 hides purple as yellow unlocks mind's eye perception 10-100m
-
-- **Ghost Wolf:** golden hair lock forehead iron-gray coat green glowing eyes identifier — toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable — elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank — 1000-Year Light of Netherworld speed-boost physical mitigation aura flash past sensory tracking — Advanced Ghost Doppelganger 3 phantom clones hiding real body — Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull — toughest skull paradox
-
-- **Spirit Sea Realm:** Spiritual Power realms Spirit Origin Realm 0-99 Spirit Connection Realm 100-499 Spirit Sea Realm 500-4999 Spirit Abyss Realm 5000-19999 Spirit Domain Realm 20000-49999 Divine Origin Realm 50000-500000 God King Realm — Current Spirit Sea Realm 850 points — at 11 years old with 2 thousand-year purple rings 1350y/1850y + Basic evolving High + Craft evolving High + Grey Ridge Hunt High + Five Senses evolving High + Soul Power Control evolving High + reborn mind discipline + Purple Demon Eye-like training — Spirit Sea minimum requirement to become battleship pilot — perception 10-100m
-
-- **F22 Panel Prose Rule:** Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed — panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — e.g., Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m hem roads villages Grey Ridge Hunt using all basics evolving clean and clear no nonsense repetition
-
-- **Bans:** the-way ban bare ban over60 ban MASTERED terminal ban nonsense repetition ban resource-buy ban shop/quest/points ban voice/intelligence ban memory-write ban
-
-- **Locks F0-F23 v5.1 evolution fix:** F0 OC grown Earth full meta silent wolf innate1 beside Yuhao — F2 bloodline at awakening — F3 research everything — F4 all files — F5 workshop refresh — F6 Do yourself — F7 FULL panels — F8 honest pace — F9 grade ladder — F10 ring seats beast bloodline — F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — F12 walls alone ring-gated — F13 honest yield 24/7 — F14 Evolution Chain Law v5.1 no terminal Low 1-100%→Mid→High instant evolution second it hits 100% fusion 2-3 Low→Mid 3 Mid→High logically — F15 interconnection 2.96× Grey Mid appearance cascade — F16 thousand-year 1350/1850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt — F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — F18 life-skills evolving High ice+wind wind even body ~500kg robust named technique like Purple Demon Eyes 4 stages full status completely everything Spirit Sea 850 Stormwind Wind Blade Burst Wings Wolftaken — F22 panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — F23 evolution chain fix There is no such thing as 100% MASTERED nonsense — basic walking and running Low go 1 to 100% just as it reach 100% that second it evolve into next like Silent Wind Step Mid then same 1 to 100% then as it reach 100% it become next Ghost Frost Storm Step High then same suitable techniques can fuse like three fuse and become a High and others many how logically things work
-
-- **Clean and Clear:** natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only keep band 2400-3400 over60 0 the-way 0 bare 0 — Grey Wolf Ch1 2875w avg14.5 Ch2 2428w avg15.0 Ch3 2414w avg14.1 Ch4 2498w avg18.5 Ch5 3125w avg12.8 Ch6 2458w avg11.3 all IN band all gates PASS 80 panel rows IN SYNC release v0.7.0-perfect-rebuild 293K zip — evolution chain fix v5.1 — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
+## The version axes (short form)
+
+- **Guide edition** — the shape of *this repository* (docs, templates, examples). Current: **v3.0**, 2026-10-13.
+- **Law revision** — the F-series itself. Current: **v5.4** (the footwork-fusion revision). The full history — including the retired v2.1 tag chain — is in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
+
 ---
 
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*Rebuilt 2026-10-13 from the compressed originals; every term and receipt preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

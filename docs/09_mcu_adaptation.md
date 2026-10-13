@@ -1,82 +1,56 @@
-# 09 · MCU Adaptation — How to Write MCU Fanfiction — v2.1 Advanced Perfect Edition — Evolution Chain Fix
+# 09 · MCU Adaptation — writing film and television fandoms
 
-**MCU is not Soul Land. Same laws, different skin. v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix: There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100%, suitable fuse like three fuse become High logically.**
-
----
-
-## MCU Laws — Stark Heir + MCU Eternal Varun
-
-### Talent Law — MCU Eternal: Gravity+Kinetic Never Replace Never Nerf Talent Never Named
-
-- **Talent never named embodied only:** MCU Eternal Varun gravity+kinetic never replace never nerf Talent never named — Talent never named embodied only — not watching just there like floor — cannot be influenced by resources — nothing bought moves a meter — free — never invents roads world defines next stage and System counts what he does with it
-- **Gravity+Kinetic:** buffer+field ceilings hard — Varun gravity+kinetic — buffer+field ceilings hard — never replace never nerf — Talent never named embodied only
-- **Evolution chain for MCU techniques:** Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
-### Dual-Track Film Order — Stark Heir P12+P12-AMENDMENT Camera Law Plural Panels T-Registry
-
-- **Complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 + P12-AMENDMENT camera law:** MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry — complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 + P12-AMENDMENT camera law — film order plural canon-side panels camera goes where canon goes — MCU_TIMELINE.md + CROSS_PROJECT_LAW.md + STATUS_PANEL.md + TIMELINE_MARK.md
-- **Film order:** IM1 beats 1-4 — consume film beats 1-15 staged scene-by-scene film order ambush → cave → find → return → chest-swap → workshop rebirth complete → gala Everhart photographs — receipts first film order plural canon-side panels
-- **Plural panels:** P12+P12-AMENDMENT camera law plural panels T-registry — plural canon-side panels — camera goes where canon goes — P12 camera law P13 film order P14 plural panels — absolute canon ownership T-registry
-- **Status panel is ONLY file stating current state:** STATUS_PANEL.md is ONLY file stating current state §0 live post-Ch.3 First Shore §1-26 2024 TARGET benchmark to be earned machine mirror CURRENT_STATE_MANIFEST.json — live edge ranks locks what's fixed bans what's forbidden relationships next-chapter plan — When anything changes in story panel changes same turn — Everything else may be rebuilt from panel + chapters panel may never be rebuilt from memory
-
-### Prose Law — Clean and Clear No Nonsense Repetition — Natural Prose Avg 14-18
-
-- **Band:** 2400-3400w — natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only keep band 2400-3400 over60 0 the-way 0 bare 0 — clean and clear no nonsense repetition — user explicitly rejected Chapter 6 style with avg 6.8 med 5 repeating 100% evolving High per sentence repeating golden lock/toughest skull/tofu waist/Light of Netherworld 10x — required style natural prose avg 14-18 no repetitive skill list in body show mastery via daily life action keep lore dumps in footer only
-- **F22 panel prose rule:** Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed — panel prose rule no full panel in chapter unless level/ring/bloodline update beat 0 lines allowed full details in STATUS.md SKILLS_CANON.md — e.g., Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m hem roads villages Grey Ridge Hunt using all basics evolving clean and clear no nonsense repetition
-
-### Evolution Chain for MCU — Same Law Different Skin
-
-- **Walking → Silent Wind Step → Ghost Frost Storm Step:** Basic Walking Low 1-100% every step counts at 100% that second evolves → Silent Wind Step Mid 1% — Silent Wind Step Mid 1-100% quiet step seen-late at 100% evolves → Ghost Frost Storm Step High 1% — Ghost Frost Storm Step High 1-100% frost+ghost+storm at 100% evolves → Storm Frost Ghost Veil Top — No terminal 100% is evolution trigger — Example evolution chain — MCU adaptation: Walking Low→Silent Wind Step Mid→Ghost Frost Storm Step High — suitable for stealth infiltration
-- ## MCU Timeline — Complete MCU Chronology v4 + Confidence Tags + Butterfly Registry T-14..T-22 P1-P15 + P12-AMENDMENT Camera Law
-
-- **MCU_TIMELINE.md:** complete MCU chronology v4 + confidence tags + butterfly registry T-14..T-22 P1-P15 — dated sourced day map for date arithmetic check d — canon spine receipted + our road — dated sourced day map
-- **CROSS_PROJECT_LAW.md:** cross-project law — relation to other fics same universe as other serials or separate — Default separate universe — Separate but sibling project VARUN paused at Ch3
-- **STATUS_PANEL.md:** ONLY file stating current state §0 live post-Ch.3 First Shore §1-26 2024 TARGET benchmark to be earned machine mirror CURRENT_STATE_MANIFEST.json
-- **TIMELINE_MARK.md:** timeline mark — film order — plural canon-side panels — camera goes where canon goes
-
-## Tools — MCU Verify 8 Gates Zero-Digit Zero-CJK
-
-- **mcu_verify.py:** 8 gates zero-digit zero-CJK — MCU dual-track film order P12+P12-AMENDMENT camera law plural panels T-registry — must exit 0 — all green — before ship
-- **Evolution chain check:** no valid MASTERED terminal — only explanatory "There is no such thing as 100% MASTERED" allowed — drift guard fails build on any stale MASTERED terminal as valid — banned-token drift-guard sweep
+**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** MCU is not Soul Land. **Same laws, different skin** — and the differences are precise, because film hands you different ore than a novel does. Two MCU serials are the worked examples: *Stark Heir* (OC Mark Howard Stark, Tony's son; Iron Man eras) and *MCU Eternal — Varun* (the eleventh Eternal; post-Blip).
 
 ---
 
-*v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
+## The film-order workflow
+
+A novel's ore is chapters; a film's ore is **beats**. For MCU work, the canon is consumed **in release order, staged scene-by-scene**, with receipts first:
+
+- **Beats, staged.** Iron Man 1, for example, is held as beats 1–19 and retold in film order — the ambush, the cave, the return, the chest-swap and the workshop rebirth, the gala, the Gulmira sortie, the jet intercept and the caught parachute, the Raza camp and the Mark One salvage, the Malibu injunction. Each beat is a scene the chapter may stage — with (or without) the OC in it, per the story's rights.
+- **Receipts first.** The beat map is written down before the chapter (this film, this timestamp/order, this is what happens on screen); the chapter cites it. Nothing is recalled from fandom memory — that is where film-canon drifts.
+- **Plural canon-side panels.** A chapter can carry several canon panels — what *each* canon perspective sees. Plural panels are how a film's camera coverage becomes prose without flattening into one view.
+
+## The camera law (P12 · P12-amendment)
+
+**The camera goes where canon goes.**
+
+- The chapter's point of view follows the canon scene — on the canon's own terms, in the canon's own order — rather than parking inside the OC's head while canon happens off-screen. The OC's line runs **parallel**, touching canon only where the story has earned the touch.
+- **Absolute canon ownership.** Canon owns its events. The OC never replaces what canon did; where the story needs the OC to matter in a canon scene, the rule from the workshop's MCU books applies: **never replace canon — deny ACCESS, not competence.** A locked door, a missed plane, a not-in-the-room is the honest way in.
+- **The T-registry.** Every touch registers — this beat, this panel, this change. The registry is what keeps plural panels from quietly contradicting each other chapters later.
+
+## The MCU timeline — spine, tags, and the forbidden-now list
+
+- **A chronological spine with confidence tags.** The full MCU chronology (v4 in the workshop) is written down once; every fact carries its confidence: *on-screen*, *dialogue*, *tie-in*, *inference* — so a chapter can lean on a certainty without inheriting a fanon.
+- **The forbidden-now list.** A strict present-tense fence: no character, tech, or event may appear **before its film-time**. Chronology is the firewall here — the MCU's knowledge firewall.
+- **The butterfly registry (T-series).** MCU changes ripple *hard* — one public action in Iron Man's world changes press, SHIELD, and the street. Registered entries (T-14…T-22 in the Stark Heir era) each carry their effect and their open obligation: a butterfly shown once must be shown *landing*.
+
+## The talent law — embodied, never named
+
+Written on *MCU Eternal — Varun* and shared with Stark Heir: powers must read as **embodied, never named** — no system voice, no inventory of abilities. Varun's gravity and kinetic command is shown as **a buffer and a field with hard ceilings**: it bends what it can, and it *cannot* bend what it can't. Two rules govern it:
+
+- **Never replace, never nerf.** The power never substitutes for canon (canon still happens), and is never weakened to protect plot convenience. Ceilings are set before the story needs them.
+- **Nothing purchasable moves a meter.** Resources, money, tech — none of it buys growth; the world defines the roads and the gifted just walk them. (The same honest-yield law as the Soul Land books, in film clothes.)
+
+## The prose law for MCU texts
+
+Same clean-and-clear discipline (band, average, caps), plus the MCU-specific machine laws that make a text read correctly:
+
+- **Zero digits** — numbers are written out in prose ("nineteen", not "19"); **zero CJK glyphs** in an English text; **no chapter footers** (the apparatus stays out of the chapter); ASCII discipline throughout.
+- All of it is enforced: `mcu_verify.py` runs **eight gates** on every chapter, and both MCU serials ship green.
+
+## The gates and the receipts
+
+- **Gates:** `mcu_verify.py` (8) — the digit/glyph register, footers, ASCII, plus the structural checks.
+- **Stark Heir:** 5 chapters · 27,673 words · Ch 1–5 shipped and gated; Iron Man 1 beats 1–19 consumed; the Malibu injunction stage reached; next stage planned at the author's word.
+- **MCU Eternal — Varun:** 3 chapters · 9,212 words · paused; the true mission shape held until its arc; the Ajak-first romance lock and the Uni-Mind center on rails; craft receipts in the serial's own law files (the three-breath bleed law on sand, called HOLD-BUBBLE; the three-breath catch on self, ANCHOR-FEET).
+- **Craft receipts worth stealing:** the **camera law amendment** (written after the first arc where canon coverage needed plural panels to stay honest) and the **possession-style carding** of on-screen mechanics (base form, stack order, exposure) — the MCU's answer to a status panel.
+
+## What carries over from the Soul Land books, unchanged
+
+The five laws at the top of this guide. Canon-first with receipts; the OC added, never centered; power as baseline not ceiling; voice matched to source; state updated the same turn or the chapter does not ship. **The fandom changes; the ledger does not.**
+
 ---
 
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*Rebuilt 2026-10-13 from the compressed originals; every MCU law, registry, and case receipt preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*
