@@ -1,98 +1,74 @@
-# CANON_LEDGER_TEMPLATE.md — law revision v5.4 — Canon Beats + Confidence Tags + Receipts + Butterfly Registry
+# CANON_LEDGER.md — receipts, butterflies, and the checks that keep canon true
 
-**Copy and adapt — Stark Heir MCU_TIMELINE.md v4 + confidence tags + butterfly registry T-14..T-22 + Lan Shen date arithmetic highest-yield + Devouring Dragon canon-voice rollout 3 lenses s53/s54/s56**
+**Template · guide v3.0 · law revision v5.4.** Copy to `foundation/CANON_LEDGER.md`. Replace the *example* rows (references: Stark Heir and MCU Eternal for the MCU shapes; Lan Shen for date arithmetic; Devouring Dragon for the canon-voice rollout).
+
+**The law behind this file:** nothing enters a chapter unverified (F3). Every canon beat the story consumes is **fetched, quoted, and filed** — receipts, not memory. This file is where the receipts, the butterflies, and the date arithmetic live.
 
 ---
 
-## Canon Spine — Receipted — Nothing Enters Chapter Unverified — Ledger-Canon Law
+## §1 — The canon spine (receipted)
 
-| # | Canon Chapter / Film Beat | Date / Time | Receipt | Confidence | Your Chapter | Notes |
+| # | Canon chapter / film beat | Date / time in source | Receipt (source + location) | Confidence | Our chapter | Notes |
 |---|---|---|---|---|---|---|
-| 1 | [Canon Ch1 / IM1 beat 1 ambush] | [Date sourced] | [Source quote + page + translation] | [High / Mid / Low] | Ch1 | [Butterfly T-registry] |
-| 2 | [Canon Ch2 / IM1 beat 2 cave] | [Date] | [Receipt] | [High] | Ch1 | [T-14 armor family canon-designated Mark because that is his name origin-stage queued for Ch.4 example] |
-| 3 | [Canon Ch3 / IM1 beat 3 find] | [Date] | [Receipt] | [High] | Ch2 | [T-15 etc] |
-| ... | ... | ... | ... | ... | ... | ... |
+| 1 | {{e.g. canon ch1 / film beat 1}} | {{date}} | {{quote + where it was fetched}} | {{High / Mid / Low}} | Ch{{n}} | {{anything the chapter must honor}} |
+| 2 | {{e.g. canon ch2 / film beat 2}} | {{date}} | {{receipt}} | {{High}} | Ch{{n}} | {{e.g. a named artifact introduced, with its origin-stage queued}} |
+| 3 | {{…}} | | | | | |
 
-## Butterfly Registry — T-Registry — Butterfly Only Logged When Tracks Make Contact On Page
+**Receipt discipline:** receipts are read-only — never edited, never silently corrected. If two readings of a passage exist, **both are kept and the variance is logged.** Secondary sources (wikis, summaries) are **ore, never law.**
 
-| T-# | Your Chapter | Canon Beat | What Changed | Why Logged | Status |
+## §2 — The butterfly registry (T-registry)
+
+Every touch of canon by the story is registered the moment it lands — nothing touches canon unlogged.
+
+| T-# | Our chapter | Canon beat touched | What changed | Why it is logged | Status |
 |---|---|---|---|---|---|
-| T-14 | Ch4 | IM1 beats 1-15 armor family | Mark because that is his name origin-stage queued for Ch.4 | Canon-designated Mark | DELIVERED Ch4 ranks-after-the-boy law stands |
-| T-15 | Ch5 | IM1 beats 16+ Gulmira sortie | [What OC does that touches canon] | [Tracks contact on page] | OPEN |
-| ... | ... | ... | ... | ... | ... |
+| T-14 | Ch4 | {{film beat / canon chapter}} | {{what the OC did}} | {{the tracks made contact on the page}} | DELIVERED |
+| T-15 | Ch5 | {{beat}} | {{what changes downstream}} | {{contact}} | OPEN — obligation tracked |
+| {{T-…}} | | | | | |
 
-## Date Arithmetic — Every "N Days Ago / N Days Later" Recomputed By Hand Against Day Map — Highest-Yield Check
+**The ripple law:** a butterfly is logged only where the tracks make contact **on the page** (dual-track) — and once logged, it carries an **open obligation**: every registered change must be shown landing, or the registry says why not.
 
-| Your Chapter | Phrase | Computed Against Day Map | Result | Status |
-|---|---|---|---|---|
-| Ch9 | "3 months ago" | Day map: Ch6 = Day 45, Ch9 = Day 135 → 90 days = 3 months | PASS | Highest-yield check caught 9 month-count errors in ch9 alone and 4 stale year counts in ch13 Lan Shen |
-| ... | ... | ... | ... | ... |
+## §3 — Date arithmetic — the highest-yield check
 
-## Canon-Voice Rollout — Three Adaptation Lenses — Devouring Dragon s53/s54/s56
+Every "N days ago / N days later" in a chapter is **recomputed by hand** against the day map in `TIMELINE.md`:
 
-- **Novel explanation s53:** [Every fact order cause held exactly s34/s40/s52 rule panels held verbatim except retired-word easings recorded in each footer all gated floors retired zero the-way tics in cap no sentence over 60]
-- **Manhua panels s54:** [Panels]
-- **Donghua structure s56:** [Structure]
-- **Receipts:** [Every receipt from all three adaptation checks preserved with sources quotes and law each became foundation/CANON_STUDY.md laws indexed at top of foundation/RAILS.md]
+| Our chapter | Phrase in prose | Computed against the day map | Result |
+|---|---|---|---|
+| Ch9 *(example)* | "three months ago" | day map: Ch6 = Day 45, Ch9 = Day 135 → 90 days = 3 months | **PASS** |
+| {{…}} | | | |
 
-## Forbidden Future — Denylist Absent From Prose — MCU Zero-Digit Zero-CJK
+**Receipt:** this single check caught **nine month-count errors in one chapter alone** and four stale year counts in another (Lan Shen) — it costs a minute and pays more than any other manual check. Never ship a chapter with a relative-time phrase unverified.
 
-- **Denylist:** ['Chitauri','Ultron','Extremis','Vibranium','Sokovia','Blip','Thanos','Avengers','Infinity'] absent — Stark Heir M2
-- **Denylist:** ['Uni-Mind','Tiamut','Emergence','Blip','Thanos','Kro'] absent — Eternal M2
-- **Your denylist:** [Fill for your fandom]
+## §4 — The canon-voice rollout (three lenses)
 
-## Zero-Digit Zero-CJK Law — MCU
+When canon material is retold, it is checked through three adaptation lenses (Devouring Dragon's s53/s54/s56):
 
-- **Digits-in-prose:** 4ch prose outside fences 0 digits — G3
-- **CJK:** scanned 22 files 0 hits CJK regex per line — G1
-- **Backslash-n:** literal \n surviving into VALUE rejected — G2
-- **Dialogue-floor:** Chapter_01 96 lines Chapter_02 83 Chapter_03 67 Chapter_04 72 floor enforced — G4
-- **Anchor-order:** Chapter_01 anchor 2008 OK same-era sequence allowed single-anchor order only span-contiguity needs start-end panels — G5
-- **Placeholders:** 0 placeholders foundation TBDs out of scope — G6
-- **Marker-discipline:** markers fenced only cards ≤1 and last — G7
-- **Manifest-edge:** edge ch4 matches 4 files — M1
-- **Forbidden-future:** denylist absent — M2
+- **Novel lens (s53):** every fact in the source's own order; causes held exactly; panels held verbatim except retired-word easings, each recorded in the chapter footer; gates green (floors retired, zero tics in cap, no sentence over 60).
+- **Manhua lens (s54):** the panel-by-panel reading — what a comic adaptation would show.
+- **Donghua lens (s56):** the structural reading — what an animated episode would keep, cut, and reorder.
+- **Receipts:** every finding from the three lenses preserved with sources and quotes; each became a named law in the serial's `RAILS.md`.
+
+## §5 — Forbidden future (the denylist)
+
+The present-tense fence: nothing may appear in prose before its time in the source. Write the denylist here and add to it with every chapter.
+
+- *Example — Stark Heir (M2):* `Chitauri · Ultron · Extremis · Vibranium · Sokovia · Blip · Thanos · Avengers · Infinity` — absent from prose.
+- *Example — MCU Eternal (M2):* `Uni-Mind · Tiamut · Emergence · Blip · Thanos · Kro` — absent from prose.
+- **Your denylist:** {{…}}
+
+## §6 — The machine laws (film/TV serials)
+
+The checks the gate runs on MCU-style texts — keep their receipts here:
+
+- **G1 — CJK:** scanned per line; zero hits in an English text. *(example receipt: 22 files scanned, 0 hits)*
+- **G2 — backslash-n:** a literal `\n` surviving into any value is rejected.
+- **G3 — digits in prose:** zero digits outside fences (numbers are written out).
+- **G4 — dialogue floor:** every chapter at or above the floor *(example: Ch1 96 lines · Ch2 83 · Ch3 67 · Ch4 72)*.
+- **G5 — anchor order:** single-anchor order only; span contiguity needs start–end panels.
+- **G6 — placeholders:** zero in shipped files (foundation TBDs are out of scope by name).
+- **G7 — marker discipline:** markers only inside fences; at most one card, and last.
+- **M1 — manifest edge:** the manifest edge matches the file count. **M2 — forbidden future:** the denylist is absent.
 
 ---
 
-*Template v5.0 perfect rebuild — canon beats + confidence tags + receipts + butterfly registry T-registry + date arithmetic highest-yield + canon-voice rollout 3 lenses + forbidden future denylist + zero-digit zero-CJK law — copy and fill.*
-
----
-
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*The receipts law in one line: **nothing enters a chapter unverified; a claim without its receipt is a wish.** Full law texts: [`docs/01_the_laws.md`](../docs/01_the_laws.md) (F3 · F19 · P12 and the receipt family).*

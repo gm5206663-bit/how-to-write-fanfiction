@@ -1,97 +1,85 @@
-# SKILLS_CANON.md — law revision v5.4 — Soul Skills Description Like Soul Land Canon
+# SKILLS_CANON.md — skills described the way the canon describes them
 
-**law revision v5.4 (evolution chain): There is no such thing as terminal. Techniques evolve Low 1-100% → Mid → High. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work — copy and adapt for your serial**
+**Template · guide v3.0 · law revision v5.4.** Copy to `foundation/SKILLS_CANON.md`. Replace the *example* rows (reference serial: the Grey Wolf) with yours.
 
----
-
-## Ghost Wolf — 1000-Year Canon Facts — F20
-
-- **Identifier:** golden hair lock forehead iron-gray coat green glowing eyes identifier
-- **Paradox:** toughest skull fragile body tofu waist paradox copper-headed iron-boned tofu-waist waist/neck vulnerable
-- **Behavior:** elite calculation-driven phantom hunter psychological warfare suspicious avoids head-on high-speed attrition tracking till tire/exposed flank
-- **1000-Year Light of Netherworld:** speed-boost physical mitigation aura flash past sensory tracking
-- **Advanced Ghost Doppelganger:** 3 phantom clones hiding real body
-- **Shrek Academy Beast Dueling Area:** Huo Yuhao+He Caitou vs Thousand-Year Spectre Wolf climax Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull
-
-## Storm Frost Ghost Wolf — Evolution at High+purple — F17 — law revision v5.4 (evolution chain)
-
-- **Evolution:** Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow fool shows two thousand-year full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc — law revision v5.4 (evolution chain): no terminal, Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse like three fuse become High
-- **Concealment:** Ring Veil hides purple as yellow fool shows two thousand-year — Low→Mid→High evolution chain
-- **Skills:**
-  - **Ghost Veil:** 3 phantom clones hiding real body — Advanced Ghost Doppelganger — evolution chain High→Top
-  - **Storm Step:** Ghost Veil/Storm Step at 1000y check SL3 — speed-boost — Low→Mid→High evolution
-  - **Stormwind:** Wind Blade Burst Wings Wolftaken — ice+wind High 1350y/1850y — evolution chain
-  - **Wind Blade Burst Wings:** flight 50m best condition shatter preserve life — Wolftaken — evolution
-
-## Evolution Chain Examples — law revision v5.4 — How Logically Things Work
-
-**Walking → Silent Wind Step → Ghost Frost Storm Step:**
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! — not three separate High
-- Silent Wind Step (Mid) 1-100% — quiet step, seen-late — at 100% evolves → Ghost Frost Storm Step (High) 1%
-- Ghost Frost Storm Step (High) 1-100% — frost + ghost + storm — at 100% evolves → Storm Frost Ghost Veil (Top)
-- No terminal — 100% is evolution trigger — there is no such thing as terminal
-
-**Fusion — Three Low → Mid — How Logically Things Work:**
-- Basic Walking (Low 100%) + Basic Running (Low 100%) + Mountain Stride (Low 100%) fuse → Silent Wind Step (Mid) different name 1% ONE — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse! — logically movement techniques fuse into movement
-- Reading (Low 100%) + Understanding (Low 100%) + Tally (Low 100%) fuse → Clear Mind (Mid 1%) — mental techniques fuse into mental
-- Observation (Low 100%) + Hunter's Sense (Low 100%) + Stillness (Low 100%) fuse → Hunter's Eye (Mid 1%) — perception techniques fuse into perception
-- Soul Power Control (Low 100%) + Body Control (Low 100%) + Five Senses (Low 100%) fuse → Grey Ridge Hunt base (Mid) — etc.
-
-**Fusion — Three Mid → High:**
-- Silent Wind Step (Mid 100%) + Wind Stride (Mid 100%) + Flowing Body (Mid 100%) fuse → Ghost Frost Storm Step (High 1%)
-- Clear Mind (Mid 100%) + Keen Senses (Mid 100%) + Flowing Control (Mid 100%) fuse → Spirit Eye (High) — etc.
-
-**Logic:** Suitable techniques can fuse like three fuse and become a High and others many, how logically things work — movement + movement + body = movement High; mental + mental + mental = mental High; perception + perception + patience = perception High. No random fusion.
-
-**No such thing as terminal — 100% is evolution, not terminal.**
-
-## Your OC Skills — Template — law revision v5.4 — Evolution Chain
-
-- **First Ring — [Name] — [Age]y — [Effect]:** [Description like Soul Land canon — include golden lock iron-gray coat etc] — Low 1-100% → Mid → High evolution chain — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name, suitable fuse
-- **Second Ring — [Name] — [Age]y — [Effect]:** [Description] — evolution chain
-- **Third Ring — [Name] — [Age]y — [Effect]:** [Description — evolution Storm Frost Ghost Wolf at High+purple skill upgrade on breakthrough Ghost Veil/Storm Step at 1000y check SL3 concealment Ring Veil hides purple as yellow] — evolution chain
-- **Full Grant:** 7 parts level per ring white10/yellow100/purple1k/black10k/red100k — F11
+**The law behind this file (F19):** a skill is written in the source's own descriptive format — the **light**, the **physical transformation**, the **tell**, the **effect** — the way canon describes *its* skills. Not a stat block, not a system readout. The examples below are the format's reference, from Soul Land canon; anyone can read them and write the same way for any fandom.
 
 ---
 
-*Template law revision v5.4 (evolution chain) — soul skills description like Soul Land canon — evolution chain Low 1-100% → Mid 1-100% → High — no terminal — suitable techniques fuse like three fuse and become a High, how logically things work.*
+## §1 — The canon format (F19), by example
+
+- **Dai Mubai — White Tiger possession:** pale white light; muscles expand; golden hair rising; the white/black king pattern across forehead and hands; hands doubled in size; white fur; claws like 20 cm daggers.
+- **Feng Xiaotian — Wind Blade Burst:** ten half-crescents of wind; they seal a space; evasion; ten times the quantity of the base version.
+- **Double Wolf Possession:** +50% attack, defense, and agility while it holds.
+- **Swift Wind Dual Wings:** cyan wings; flight up to 50 m; flown at best condition; can **shatter to preserve life**.
+- **Tornado Wind Blade:** countless sharp wind blades in a tornado.
+- **Thirty-Six Continuous Slashes:** strength and speed rising with each chop; the chain evolves (54 → 72) as it matures.
+
+*Your serial's skills will use the same four slots — light, transformation, tell, effect — with your source's imagery.*
+
+## §2 — The beast study (F20), by example
+
+A soul beast is not a normal animal; study the source's beast on its own terms and keep the facts here. *Example — the 1,000-year Ghost Wolf:*
+
+| Fact class | The canon's content |
+|---|---|
+| Identifier | golden hair-lock on the forehead; iron-gray coat; green glowing eyes |
+| Paradox | toughest skull, fragile body — "copper-headed, iron-boned, tofu-waist"; waist/neck vulnerable |
+| Behavior | elite, calculation-driven phantom hunter; psychological warfare; avoids head-on fights; attrition — tracks until the quarry tires or exposes a flank |
+| Signature skill | 1,000-year **Light of Netherworld** — speed burst, physical mitigation aura, flash-past sensory tracking |
+| Doppelganger | **Advanced Ghost Doppelganger** — three phantom clones hiding the real body |
+| Canon stage | Shrek Academy Beast Dueling Area — the climax against Huo Yuhao and He Caitou; the Dark Gold Terror Claw Bear right-palm bone, dark-golden blades shattering a skull |
+
+Even the commonest thing is a soul beast — a dog is a spirit hound; a serpent is a Black-Ravine Serpent (rule SB-11).
+
+## §3 — The martial-soul line (F17)
+
+The soul is one lineage with **different names per grade**, evolving on breakthrough:
+
+*Example:* Grey Wolf → **Storm Frost Ghost Wolf** (ice + wind, High → Excellent → Top through three bloodlines + thousand-year rings); the possession skill's name evolves with it. **Concealment law:** the Ring Veil shows a true purple ring as yellow to the world; the true color is in the ledger — the narrator never lies, the character conceals.
+
+## §4 — The skills, per ring
+
+- **First ring — {{Name}} — {{years}}y — {{effect}}:** {{canon-format description}} — *example: Netherlight → Ghost Veil (High), the 1,350-year beast signature; speed boost, mitigation aura, flash-past sensory tracking; three phantom clones hiding the real body.*
+- **Second ring — {{Name}} — {{years}}y — {{effect}}:** {{description}} — *example: Windstride → Storm Step (High), the 1,850-year storm-wolf stride; upgrades at the 1,000-year check.*
+- **Third ring — {{Name}} — {{years}}y — {{effect}}:** {{description}} — *evolves on breakthrough, different name per grade.*
+- **Full grant (F11):** a ring grants everything at once — skill · rank · gift · soul's upgrade · body flood · blood · years. Ring-color years: **white 10 · yellow 100 · purple 1,000 · black 10,000 · red 100,000.** First-ring absorption limit ~420 years — but a seated ring **ages beyond it** (F16).
+
+## §5 — The evolution map (the standard, from `docs/01` Appendix B)
+
+Every lineage distinct, every grade a different name — **not everything into Silent Wind Step**:
+
+| Technique | Low | Mid | High | Top |
+|---|---|---|---|---|
+| Footwork (Walking + Running + Mountain Stride **fused**) | the three fuse | Silent Wind Step | Ghost Frost Storm Step | Storm Frost Ghost Veil |
+| Body control | Basic Body Control | Flowing Body | Storm Body | Ghost Body |
+| Soul-power control | Basic Soul Power Control | Flowing Control | Spirit Control | Spirit Sea Control |
+| Five senses | Basic Five Senses | Keen Senses | Spirit Eye | Divine Perception |
+| Observation | Basic Observation | Hunter's Eye | Spirit Perception | Void Eye |
+| Hunter's sense | Basic Hunter's Sense | Beast Sense | Predator Sense | Phantom Sense |
+| Stillness | Basic Stillness | Patience as Limb | Void Stillness | Eternal Stillness |
+| Spear / spearmanship | Basic Spear | Spear Flow | Storm Spear | Ghost Spear Dominion |
+| Tally | Basic Tally | Clear Mind | Profound Tally | Ledger Mind |
+| Plain speech | Plain Speech | Clear Speech | Silver Tongue | Soul Speech |
+| Reading | Basic Reading | Fluent Reading | Deep Reading | Spirit Reading |
+| Understanding | Basic Understanding | Clear Understanding | Profound Understanding | Enlightened Understanding |
+| Cooking | Basic Cooking | Camp Cooking | Feast Cooking | Spirit Feast |
+| Combat style | Basic Combat Style | Grey Ridge Hunt | Storm Frost Ghost Hunt | Ghost Storm Dominion |
+| Cultivation | Basic Soul Power Cultivation | Flowing Soul Cultivation | Dark Pool Cultivation | Spirit Sea Cultivation |
+| Hunter's craft | Basic Hunter's Craft | Forest Craft | Grey Ridge Craft | Ghost Ridge Craft |
+| Concealment | Ring Veil | Ring Veil (deepened) | Veil of Ghost | Phantom Veil |
+| Netherlight | Light of Netherworld | Netherlight | Ghost Veil | Ghost Storm Veil |
+| Storm charge (2nd ring) | Wind Blade Burst | Windstride | Storm Step | Storm Frost Ghost Wings |
+
+**Fusion law in short:** 2–3 suitable Lows (each 80%+ , or one 100% + two 60%+) fuse → one Mid at 1%; 2–3 Mids → one High; 2–3 Highs → one Top. Logic decides what fuses: *movement + movement + body = movement; mental + mental + mental = mental; perception + perception + patience = perception.* **Footwork fuses to ONE line** — Basic Walking + Basic Running + Mountain Stride → Silent Wind Step (Mid) — not three separate Highs. **No random fusion. No terminal. 100% is the evolution trigger — with a new name.**
+
+## §6 — Your OC's skills — the fill-in block
+
+- **First ring — {{Name}} — {{years}}y — {{effect}}:** {{description — light, transformation, tell, effect}} — evolution line to fill: {{Low → Mid → High names}}
+- **Second ring — {{Name}} — {{years}}y — {{effect}}:** {{description}} — evolution line: {{…}}
+- **Third ring — {{Name}} — {{years}}y — {{effect}}:** {{description}} — evolution line: {{…}}
+- **Full grant:** {{the seven parts, per ring}}
 
 ---
 
-
-
-## Footwork Fusion Law v5.4 — Which fool masters so many step techniques separately? They fuse! — MANDATORY
-
-**User complaint (F26):** Basic Walking → Silent Wind Step → Ghost Frost Storm Step, Basic Running → Wind Stride → Storm Step → Ghost Wind Burst, Mountain Stride → Ridge Stride → Wind Ridge Step — What you think what am i saying, what you understood why fusion, there is so many footwork technique what they don't fuse, In Frist please which fool master so many step techniques
-
-**Fix v5.4 — MANDATORY:** Basic Walking Low + Basic Running Low + Mountain Stride Low are all footwork — they FUSE into ONE movement technique, not three separate High.
-
-- Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE movement technique — which fool masters so many step techniques separately? They fuse! — not three separate High — footwork + footwork + footwork = footwork Mid with different name
-- Silent Wind Step Mid 1-100% quiet step seen-late → Ghost Frost Storm Step High different name 1% → Storm Frost Ghost Veil Top different name — ONE line, not three — different name per grade — correct evolution per technique — footwork fusion mandatory
-- No separate: Basic Walking does NOT go to High alone, Basic Running does NOT go to High alone, Mountain Stride does NOT go to High alone — they FUSE into Silent Wind Step Mid, then evolve as ONE — correct evolution per technique — different name per grade — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!
-
-**Other techniques — correct evolution per technique — different name per grade — NOT everything into Silent Wind Step:**
-
-- Body Control Low → Flowing Body Mid → Storm Body High → Ghost Body Top — correct — not Silent Wind Step
-- Soul Power Control Low → Flowing Control Mid → Spirit Control High → Spirit Sea Control Top — correct — not Silent Wind Step
-- Five Senses Low → Keen Senses Mid → Spirit Eye High → Divine Perception Top — correct — not Silent Wind Step
-- Observation Low → Hunter's Eye Mid → Spirit Perception High → Void Eye Top — correct — not Silent Wind Step
-- Hunter's Sense Low → Beast Sense Mid → Predator Sense High → Phantom Sense Top — correct — not Silent Wind Step
-- Stillness Low → Patience as Limb Mid → Void Stillness High → Eternal Stillness Top — correct — not Silent Wind Step
-- Basic Spear Low → Spear Flow Mid → Storm Spear High → Ghost Spear Dominion Top — correct — not Silent Wind Step
-- Tally Low → Clear Mind Mid → Profound Tally High → Ledger Mind Top — correct — not Silent Wind Step
-- Plain Speech Low → Clear Speech Mid → Silver Tongue High → Soul Speech Top — correct — not Silent Wind Step
-- Basic Reading Low → Fluent Reading Mid → Deep Reading High → Spirit Reading Top — correct — not Silent Wind Step
-- Basic Understanding Low → Clear Understanding Mid → Profound Understanding High → Enlightened Understanding Top — correct — not Silent Wind Step
-- Basic Spearmanship Low → Spear Flow Mid → Storm Spear High → Ghost Spear Top — correct — not Silent Wind Step
-- Basic Cooking Low → Camp Cooking Mid → Feast Cooking High → Spirit Feast Top — correct — not Silent Wind Step
-- Basic Combat Style Low → Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High → Spirit Sea Cultivation Top — correct — not Silent Wind Step
-- Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High → Ghost Ridge Craft Top — correct — not Silent Wind Step
-- Grey Ridge Hunt Mid → Storm Frost Ghost Hunt High → Ghost Storm Dominion Top — correct — not Silent Wind Step
-- Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — correct — not Silent Wind Step
-- Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top — correct — not Silent Wind Step — note Windstride here is second ring skill, not footwork separate line — footwork is Silent Wind Step ONE line
-- Ring Veil Low/Mid → Veil of Ghost High → Phantom Veil Top — correct — not Silent Wind Step
-
-Every evolution different name and own logical next, not everything into Silent Wind Step, and footwork Low FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! — suitable techniques can fuse like three fuse and become a High with different name, how logically things work — movement+movement+body=movement High different name mental+mental+mental=mental High different name perception+perception+patience=perception High different name — No random fusion — No terminal — 100% is evolution trigger with different name.
-
+*The full law texts (F14 · F17 · F18 · F19 · F20 · F23 · F26) and the fusion discipline: [`docs/01_the_laws.md`](../docs/01_the_laws.md). Nothing in this file may contradict the status panel's exact figures.*
