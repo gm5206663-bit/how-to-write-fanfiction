@@ -99,6 +99,26 @@
 
 **Evolution chain:** same
 
+## 13. SL3 — the foundation study (Lin Hao's first five → the ten craft laws)
+
+**Status:** craft extraction, 2026-09-07, at the author's direction — the author's own SL3 serial read chapters 1–5 end to end as the foundation, its craft distilled, its canon/OC/world quarantined (reference only; never imported as story). The extraction doc was removed in the 2026-10-12 one-copy pass; its live home is `lan_shen/foundation/STYLE_LAW.md` §2/§4/§6, and the original is retrievable from the kit's history (`f33cc19`).
+
+**The ten craft laws:**
+1. The OC is never a watcher across a whole chapter — observer moments are half-beats, never a chapter's spine (machine-enforced downstream: the style gate fails a chapter whose protagonist speaks fewer than four times).
+2. Talent is embodied, never named — counting, reading a notice, cups on a sill. No system voice; no narrator explaining what the gift means.
+3. World rules arrive as priced experience — delivered through a character who pays for the knowledge. Not stated. Costed.
+4. Choice > trait — every chapter gives him a decision with a consequence and a stated butterfly.
+5. Secondary cast have real interior — a character who appears for one chapter may still get an origin.
+6. Withholding is a tool — name the big thing and hold it back so its first use matters.
+7. Friendship is mutual and equal — the canon MC is not worshipped at a distance.
+8. Theme is earned in scenes, not declared — nobody delivers the thesis in a speech.
+9. Chapters end in shared warmth or forward motion, not solitude.
+10. Bookkeeping stays tight — and stays out of the chapter file entirely (apparatus law).
+
+**And the warning seen in the model itself:** the reference's own first-five footers leaked end-of-serial state (a "three purple rings" law line in chapter one, when the character is six with no rings). Centralized current-state plus a tight per-chapter state line is the medicine; never embed end-state boilerplate in early chapters.
+
+**Evolution chain:** same
+
 ---
 
 *v5.2 evolution chain fix — different name per grade — every evolution has different name — Mid different from Low, High different from Mid — v2.1 evolution chain fix — There is no such thing as 100% MASTERED terminal — Low 1-100% → Mid → High instant evolution second it hits 100% — Basic Walking Low different name 1-100% → Silent Wind Step Mid different name → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name — every grade different name → Storm Frost Ghost Veil Top — 
