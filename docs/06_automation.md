@@ -23,7 +23,7 @@
 | `build_oc_status.py` | builds the OC status sheet from authority files | one current-state sheet | Devouring Dragon |
 | `build_site.py` | builds the reading site from chapters | publishing, no frameworks | the shelf's own builder |
 | `ship_chapter.py` | the ship checklist, mechanical 80% | Ship Law | refuses "shipped" until each step verifies |
-| `register.py` | measures every book and every tree on the account | counts are measured, never typed | THE-COMPLETE-REGISTER, 22 books · 375 ch · 1,617,455 words |
+| `register.py` | measures every book and every tree on the account | counts are measured, never typed | THE-COMPLETE-REGISTER, 24 books · 377 ch · 1,624,963 words |
 | sentinel (library) | independent health scan | coverage line, fail-loud | 26 of 26 ran, 26 pass (2026-10-13) |
 
 ## How the pieces fit
@@ -70,7 +70,7 @@ Three specific checks keep the model from regressing:
 
 ## The register and the sentinel — counting is a gate too
 
-**`register.py`** measures every book and every chapter-bearing tree on the account and prints what it found — nothing on disk holding prose may be unnamed, whether it is a gated book, a shelf copy, an archive, or a classified sighting. It exists because the account's own tools had been registering *what they happened to look at, not what was there* — the largest serial in the account had never been seen by any of them. Its output is [`THE-COMPLETE-REGISTER.md`](https://github.com/gm5206663-bit/the-authors-desk) (2026-10-13: 22 books · 375 chapters · 1,617,455 words · coverage 50 of 50 trees).
+**`register.py`** measures every book and every chapter-bearing tree on the account and prints what it found — nothing on disk holding prose may be unnamed, whether it is a gated book, a shelf copy, an archive, or a classified sighting. It exists because the account's own tools had been registering *what they happened to look at, not what was there* — the largest serial in the account had never been seen by any of them. Its output is [`THE-COMPLETE-REGISTER.md`](https://github.com/gm5206663-bit/the-authors-desk) (2026-10-13: 24 books · 377 chapters · 1,624,963 words · coverage 59 of 59 trees — reconciled the same afternoon).
 
 **The library's sentinel** is the independence layer: 26 checks including the *coverage line* — and the coverage line is the operative check. On 2026-10-13 it reported "25 of 26 checks ran"; the missing check was traced (a stale anchor had silently stopped one check from running), fixed, and hardened so a vanished precondition now **fails loudly** instead of skipping. **26 of 26 ran, 26 pass.**
 

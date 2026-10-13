@@ -19,7 +19,7 @@
 
 ## What this is
 
-**This is not a vibe guide.** It is the working system behind a workshop of gated serials — every chapter machine-checked against its own laws before it ships. As of the 2026-10-13 measurement, the account holds **22 registered books · 375 chapters · 1,617,455 words**, of which the public library shelf carries **18 serials · 312 chapters · 1,351,161 words**. The method is proven across **16 Soul Land (斗罗大陆) serials plus Supergirl and two MCU serials**, and it is written to be **fandom-neutral** — the Soul Land and MCU work is the worked example, not the requirement.
+**This is not a vibe guide.** It is the working system behind a workshop of gated serials — every chapter machine-checked against its own laws before it ships. As of the 2026-10-13 measurement, the account holds **24 registered books · 377 chapters · 1,624,963 words**, of which the public library shelf carries **18 serials · 312 chapters · 1,351,161 words**. The method is proven across **16 Soul Land (斗罗大陆) serials plus Supergirl and two MCU serials**, and it is written to be **fandom-neutral** — the Soul Land and MCU work is the worked example, not the requirement.
 
 Treat fan fiction like software. Give it a source of truth, tests, and state panels — and a story can grow forever without rotting.
 
@@ -97,7 +97,7 @@ cp -r templates/ my_serial/foundation/
 | MCU Eternal — Varun | 3 | 9,212 | mcu_verify 8 gates | talent embodied, never named |
 | Dragon Prince Yuan | 1 | 3,706 | gate PASS | a false FAIL is worth ten false PASSes |
 
-**Combined:** 375 chapters across 22 registered books, 1,617,455 words — every shipped chapter gate-checked. The library shelf publishes 18 serials · 312 chapters · 1,351,161 words as one reading site.
+**Combined:** 377 chapters across 24 registered books, 1,624,963 words — every shipped chapter gate-checked. The library shelf publishes 18 serials · 312 chapters · 1,351,161 words as one reading site.
 
 ## The law inventory
 
