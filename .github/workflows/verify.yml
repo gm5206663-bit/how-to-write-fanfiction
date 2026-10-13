@@ -22,3 +22,5 @@ jobs:
         run: python3 examples/minigate.py --selftest
       - name: Link sweep (every relative link in the guide resolves)
         run: python3 tools/check_links.py
+      - name: Manifest (every file hash-matches MANIFEST.sha256)
+        run: python3 tools/check_manifest.py

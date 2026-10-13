@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Write Gated Fan Fiction — Guide v3.0</title>
+<style>
+  :root{--bg:#0d0f1a;--panel:#151528;--line:#2c2c4a;--ink:#e9e7f5;--dim:#9a94c0;--gold:#e8c76a;--blue:#6ac3e8}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 Georgia,'Times New Roman',serif}
+  .wrap{max-width:1000px;margin:0 auto;padding:48px 24px 64px}
+  header{text-align:center;padding:24px 0 6px}
+  h1{font-size:38px;margin:0 0 8px;color:var(--gold);letter-spacing:2px}
+  .sub{color:#cfcbe8;font-size:17px;max-width:720px;margin:0 auto}
+  .bar{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:24px 0 8px}
+  .pill{border:1px solid var(--line);border-radius:999px;padding:6px 14px;font:12.5px Verdana,sans-serif;color:var(--dim)}
+  .pill b{color:var(--gold);font-weight:600}
+  blockquote{margin:28px auto;padding:18px 22px;border-left:3px solid var(--gold);background:var(--panel);border-radius:0 12px 12px 0;color:#d9d5ee;font-size:16.5px}
+  h2{font:600 17px Verdana,sans-serif;color:var(--blue);letter-spacing:1px;margin:38px 0 14px}
+  table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font:600 12.5px Verdana,sans-serif;color:var(--gold);letter-spacing:.5px}
+  td:first-child{color:#efc9d8}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+  a.card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;text-decoration:none;color:var(--ink)}
+  a.card:hover{border-color:var(--gold)}
+  a.card b{display:block;font:600 14.5px Verdana,sans-serif;color:var(--gold);margin-bottom:4px}
+  a.card span{color:var(--dim);font-size:13.5px}
+  footer{margin-top:42px;padding-top:18px;border-top:1px solid var(--line);color:var(--dim);font-size:13px;text-align:center;line-height:1.9}
+  footer a{color:var(--blue)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>HOW TO WRITE GATED FAN FICTION</h1>
+    <div class="sub">A production system for long-form fan fiction that stays true to its source — for hundreds of thousands of words.</div>
+    <div class="bar">
+      <span class="pill">guide <b>v3.0</b> · law <b>v5.4</b></span>
+      <span class="pill">proven over <b>24 books · 377 chapters · 1,624,963 words</b></span>
+      <span class="pill">CI-verified on every push</span>
+    </div>
+  </header>
+
+  <blockquote>Treat fan fiction like software. Give it a source of truth, tests, and state panels — and a story can grow forever without rotting.</blockquote>
+
+  <h2>THE FIVE DEATHS — AND THE CHECK THAT PREVENTS EACH ONE</h2>
+  <table>
+    <tr><th>The death</th><th>The law</th><th>The check</th></tr>
+    <tr><td>Canon drift</td><td>Canon-First Creation · Ledger-Canon</td><td>canon spine + ledger + gate scan + plagiarism sweep</td></tr>
+    <tr><td>OC takeover</td><td>Multi-Panel Law — canon shown, never skipped</td><td>panel audit per chapter + drift guard that fails a frozen meter</td></tr>
+    <tr><td>Power inflation</td><td>Unfixed Law — power is a baseline, never a ceiling</td><td>status panel as single source of truth + banned-value scan</td></tr>
+    <tr><td>Voice drift</td><td>Style-match + personality-first</td><td>style gate with prose band and hard caps</td></tr>
+    <tr><td>State rot</td><td>Ship Law — update everything the same turn</td><td>generated status files + selftest + independent drift scan</td></tr>
+  </table>
+
+  <h2>READ THE GUIDE</h2>
+  <div class="grid">
+    <a class="card" href="01_the_laws.md"><b>01 · The Laws</b><span>The constitution — all 31 entries, the check that enforces each, and the serial that paid for it.</span></a>
+    <a class="card" href="02_workflow.md"><b>02 · The Workflow</b><span>Starting a serial — foundation docset, ore mining, the six-step chapter loop.</span></a>
+    <a class="card" href="03_gates_and_audits.md"><b>03 · Gates &amp; Audits</b><span>The machine room — gate layers and the selftest culture.</span></a>
+    <a class="card" href="04_case_studies.md"><b>04 · Case Studies</b><span>The proof — the serials, what each taught, with numbers; §15 documents the Adaptation Talent system.</span></a>
+    <a class="card" href="05_glossary.md"><b>05 · Glossary</b><span>Band, locks, butterfly, drift guard — every term of art.</span></a>
+    <a class="card" href="06_automation.md"><b>06 · Automation</b><span>When the rules are enforced by code, and the CI form of the battery.</span></a>
+    <a class="card" href="07_share_kit.md"><b>07 · Share Kit</b><span>Templates and the release checklist.</span></a>
+    <a class="card" href="08_advanced_perfect_edition.md"><b>08 · Advanced Edition</b><span>Technique-evolution and fusion laws in full.</span></a>
+    <a class="card" href="09_mcu_adaptation.md"><b>09 · MCU Adaptation</b><span>Film/TV fandoms — camera law, film order, plural panels.</span></a>
+    <a class="card" href="10_storyos_and_control_centre.md"><b>10 · StoryOS &amp; Control Centre</b><span>Publishing — readers, state sites, the agent console.</span></a>
+  </div>
+
+  <h2>THE PROOF AND THE TOOLS</h2>
+  <div class="grid">
+    <a class="card" href="https://github.com/gm5206663-bit/how-to-write-fanfiction/tree/main/templates"><b>Templates</b><span>Nine copy-paste starting files in the house shape.</span></a>
+    <a class="card" href="https://github.com/gm5206663-bit/how-to-write-fanfiction/blob/main/examples/minigate.py"><b>minigate.py</b><span>A working gate in one file — stdlib only, selftest included.</span></a>
+    <a class="card" href="https://github.com/gm5206663-bit/how-to-write-fanfiction/blob/main/DEEP-PASS-2026-10-13.md"><b>The Deep Pass</b><span>How the guide itself was rebuilt with receipts — links, counts, and every verification.</span></a>
+    <a class="card" href="https://github.com/gm5206663-bit/how-to-write-fanfiction/releases/tag/v3.0"><b>Release v3.0</b><span>The current edition, tagged.</span></a>
+  </div>
+
+  <footer>
+    Repository: <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction">github.com/gm5206663-bit/how-to-write-fanfiction</a> · <a href="https://github.com/gm5206663-bit/how-to-write-fanfiction/discussions">discussions</a><br>
+    The doctrine of §15: <a href="https://github.com/gm5206663-bit/adaptation-talent">adaptation-talent</a> · the account's control room: <a href="https://github.com/gm5206663-bit/the-authors-desk">the-authors-desk</a><br>
+    MIT for the method text · fan work for the stories · verified by its own CI
+  </footer>
+</div>
+</body>
+</html>

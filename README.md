@@ -23,6 +23,8 @@
 
 Treat fan fiction like software. Give it a source of truth, tests, and state panels — and a story can grow forever without rotting.
 
+**Read it as a site:** [gm5206663-bit.github.io/how-to-write-fanfiction](https://gm5206663-bit.github.io/how-to-write-fanfiction/) — the guide, browsable. **Elsewhere:** the doctrine this guide's §15 documents, [adaptation-talent](https://github.com/gm5206663-bit/adaptation-talent); the account's control room and register, [the-authors-desk](https://github.com/gm5206663-bit/the-authors-desk).
+
 ## The problem: how fan fiction dies
 
 Most long fan fiction dies one of five deaths. This method makes each death *structurally impossible* by attaching a law to it and a check that enforces the law.

@@ -26,6 +26,7 @@ experiment, and your findings are welcome.
 - [ ] The docs still build as plain Markdown (no broken relative links)
 - [ ] `python3 examples/minigate.py --selftest` still prints `SELFTEST PASS`
 - [ ] `python3 tools/check_links.py` reports 0 broken links
+- [ ] Files changed? `sh tools/refresh-manifest.sh` run, and `python3 tools/check_manifest.py` green
 - [ ] New claims carry their receipts (serial, chapter, date)
 
 ---
