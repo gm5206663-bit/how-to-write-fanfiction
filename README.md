@@ -51,18 +51,20 @@ Each of those five deaths has a chapter of its own here — §1 in [`docs/01_the
 
 | Doc | Read it when |
 |---|---|
-| [`01 · The Laws`](docs/01_the_laws.md) | You want the constitution — all 31 entries of record, what each one says, the check that enforces it, and which serial paid for it |
+| [`01 · The Laws`](docs/01_the_laws.md) | You want the constitution — all 36 entries of record, what each one says, the check that enforces it, and which serial paid for it |
 | [`02 · The Workflow`](docs/02_workflow.md) | You are starting a serial — foundation docset, ore mining, and the six-step chapter loop |
 | [`03 · Gates and Audits`](docs/03_gates_and_audits.md) | You want the machine room — the gate layers, what each one catches, and the selftest culture |
-| [`04 · Case Studies`](docs/04_case_studies.md) | You want the proof — thirteen serials, what each taught, with numbers — and the original system that runs through them (§15) |
+| [`04 · Case Studies`](docs/04_case_studies.md) | You want the proof — sixteen cases, what each taught, with numbers — and the original system that runs through them (§15) |
 | [`05 · Glossary`](docs/05_glossary.md) | A term is unfamiliar (band, locks, ore, butterfly, drift guard…) |
 | [`06 · Automation`](docs/06_automation.md) | You want your rules enforced by code, not memory |
 | [`07 · Share Kit`](docs/07_share_kit.md) | You want the templates and a release checklist |
 | [`08 · Advanced Edition`](docs/08_advanced_perfect_edition.md) | You want the technique-evolution and fusion laws in full |
 | [`09 · MCU Adaptation`](docs/09_mcu_adaptation.md) | Your fandom is film/TV — camera law, film order, plural panels |
 | [`10 · StoryOS and Control Centre`](docs/10_storyos_and_control_centre.md) | You want to publish: readers, state sites, and an agent console |
+| [`11 · Register and Camera`](docs/11_register_and_camera.md) | **Your chapter passes every gate and still sounds like the wrong book** — source-measured register, the camera law for prose (N1–N5), and the proof sheet |
 | [`templates/`](templates/) | You are ready to build the docset — nine copy-paste starting files |
 | [`examples/minigate.py`](examples/minigate.py) | You want a working gate in one file — stdlib only, selftest included |
+| [`tools/camera_gate.py`](tools/camera_gate.py) | You want the **voice** gated too — N1–N5, stdlib only, selftest 9/9 |
 | [`examples/github-actions-gate.yml`](examples/github-actions-gate.yml) | You want every push of *your* repo gated — the minimal CI shape (live here as [`.github/workflows/verify.yml`](.github/workflows/verify.yml)) |
 
 ## Start in five minutes

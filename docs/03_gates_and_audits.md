@@ -38,12 +38,35 @@ Each serial carries its own count — ten, nine, eight, seven layers — but the
 The author's standard, enforced by measurement:
 
 - **Band:** 2,400–3,400 words per chapter.
-- **Average sentence length:** 14–18 words.
+- **Average sentence length:** 14–18 words — **a HOUSE band, fandom-conditional since v5.5** (see the narration gate below and [`11`](11_register_and_camera.md)). A shouting source measured at its own register will set a lower one.
 - **Over 60:** zero sentences over 60 words.
 - **The-way constructions:** zero. **Bare fragments:** zero.
 - **No repetitive skill lists in the body** — mastery is shown by daily-life *action*; lore dumps live in the footer or the status file.
 
 Why so specific: the rejected chapter that produced this law averaged **6.8** words per sentence (median **5**), repeated "100% evolving High" in nearly every sentence, and repeated the same four canon phrases ten times. The rebuild that followed is the standard — see the Grey Wolf study in [`04`](04_case_studies.md).
+
+## The narration gate — the camera (N1–N5)
+
+**New 2026-10-25.** The prose gate above checks *the ledger of a page* — length, digits, banned tics.
+It does not check **the voice**, and on 2026-10-25 a chapter passed it while reading like the wrong book.
+This gate closes that hole. `tools/camera_gate.py`, standard library only, `--selftest` **9/9**.
+
+| Check | Fails on |
+|---|---|
+| **N1** | `like` / `as if` / `as though` **outside quotation marks** |
+| **N2** | `felt` / `realized` / `wondered` / `seemed` / `thought about` / `knew that` outside quotation marks |
+| **N3** | dialogue share outside **45–70%** of paragraphs |
+| **N4** | sentence average outside **8–14**, or **any** sentence over 60 words |
+| **N5** | a spell narrated (`she cast Water Magic`) instead of announced (`WATER CREATION MAGIC: HOLY FIST OF LOVE!`) |
+
+**Two design rules, and they are the whole gate:**
+
+1. **Dialogue is exempt.** A character may think, feel and compare in speech; the *camera* may not.
+   Every N1/N2 fixture therefore also tests that a line of quoted interiority **passes**.
+2. **Both new checks fail the draft that motivated them.** If the gate cannot fail your own last
+   chapter, it is decoration — the same rule as `minigate --selftest`.
+
+**It runs beside the prose gate, never instead of it.** A chapter has to pass both.
 
 ## The panel gate — F22 plus the drift guard
 

@@ -1,4 +1,4 @@
-# 04 · Case Studies — thirteen serials, and what each one taught
+# 04 · Case Studies — sixteen cases, and what each one taught
 
 **Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** Every law in [`01`](01_the_laws.md) was paid for by one of these projects. Numbers are measured, not remembered — the shelf and register counts are as of 2026-10-13.
 
@@ -152,6 +152,49 @@ The answer, built and published 2026-10-13: a locked 76-section master core, one
 The receipt is the same one this guide teaches everywhere else. The core was found living as **three byte-identical twins** across the account; the published repository keeps **one** — and records the other two, with hashes, in its provenance file. Canon, modules, and the writing law sit in that one repository, whose push-time CI verifies every file against a hash manifest and sweeps every relative link — *the text and its receipts cannot drift apart silently* (death #5, structurally impossible).
 
 **The lesson:** a shared system survives seventeen holders the way a text survives revision — one home per fact, a hash manifest, and a gate that fails the moment anything moves without its receipt.
+
+## 16 · Black Clover — the law measured off the wrong corpus (shonen · OC Auren)
+
+**Three drafts in one day · 2026-10-25 · [`camera_gate.py`](../tools/camera_gate.py) 9/9**
+
+A *Black Clover* serial had a full foundation, thirteen world and character documents, a prose gate with
+thirteen checks, and a first chapter that **passed all of them**. The author read it and said:
+
+> **"Hey write like canon how it written and show actually."**
+
+**The gate was clean and the voice was wrong.** The prose law behind it had been measured — carefully,
+honestly, with receipts — over **the workshop's own shelf: 309 chapters, 1,351,161 words.** That
+measurement can only ever reproduce the shelf. *Black Clover* is not the shelf.
+
+**Draft 2** fixed the register: dialogue up, refrains repeated, spells announced, a crowd that answers in
+fragments. It passed the new bands. The author came back:
+
+> **"I'm not talking story but I'm talking about style."**
+
+**Draft 2 was loud and still not canon**, because the shouting was correct and it was sitting in
+narration written like a novel — *"March came in warm off the ridge. The firefly dandelions opened all at
+once, as they did every year…"* **Draft 3 changed no story beat at all** and fixed the sentences: the
+caption box replaced the season, the simile went, the interiority became a body doing something.
+
+| | Draft 1 | Draft 2 | **Draft 3** |
+|---|---|---|---|
+| Sentence average | 17.12 | 13.21 | **8.92** |
+| **Longest sentence** | 55 | 51 | **34** |
+| Dialogue share | 27% | 54% | **60%** |
+| Similes / interiority in narration | many / many | many / several | **0 / 0** |
+
+**The lesson, in three parts:**
+
+1. **A law calibrated to the wrong corpus is worse than no law.** It produces confident prose in the
+   wrong voice, and a gate that congratulates you for it.
+2. **Register and style are separate axes.** You can be perfectly loud, correctly refrained, spell-calling
+   on every beat, and still be writing a novel with a manga's dialogue in it.
+3. **The proof has to be on the page.** Eight paired passages — the same beat twice, with the cause stated
+   — did more than any amount of describing the method. See [`11`](11_register_and_camera.md).
+
+**Paid for by:** two rejections in one day and an author who had to say it twice.
+
+---
 
 ---
 

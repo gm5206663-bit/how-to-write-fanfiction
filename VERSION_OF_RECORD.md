@@ -16,12 +16,12 @@ different things.
 
 | Axis | Version of record | What it counts |
 |---|---|---|
-| **Guide edition** | **v2.1 Advanced Perfect Edition** | The shape of this repository — docs 01-10, templates, examples, the scoreboard. Bumps when the *guide* changes. |
-| **Law revision** | **v5.4** | The F-series itself. Bumps when a *law* is struck, replaced or fused. |
+| **Guide edition** | **v3.1** | The shape of this repository — docs 01-11, templates, examples, the scoreboard. Bumps when the *guide* changes. |
+| **Law revision** | **v5.5** | The F-series and the N-series. Bumps when a *law* is struck, replaced or fused. |
 
 So the correct full citation is:
 
-> **Guide edition v2.1 Advanced Perfect Edition, law revision v5.4.**
+> **Guide edition v3.1, law revision v5.5.**
 
 Every "Evolution Chain Fix" tag in the repo refers to the **law** axis, not the
 guide axis. The chain ran v5.0 → v5.1 (evolution chain, no terminal) → v5.2
@@ -70,6 +70,32 @@ Structural laws              :  StoryOS, Control Centre, Soul
 **Was:** "25 laws" / "F0-F22". **Now:** 31 entries of record, F-series running
 F0-F26. **Reason:** the count had not been re-measured since F23 and F26 were
 added to the templates and docs but never to the pin.
+
+### 2026-10-25 — the N-series, and a re-measure at 36
+
+**Law revision v5.4 → v5.5. Guide edition v3.0 → v3.1. Entries of record 31 → 36.**
+
+Five laws were added, from one serial and two rejections in a single day:
+
+```
+N1  no simile in narration                 = 1
+N2  no interiority in narration            = 1
+N3  dialogue share is a band (45-70%)      = 1
+N4  short lines, 60-word cap that never moves = 1
+N5  announced, never narrated              = 1
+                                             ---
+                          ENTRIES OF RECORD  = 36
+```
+
+**Why a new letter.** The numbers are receipts, and the F-series numbers are spoken for. The N-series
+is a different axis of the same constitution: **the F-series governs a character's ledger; the N-series
+governs the camera.** Each carries its own check in `tools/camera_gate.py` (selftest 9/9).
+
+**What moved, and what did not.** The **F-series did not move** — no F law was struck, fused or
+renumbered. What moved is the **Clean-and-Clear amendment**: its 14–18 band is now labelled for what it
+always was, a **house** register measured over this workshop's own shelf, and it is **fandom-conditional**
+from v5.5. **The 60-word cap did not move.**
+
 
 ### Numbers never assigned
 

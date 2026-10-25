@@ -1,6 +1,6 @@
-# 01 · The Laws — 31 entries of record (F0–F26 · P12 · 7 structural)
+# 01 · The Laws — 36 entries of record (F0–F26 · P12 · N1–N5 · 7 structural)
 
-**Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
+**Guide v3.1 · Law revision v5.5 · updated 2026-10-25.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
 
 ---
 
@@ -191,6 +191,63 @@ Shipping a chapter is a **checklist, not a mood**: the mechanical steps (measure
 
 ### Clean-and-Clear — the prose law
 Natural prose, average sentence length **14–18**, chapter band **2,400–3,400 words**, **0** sentences over 60 words, **0** "the-way" constructions, **0** bare fragments — no repetitive skill lists in the body; mastery is shown by daily-life **action**; lore dumps live in the footer or the status file, not the scene. *Paid for by:* the author's rejection of the chapter whose average sentence was 6.8, median 5, repeating "100% evolving High" per sentence and the same four canon phrases ten times. The rebuild that followed is the standard every serial now aims at.
+
+> **Amendment (v5.5, 2026-10-25) — Clean-and-Clear is a HOUSE register, and its bands are fandom-conditional.**
+> 14–18 was measured over this workshop's own shelf, and a band measured over your own fan fiction can
+> only reproduce your own fan fiction. **Before chapter one, measure the SOURCE** — dialogue share,
+> sentence average, longest line, whether it prints technique names in a fixed format, whether it uses
+> narration for interiority at all — and set the band from that. **The one number that never moves is
+> the 60-word cap.** See [`11_register_and_camera.md`](11_register_and_camera.md).
+> *Paid for by:* a chapter that passed five structural gates while reading like the wrong book.
+
+
+---
+
+# Group 4 — The N-series: what a sentence is allowed to contain
+
+**The F-series governs a character's ledger. The N-series governs the camera.** Written for *Black
+Clover* on 2026-10-25, after a chapter cleared every structural gate and was still in the wrong voice —
+twice. **N4 is the only law in this guide that overrides a number measured from our own shelf.**
+
+### N1 — No simile in narration
+`like` / `as if` / `as though`, outside quotation marks. **Speech may be as lyrical as the character is;
+the camera may not be lyrical at all.** Canon compares by event, never by image: *"in one gust"*, never
+*"like leaves off a tree in one gust"*.
+- **Check:** `tools/camera_gate.py` N1 (selftested, fires on a planted simile outside speech).
+- **Paid for by:** *Black Clover*, 2026-10-25.
+
+### N2 — No interiority in narration
+`felt` · `realized` · `wondered` · `seemed` · `thought about` · `knew that`, outside quotation marks.
+**A feeling is shouted by the person having it, or shown by a body doing something. It is never
+reported.** *"Yuno thought about it and then stopped thinking about it"* becomes *"Yuno looked at the
+yard. He looked at the wood in his hands."*
+- **Check:** `tools/camera_gate.py` N2.
+- **Paid for by:** *Black Clover*, 2026-10-25 — **the highest-yield rule in the guide**: nearly every
+  "this reads like a novel, not the source" complaint is N2, and N2 is decidable by a regex.
+
+### N3 — Dialogue is the engine: the share is a band, not a vibe
+Default **45–70% of paragraphs in speech** for a source whose own pages are mostly speech. Below the
+band you have written narration with dialogue in it; above it, nobody is standing anywhere.
+- **Check:** `tools/camera_gate.py` N3.
+- **Paid for by:** *Black Clover* (27% shipped, and it read quiet).
+
+### N4 — Short lines, and a 60-word cap that never moves
+Average **8–14** for a shouting source; **60-word hard cap regardless of source.** Fragments are legal.
+**The cap matters more than the average** — a mean can be dragged down by a hundred good short lines
+while the forty-word ones still kill the page.
+- **Check:** `tools/camera_gate.py` N4. **Overrides the Clean-and-Clear amendment's band, never its cap.**
+- **Paid for by:** *Black Clover* (longest sentence 55 → 51 → **34**; the 51 draft was still wrong).
+
+### N5 — Announced, never narrated
+If the source prints its moves in a fixed format, print them in that format. *[Attribute] Magic: [Spell
+Name]!* — *"WATER CREATION MAGIC: HOLY FIST OF LOVE!"* — never *"she cast Water Magic."*
+- **Check:** `tools/camera_gate.py` N5.
+- **Paid for by:** *Black Clover*.
+- **Generalises to any fandom with a visible technique grammar**: a summary in narration is a *format*
+  error, not merely a voice error.
+
+**The law under all five:** *the narration is a camera — it says what happened and what is in the room.
+Everything else comes out of a character's mouth, or it does not go in the book.*
 
 ---
 
