@@ -1,6 +1,6 @@
-# 01 · The Laws — 36 entries of record (F0–F26 · P12 · N1–N5 · 7 structural)
+# 01 · The Laws — 42 entries of record (F0–F26 · P12 · N1–N5 · X1–X6 · 7 structural)
 
-**Guide v3.1 · Law revision v5.5 · updated 2026-10-25.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
+**Guide v3.2 · Law revision v5.6 · updated 2026-10-25.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
 
 ---
 
@@ -248,6 +248,51 @@ Name]!* — *"WATER CREATION MAGIC: HOLY FIST OF LOVE!"* — never *"she cast Wa
 
 **The law under all five:** *the narration is a camera — it says what happened and what is in the room.
 Everything else comes out of a character's mouth, or it does not go in the book.*
+
+
+---
+
+# Group 5 — The X-series: writing from a moving source
+
+**The N-series governs what a sentence may contain. The X-series governs which machine you are writing
+from.** Written the same day, after the same serial was corrected a third time — *"you take manga okay
+but i also show, i mean by it anime style is."* **A manga is a series of chosen instants. An anime is a
+series of imposed durations.** Everything below follows from that one line.
+
+### X1 — Sound leads the cut
+Every scene arrives as a **sound** before it arrives as a picture. An anime cannot cut silently; a prose
+chapter with a heading that labels a place, and no sound in the paragraph after it, has been written from
+a manga.
+- **Check:** does the scene's first paragraph carry a noise? · **Paid for by:** *Black Clover* (five caption boxes in one chapter).
+
+### X2 — The hold
+The anime can hold a face and do nothing with it. **A manga panel cannot — an empty panel is a wasted
+panel.** Silence is material only animation owns.
+- **Check:** count the still paragraphs — no dialogue, no movement, no new fact. **A scene with zero holds was written from a manga.** · **Paid for by:** *Black Clover* (0 → 6).
+
+### X3 — The narrowing, not the cut
+A manga goes wide panel → close-up panel. **The anime moves there** — one continuous push from the wide to
+the hand to the knuckles. Reach the detail through movement, not through a jump.
+- **Check:** movement or jump? · **Paid for by:** *Black Clover*.
+
+### X4 — Breath in the line
+**Manga dialogue is typeset. Anime dialogue is performed.** `…` is a held shot, not punctuation. A scream
+cracks mid-word. `"Ah—"` is an interruption. If every line is a complete sentence, it was transcribed, not
+performed.
+- **Check:** is any line broken where a **body** breaks it? · **Paid for by:** *Black Clover*.
+
+### X5 — Episode architecture
+**Cold open → A-part → eyecatch → B-part → next time.** The cold open is why canon's legend lands: in the
+manga it is a caption; in the anime it is a voice over a battlefield before the title.
+- **Check:** the three markers are **all present or all absent** — never two of three. · **Paid for by:** *Black Clover*.
+
+### X6 — The moving source expands; it does not compress
+An anime episode adapts its manga chapters **and goes past them**; it never cuts canon to fit, it makes
+room. **So an anime-styled chapter is usually LONGER than a manga-styled one.**
+- **Check:** the canon consumed against the episode's own running order. **A card claiming `EP. N` that stops where the chapter stopped is a false card.** · **Paid for by:** *Black Clover* — card said `ep. 1`, chapter stopped at the four-leaf, ep. 1 runs to the five-leaf.
+
+**The law under all six:** *the card says what you drew on, and the medium in the card sets the grammar.
+`ANIME BASE: ep. N` is not a citation — it is a promise about how the chapter moves.*
 
 ---
 

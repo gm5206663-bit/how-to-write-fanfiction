@@ -16,12 +16,12 @@ different things.
 
 | Axis | Version of record | What it counts |
 |---|---|---|
-| **Guide edition** | **v3.1** | The shape of this repository — docs 01-11, templates, examples, the scoreboard. Bumps when the *guide* changes. |
-| **Law revision** | **v5.5** | The F-series and the N-series. Bumps when a *law* is struck, replaced or fused. |
+| **Guide edition** | **v3.2** | The shape of this repository — docs 01-12, templates, examples, the scoreboard. Bumps when the *guide* changes. |
+| **Law revision** | **v5.6** | The F-, N- and X-series. Bumps when a *law* is struck, replaced or fused. |
 
 So the correct full citation is:
 
-> **Guide edition v3.1, law revision v5.5.**
+> **Guide edition v3.2, law revision v5.6.**
 
 Every "Evolution Chain Fix" tag in the repo refers to the **law** axis, not the
 guide axis. The chain ran v5.0 → v5.1 (evolution chain, no terminal) → v5.2
@@ -95,6 +95,29 @@ governs the camera.** Each carries its own check in `tools/camera_gate.py` (self
 renumbered. What moved is the **Clean-and-Clear amendment**: its 14–18 band is now labelled for what it
 always was, a **house** register measured over this workshop's own shelf, and it is **fandom-conditional**
 from v5.5. **The 60-word cap did not move.**
+
+
+### Later the same day — the X-series, 36 → 42
+
+**Law revision v5.5 → v5.6. Guide edition v3.1 → v3.2. Entries of record 36 → 42.**
+
+Six laws, one serial, one correction — *"you take manga okay but i also show, i mean by it anime style is."*
+
+```
+X1  sound leads the cut                     = 1
+X2  the hold                                = 1
+X3  the narrowing, not the cut              = 1
+X4  breath in the line                      = 1
+X5  episode architecture                    = 1
+X6  the moving source expands               = 1
+                                              ---
+                           ENTRIES OF RECORD  = 42
+```
+
+**Why a third letter.** N asks *what may a sentence contain*; X asks *what were you looking at when you
+wrote it*. They fail independently: a chapter can be perfectly camera-clean and still be a manga when the
+card claims an episode. **Six laws, one doc ([`12`](docs/12_manga_and_anime.md)), and not one of them
+machine-checkable above a heuristic — this is a judgement the card enforces, not a script.**
 
 
 ### Numbers never assigned
