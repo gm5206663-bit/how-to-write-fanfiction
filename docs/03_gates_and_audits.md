@@ -81,6 +81,26 @@ This gate closes that hole. `tools/camera_gate.py`, standard library only, `--se
 - **Secondary sources are ore, never law** — a wiki note is a lead to check, not a citation to trust.
 - **The copy check closes the loop:** the gate compares the chapter's narration and dialogue against the receipts (n-gram runs, quoted-run length, density ceilings) and fails on borrowing. The check's threshold itself has receipts: it was rebuilt from corpus evidence after a real leak (see Lan Shen in [`04`](04_case_studies.md)).
 
+## The claim gate — the registry behind the receipts (Y1–Y7)
+
+The canon gate above stops a chapter **copying** the source. The claim gate stops a chapter **inventing**
+it. They are different failures and they need different tools: a chapter can be entirely original prose and
+still say a character served eight years in a squad he never joined.
+
+- **Two registries, plain JSON, no dependencies.** `canon/facts.json` and `canon/spells.json`. ⭐ **A fact enters
+  the registry before it enters the prose, and `source` is a required field** — a page, an episode, or the
+  words `OC — not canon`.
+- **Every canon beat cites its id in the chapter footer**, quoting the line it paid for. The quote must be the
+  line actually in the chapter — otherwise the citation is decoration.
+- **C1 refuses a shouted spell that does not exist, and a real spell in the wrong mouth.** C2 refuses a claim
+  citing a missing fact or quoting a missing line. C3 notes a number hung on a canon character inside no claim.
+- **When two sources disagree, a ruling decides.** Never an average: an averaged detail exists in neither
+  source and is therefore uncheckable. The losing detail is logged as a divergence, with what it changed.
+- **The registry is canon too.** The first live run failed on a spell filed under the wrong owner while the prose
+  was correct — a gate that reads a registry is also a gate on the registry.
+
+Run: `python3 tools/claim_gate.py chapters/*.md` · selftest 5/5 · CI runs it on every push.
+
 ## The evolution-chain gate (F14 · F23 · F26)
 
 - **Law presence:** the evolution-chain law and the fusion law must be *findable in the tree* — a law that fell out of the docs fails the check.

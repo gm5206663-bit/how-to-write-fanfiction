@@ -1,4 +1,4 @@
-# 04 · Case Studies — sixteen cases, and what each one taught
+# 04 · Case Studies — seventeen cases, and what each one taught
 
 **Guide v3.0 · Law revision v5.4 · updated 2026-10-13.** Every law in [`01`](01_the_laws.md) was paid for by one of these projects. Numbers are measured, not remembered — the shelf and register counts are as of 2026-10-13.
 
@@ -193,6 +193,43 @@ caption box replaced the season, the simile went, the interiority became a body 
    — did more than any amount of describing the method. See [`11`](11_register_and_camera.md).
 
 **Paid for by:** two rejections in one day and an author who had to say it twice.
+
+---
+
+## 17 · Black Clover, second pass — six errors in two chapters (shonen · OC Auren)
+
+The same serial as Case 16, one week later, and a different failure. The voice was fixed. **The canon was
+not.** The author, after being handed two green chapters:
+
+> *"I think you should check everything, I can't tell you every mistakes one by one, please do something."*
+
+**Six errors, in chapters whose sources had all been fetched:**
+
+| I wrote | The source |
+|---|---|
+| the grimoire came **"up the road"** | manga: **a hole in the tower wall** · anime: **the sky** |
+| a boy complaining about **a book he cannot read** | **the ceremony gave him nothing** |
+| a thief with **eight years' service** | **thirty-two, a former first-class junior, discharged** |
+| a thief with **no scar and no book** | **a burn down his face; a grimoire in a thigh pouch** |
+| a **spell that has never existed** | no such spell |
+| a lead casting **a spell canon never gives him there** | **he is on the floor first** |
+
+⭐ **The one that generalises is the first.** Two sources disagreed, and I split the difference into a detail
+that exists in neither — **the only kind of error that cannot be checked against anything.**
+
+**What it produced:** `tools/claim_gate.py` (C1/C2/C3, selftest 5/5) · facts and spells registries with ids,
+statements and sources · one `CLAIM` row per canon beat quoting the line it paid for · the Y-series
+(Y1–Y7) · [`13`](13_working_from_a_checked_source.md).
+
+**The uncomfortable receipt:** on its first run against the live serial, **the gate failed — and the error was
+in the registry, not the chapter.** A spell was filed under the wrong owner and the prose had it right. ⭐ **The
+registries are canon too, and they rot.**
+
+**The other lesson, which no gate catches:** the OC was present in every scene and **changed none of them.**
+Being thrown through a wall twice is not participation. *What is different because he was here?* — if there is
+no answer, he is furniture.
+
+**Paid for by:** an author who had to stop being the error log.
 
 ---
 

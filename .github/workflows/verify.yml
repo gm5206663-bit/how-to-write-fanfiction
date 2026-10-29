@@ -30,6 +30,10 @@ jobs:
           python-version: "3.12"
       - name: Gate selftest (a gate must prove it catches defects)
         run: python3 examples/minigate.py --selftest
+      - name: Claim gate selftest (canon must be checked, not remembered)
+        run: python3 tools/claim_gate.py --selftest
+      - name: Camera gate selftest (voice)
+        run: python3 tools/camera_gate.py --selftest
       - name: Link sweep (every relative link in the guide resolves)
         run: python3 tools/check_links.py
       - name: Manifest (every file hash-matches MANIFEST.sha256)

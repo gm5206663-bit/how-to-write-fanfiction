@@ -1,6 +1,6 @@
-# 01 · The Laws — 42 entries of record (F0–F26 · P12 · N1–N5 · X1–X6 · 7 structural)
+# 01 · The Laws — 49 entries of record (F0–F26 · P12 · N1–N5 · X1–X6 · Y1–Y7 · 7 structural)
 
-**Guide v3.2 · Law revision v5.6 · updated 2026-10-25.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
+**Guide v3.3 · Law revision v5.7 · updated 2026-10-29.** Where this file and any other disagree about what a law says, this file wins. The measured inventory and the two version axes live in [`../VERSION_OF_RECORD.md`](../VERSION_OF_RECORD.md).
 
 ---
 
@@ -296,6 +296,69 @@ room. **So an anime-styled chapter is usually LONGER than a manga-styled one.**
 
 ---
 
+# Group 6 — The Y-series: writing from a source you have not checked
+
+**The F-series governs the story. The N-series governs the sentence. The X-series governs the machine. The
+Y-series governs the evidence.** Written after a serial produced **six canon errors in two chapters** while its
+author believed the source had been checked — because a page fetched last week does not protect a chapter
+written today.
+
+**The one line under all seven:** *you did not check it; you remembered it, and remembering sounds exactly like
+checking.*
+
+### Y1 — Fetch the staging; never interpolate it
+A canon scene is staged from a fetched source. **When two sources differ, an existing ruling decides between
+them — they are never averaged into a third.** An averaged detail exists in neither source and **cannot be
+checked against anything**, which is the definition of an unfalsifiable invention.
+- **Check:** does every staging detail trace to one source, or to a ruling? · **Paid for by:** *Black Clover* —
+  the grimoire came *"up the road"*; **manga: out of a hole in the tower wall. Anime: out of the sky.**
+
+### Y2 — A canon detail carries an id before it enters the prose
+Every fact the chapter spends is registered first — id, statement, source — and the chapter's footer cites the
+id against the line it paid for. **A detail with no id is a detail nobody has checked.**
+- **Check:** `claim_gate` C2 — an id that does not exist, or a quote that is not in the chapter, is a FAIL. ·
+  **Paid for by:** *Black Clover* — the ceremony gave Asta **nothing**, and the chapter had him complaining
+  about a book he would not receive until the evening.
+
+### Y3 — A named spell must exist in the source, and be spoken by its owner
+Invented spell names are the fastest tell. **So is a real spell in the wrong mouth.** A registry of names,
+attributes and owners turns both into a mechanical test.
+- **Check:** `claim_gate` C1. · **Paid for by:** *Black Clover* — a noble casting a spell that has never existed,
+  and the protagonist's signature spell handed to the wrong character.
+
+### Y4 — Nobody narrates what the scene can see
+⭐ **The reader can see it too.** A boy who says *"that was a spell"* one second after his wall went up is not
+talking to the men in the road — he is talking to the reader, and the scene has stopped.
+- **Check:** any dialogue that reports the visible — *that was my magic · it is my book · I did the road*. ·
+  **Paid for by:** *Black Clover* (3 lines cut in one chapter).
+
+### Y5 — The reaction belongs to whoever would actually have it
+The fix for Y4 is not silence — it is **placement**. Give the line to the character who is surprised, angry or
+afraid of it, and the exposition becomes a scene. ⭐ **A professional seeing something he cannot explain is a
+better narrator than a boy explaining himself.**
+- **Check:** who in this scene has a reason to say this, and is it them? · **Paid for by:** *Black Clover* —
+  *"A wall," he says. "You made a wall."* — the thief, not the boy.
+
+### Y6 — The OC changes the scene or is not in it
+An original character who stands in a canon beat and leaves it unchanged is **furniture**. Being hurt is not
+participation; losing is not a contribution. ⭐ **The scene must be different because he was there** — his
+cost, his staging, his aftermath — and the change is logged as a butterfly.
+- **Check:** name what is different after the scene, in one sentence. If you cannot, cut him from it. ·
+  **Paid for by:** *Black Clover* — a chapter where the OC arrived half-way through and was thrown through a
+  wall twice without altering the outcome.
+
+### Y7 — Do not hand a beginner mastery
+A new spell must be as small as the person's experience. **A boy one afternoon into his first book gets one
+page and one wall** — not four named techniques and a garden. ⭐ **Mastery is a story spent over time; granting
+it early is not generosity, it is a debt against the character.**
+- **Check:** what did this character know one scene ago, and does the new spell fit inside it? · **Paid for by:**
+  *Black Clover* — `ICE MAGIC: WHITE GARDEN!` cut down to `ICE MAGIC: ICE WALL`, which breaks the first time
+  it is used.
+
+---
+
+---
+
 # Appendix A — The compressed pin (receipt)
 
 The pin below is the workshop's own compressed storage of the F-series and the structural laws — kept verbatim as a receipt of how the law list was carried between projects. It is *compressed*, not canonical prose: for what each law *means*, read the groups above.
@@ -369,4 +432,4 @@ Correct evolution **per technique** — every lineage distinct, every grade a di
 
 ---
 
-*Law revision v5.4 · 31 entries of record · rebuilt 2026-10-13 from the compressed originals; every law, receipt and author quote preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*
+*Law revision v5.7 · 49 entries of record · rebuilt 2026-10-13 from the compressed originals; every law, receipt and author quote preserved — see [`../DEEP-PASS-2026-10-13.md`](../DEEP-PASS-2026-10-13.md).*

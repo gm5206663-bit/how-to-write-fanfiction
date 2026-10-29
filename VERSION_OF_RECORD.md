@@ -16,16 +16,17 @@ different things.
 
 | Axis | Version of record | What it counts |
 |---|---|---|
-| **Guide edition** | **v3.2** | The shape of this repository — docs 01-12, templates, examples, the scoreboard. Bumps when the *guide* changes. |
-| **Law revision** | **v5.6** | The F-, N- and X-series. Bumps when a *law* is struck, replaced or fused. |
+| **Guide edition** | **v3.3** | The shape of this repository — docs 01-13, templates, examples, the scoreboard. Bumps when the *guide* changes. |
+| **Law revision** | **v5.7** | The F-, N-, X- and Y-series. Bumps when a *law* is struck, replaced or fused. |
 
 So the correct full citation is:
 
-> **Guide edition v3.2, law revision v5.6.**
+> **Guide edition v3.3, law revision v5.7.**
 
 Every "Evolution Chain Fix" tag in the repo refers to the **law** axis, not the
 guide axis. The chain ran v5.0 → v5.1 (evolution chain, no terminal) → v5.2
-(different name per grade) → v5.4 (footwork fusion). There is no v5.3 on record.
+(different name per grade) → v5.4 (footwork fusion) → v5.5 (N-series, register measured off the source)
+→ v5.6 (X-series, manga versus anime) → v5.7 (Y-series, working from a checked source). There is no v5.3 on record.
 
 ### Superseded tags found in the tree
 
